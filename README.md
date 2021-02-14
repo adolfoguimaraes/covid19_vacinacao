@@ -9,8 +9,5 @@ Este repositório contém os códigos que estou utilizando para processar arquiv
 
 
 
-
-Qualquer dúvida nos scripts, entre em contato: 
-* Twitter: https://twitter.com/adolfoguimaraes
-* Instagram: https://instagram.com/profadolfoguimaraes
-* GitHub: https://github.com/adolfoguimaraes
+--
+Desenvolvido por @adolfoguimaraes ([Twitter](https://twitter.com/adolfoguimaraes) | [Instagram](https://instagram.com/profadolfoguimaraes))
