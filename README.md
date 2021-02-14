@@ -4,7 +4,9 @@ Este repositório contém os códigos que estou utilizando para processar arquiv
 
 * [Sergipe](Sergipe/): Scripts para o processamento do arquivo de vacinação do estado de Sergipe. 
 
+<small>
 Qualquer dúvida nos scripts, entre em contato: 
 * Twitter: https://twitter.com/adolfoguimaraes
 * Instagram: https://instagram.com/profadolfoguimaraes
 * GitHub: https://github.com/adolfoguimaraes
+</small>
