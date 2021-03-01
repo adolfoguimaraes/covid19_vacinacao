@@ -6,9 +6,9 @@ Nesta pasta você encontra os scripts e arquivos de entrada e saída dos dados d
 * **data/**: pasta com os arquivos de entrada. É mantido sempre o arquivo mais recente disponibilizado pela secrataria de estado. Atualmente, a pasta possui o arquivo mais recente em formato do excel (datado de 23/02). A partir do dia 24/02, a secretaria passou a divulgar os dados em formato de PDF. Atualmente, o arquivo mais recente divulgado é o do dia 26/02. 
 * **output/**: pasta de saída do csv gerado a partir do arquivo mais recente da pasta data. Atualmente, o csv possui as informações do documento de 26/02.
 
-## Informações do arquivo
+## Informações do arquivo gerado
 
-O documento possui o nome do munícipio e para cada um destes municípios possui informações sobre a população e o quantitativo de doses enviadas e aplicadas para cada um dos grupos vacinados. As informações de cada grupo estão nas colunas do documento disponibilizado pela secretaria. Para facilitar o uso do arquivo e enventual referência das colunas, essa informação foi retirada do nome da coluna e associadas a nomeclatura de grupos. Segue a descrição de cada grupo:
+O **.csv** gerado possui, para cada município (informado na coluna `Municipio`), as informações sobre a população e o quantitativo de doses enviadas e aplicadas para cada um dos grupos vacinados. As informações de cada grupo vacinado estão nas colunas do documento original disponibilizado pela secretaria. Para facilitar o uso do arquivo e enventual referência das colunas, essa informação foi retirada do nome da coluna e associadas a nomenclatura de grupos. Segue a descrição de cada grupo:
 
 * Grupo 1: Trabalhadores da Saúde
 * Grupo 2: Pessoas com 60 anos ou mais e deficientes Institucionalizados
@@ -39,7 +39,7 @@ O arquivo .csv final ficou com as seguintes colunas:
 * **Total_Dose2_Enviadas**
 * **Total_Dose2_Aplicadas**
 
-Os totais de Sergipe e o % de cobertura foram retirados do arquivo final já que são informações que podem ser calculadas com as informações disponibilizadas no arquivo. 
+Os totais de Sergipe e o % de cobertura foram retirados do arquivo final já que são informações que podem ser calculadas com os dados do arquivo.
 
 ---
 Desenvolvido por @adolfoguimaraes ([Twitter](https://twitter.com/adolfoguimaraes) | [Instagram](https://instagram.com/profadolfoguimaraes))
