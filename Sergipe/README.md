@@ -3,8 +3,8 @@
 Nesta pasta você encontra os scripts e arquivos de entrada e saída dos dados de vacinação de Sergipe.
 
 * **ProcessarArquivo_Vacinas.ipynb**: Arquivo com o script de processamento do arquivo do excel e do arquivo em pdf. 
-* **data/**: pasta com os arquivos de entrada. É mantido sempre o arquivo mais recente disponibilizado pela secrataria de estado. Atualmente, a pasta possui o arquivo mais recente em formato do excel (datado de 23/02). A partir do dia 24/02, a secretaria passou a divulgar os dados em formato de PDF. Atualmente, o arquivo mais recente divulgado é o do dia 26/02. 
-* **output/**: pasta de saída do csv gerado a partir do arquivo mais recente da pasta data. Atualmente, o csv possui as informações do documento de 26/02.
+* **data/**: pasta com os arquivos de entrada. É mantido sempre o arquivo mais recente disponibilizado pela secrataria de estado. Atualmente, a pasta possui o arquivo mais recente em formato do excel (datado de 23/02). A partir do dia 24/02, a secretaria passou a divulgar os dados em formato de PDF. Atualmente, o arquivo mais recente divulgado é o do dia 01/03. 
+* **output/**: pasta de saída do csv gerado a partir do arquivo mais recente da pasta data. Atualmente, o csv possui as informações do documento de 01/03.
 
 ## Informações do arquivo gerado
 
