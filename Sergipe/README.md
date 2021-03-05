@@ -3,8 +3,8 @@
 Nesta pasta você encontra os scripts e arquivos de entrada e saída dos dados de vacinação de Sergipe.
 
 * **ProcessarArquivo_Vacinas.ipynb**: Arquivo com o script de processamento do arquivo do excel e do arquivo em pdf. 
-* **data/**: pasta com os arquivos de entrada. É mantido sempre o arquivo mais recente disponibilizado pela secrataria de estado. Atualmente, a pasta possui o arquivo mais recente em formato do excel (datado de 23/02). A partir do dia 24/02, a secretaria passou a divulgar os dados em formato de PDF. Atualmente, o arquivo mais recente divulgado é o do dia 01/03. 
-* **output/**: pasta de saída do csv gerado a partir do arquivo mais recente da pasta data. Atualmente, o csv possui as informações do documento de 01/03.
+* **data/**: pasta com os arquivos de entrada. É mantido sempre o arquivo mais recente disponibilizado pela secrataria de estado. Atualmente, a pasta possui o arquivo mais recente em formato do excel (datado de 23/02). A partir do dia 24/02, a secretaria passou a divulgar os dados em formato de PDF. Atualmente, o arquivo mais recente divulgado é o do dia 01/03. A partir de 03/03, a secretaria voltou a atualização dos dados em excel. A pasta possui o arquivo mais recente de 04/03.
+* **output/**: pasta de saída do csv gerado a partir do arquivo mais recente da pasta data. Atualmente, o csv possui as informações do documento de 04/03.
 
 ## Informações do arquivo gerado
 
@@ -14,6 +14,7 @@ O **.csv** gerado possui, para cada município (informado na coluna `Municipio`)
 * Grupo 2: Pessoas com 60 anos ou mais e deficientes Institucionalizados
 * Grupo 3: Índio Aldeado
 * Grupo 4: Pessoas com 90 ou mais
+* Grupo 5: Idosos de 80 a 89 anos
 
 O arquivo .csv final ficou com as seguintes colunas:
 
@@ -34,6 +35,10 @@ O arquivo .csv final ficou com as seguintes colunas:
 * **Grupo4_DosesEnviadas**
 * **Grupo4_Doses1_Aplicadas**
 * **Grupo4_Doses2_Aplicadas**
+* **Grupo5_DosesEnviadas**,
+* **Grupo5_Doses_Aplicadas_8084**,
+* **Grupo5_Doses_Aplicadas_8589**,
+* **Grupo5_Cobertura**,
 * **Total_Dose1_Enviadas**
 * **Total_Dose1_Aplicadas**
 * **Total_Dose2_Enviadas**
