@@ -70,5 +70,14 @@ O arquivo .csv final ficou com as seguintes colunas:
 
 Os totais de Sergipe e o % de cobertura foram retirados do arquivo final já que são informações que podem ser calculadas com os dados do arquivo.
 
+### Arquivo historico_sergipe.csv
+
+Neste arquivo são armazenadas as informações do histórico de vacinação no estado. Cada linha corresponde a data do boletim divulgado. As colunas possuem as seguintes informações sobre as doses enviadas e aplicadas em todo estado:
+
+* envidas_dose1
+* aplicadas_dose1
+* enviadas_dose2
+* aplicadas_dose2
+
 ---
 Desenvolvido por @adolfoguimaraes ([Twitter](https://twitter.com/adolfoguimaraes) | [Instagram](https://instagram.com/profadolfoguimaraes))
