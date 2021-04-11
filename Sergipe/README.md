@@ -1,49 +1,72 @@
 # Dados da Vacinação de Sergipe
 
-Nesta pasta você encontra os scripts e arquivos de entrada e saída dos dados de vacinação de Sergipe.
+Este repositório armazena scripts e arquivos gerados relacionados à vacinação do estado de Sergipe. 0s arquivos são gerados a partir do arquivo Excel disponiblizado pela Secretaria de Estado da Saúde nos boletins publicados quase que diariamente.
 
-* **ProcessarArquivo_Vacinas.ipynb**: Arquivo com o script de processamento do arquivo do excel e do arquivo em pdf. 
-* **data/**: pasta com os arquivos de entrada. É mantido sempre o arquivo mais recente disponibilizado pela secrataria de estado. Atualmente, a pasta possui o arquivo mais recente em formato do excel (datado de 23/02). A partir do dia 24/02, a secretaria passou a divulgar os dados em formato de PDF. Atualmente, o arquivo mais recente divulgado é o do dia 01/03. A partir de 03/03, a secretaria voltou a atualização dos dados em excel. A pasta possui o arquivo mais recente de 08/03 (com novas modificações na estrutura do excel. Foram incluídas algumas colunas de totais que não foram incluídas no csv final porque são facilmente calculadas com os dados apresentados).
-* **output/**: pasta de saída do csv gerado a partir do arquivo mais recente da pasta data. Atualmente, o csv possui as informações do documento de 08/03.
+Desde do início da divulgação dos dados, a secretaria já usou diferentes tipos de arquivos para dispobibilizar os dados: PDF e Excel. O documento em Excel também já foi publicado com diferentes configurações das colunas. 
+
+A seguir, segue o detalhamento do conteúdo publicado neste repositório. 
+
+* **data/**: arquivos originais publicados pela Secretaria Estadual de Saúde. Eles são a base para gerar os arquivos .csv da pasta **output**.
+
+* **old-notebooks**: notebooks para processar os arquivos antigos disponibilizados pela secretaria. Como teve mudanças constantes no formato e nas informações dos arquivos, novos notebooks foram gerados a cada mudança. Na pasta **Sergipe** está o arquivo mais recente com a indicação **latest** no nome. Os arquivos passados estão nesta pasta com a indicação de versões (v1, v2, v3 ...) no nome. 
+
+* **output/**: pasta de saída dos arquivos processados. Para cada arquivo disponibilizado pela secretaria é gerado um .csv com uma formação padrão para facilitar a leitura por meios automáticos. Esses arquivos estão dentro da pasta **historico/**. A pasta **output** possui também os arquivos:
+    * **historico_sergipe.csv**: quantitativo por dia de doses recebidas e aplicadas.
+    * **historico_vacina_sergipe.csv**: relatório completo mais recente com os número da vacinação por município.
+
+Outros dois arquivos estão na raiz da pasta **Sergipe:**
+
+* **processararquivos_vacina_latest.ipynb**: scripts para processamento do arquivo mais recente disponibilizado pela secretaria. 
+* **processar_historico.ipynb**: script que processa os arquivos .csv gerados para gerar o arquivo com o histórico de doses enviadas e aplicadas por dia. 
+
 
 ## Informações do arquivo gerado
+
+
+### Arquivo relatorio_vacina_sergipe.csv
 
 O **.csv** gerado possui, para cada município (informado na coluna `Municipio`), as informações sobre a população e o quantitativo de doses enviadas e aplicadas para cada um dos grupos vacinados. As informações de cada grupo vacinado estão nas colunas do documento original disponibilizado pela secretaria. Para facilitar o uso do arquivo e enventual referência das colunas, essa informação foi retirada do nome da coluna e associadas a nomenclatura de grupos. Segue a descrição de cada grupo:
 
 * Grupo 1: Trabalhadores da Saúde
 * Grupo 2: Pessoas com 60 anos ou mais e deficientes Institucionalizados
 * Grupo 3: Índio Aldeado
-* Grupo 4: Pessoas com 90 ou mais
-* Grupo 5: Idosos de 78 a 89 anos
+* Grupo 4: Pessoas com 80 anos e mais
+* Grupo 5: Pessoas de 70 a 79 anos (apesar de informar de 70 a 79, até 11/03 apenas acima de 75 tinham sido vacinados).
+* Grupo 6: Pessoas de 60 a 69 anos (apesar de existir essa  coluna, até 11/03 esse grupo não tinha iniciado a vacinação).
+* Grupo 7: Situação de Rua
+* Grupo 8: Quilombolas
+* Grupo 9: Trabalhadores das forças de segurança
 
 O arquivo .csv final ficou com as seguintes colunas:
 
-* **Municipio** 
-* **Grupo1_Populacao**
-* **Grupo1_Dose1_Enviadas**
-* **Grupo1_Dose1_Aplicadas**
-* **Grupo1_Dose2_Enviadas**
-* **Grupo1_Dose2_Aplicadas**
-* **Grupo2_Populacao**
-* **Grupo2_Dose1_Enviadas**
-* **Grupo2_Dose1_Aplicadas**
-* **Grupo2_Dose2_Enviadas**
-* **Grupo2_Dose2_Aplicadas**
-* **Grupo3_Populacao**
-* **Grupo3_Dose1_Aplicadas**
-* **Grupo3_Dose2_Aplicadas**
-* **Grupo4_DosesEnviadas**
-* **Grupo4_Doses1_Aplicadas**
-* **Grupo4_Doses2_Aplicadas**
-* **Grupo5_DosesEnviadas**
-* **Grupo5_Doses_Aplicadas_7879**
-* **Grupo5_Doses_Aplicadas_8084**
-* **Grupo5_Doses_Aplicadas_8589**
-* **Grupo5_Cobertura**,
-* **Total_Dose1_Enviadas**
-* **Total_Dose1_Aplicadas**
-* **Total_Dose2_Enviadas**
-* **Total_Dose2_Aplicadas**
+* codigo_municipio
+* municipio
+* populacao_total
+* populacao_grupo4
+* populacao_grupo5
+* populacao_grupo6
+* enviadas_dose1
+* enviadas_dose2
+* aplicadas_dose1
+* aplicadas_dose2
+* aplicadas_dose1_grupo1
+* aplicadas_dose1_grupo2
+* aplicadas_dose1_grupo3
+* aplicadas_dose1_grupo4
+* aplicadas_dose1_grupo5
+* aplicadas_dose1_grupo6
+* aplicadas_dose1_grupo7
+* aplicadas_dose1_grupo8
+* aplicadas_dose1_grupo9
+* aplicadas_dose2_grupo1
+* aplicadas_dose2_grupo2
+* aplicadas_dose2_grupo3
+* aplicadas_dose2_grupo4
+* aplicadas_dose2_grupo5
+* aplicadas_dose2_grupo6
+* aplicadas_dose2_grupo7
+* aplicadas_dose2_grupo8
+* aplicadas_dose2_grupo9
 
 Os totais de Sergipe e o % de cobertura foram retirados do arquivo final já que são informações que podem ser calculadas com os dados do arquivo.
 
