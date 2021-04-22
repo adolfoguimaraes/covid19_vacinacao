@@ -36,6 +36,9 @@ O **.csv** gerado possui, para cada município (informado na coluna `Municipio`)
 * Grupo 7: Situação de Rua
 * Grupo 8: Quilombolas
 * Grupo 9: Trabalhadores das forças de segurança
+* Grupo 10: Pessoas com Síndrome de Dowm e Autismo
+* Grupo 11: Outros (População vacinada com resíduos de vacinas ao final do dia) 
+
 
 O arquivo .csv final ficou com as seguintes colunas:
 
@@ -58,6 +61,8 @@ O arquivo .csv final ficou com as seguintes colunas:
 * aplicadas_dose1_grupo7
 * aplicadas_dose1_grupo8
 * aplicadas_dose1_grupo9
+* aplicadas_dose1_grupo10
+* aplicadas_dose1_grupo11
 * aplicadas_dose2_grupo1
 * aplicadas_dose2_grupo2
 * aplicadas_dose2_grupo3
@@ -67,6 +72,8 @@ O arquivo .csv final ficou com as seguintes colunas:
 * aplicadas_dose2_grupo7
 * aplicadas_dose2_grupo8
 * aplicadas_dose2_grupo9
+* aplicadas_dose2_grupo10
+* aplicadas_dose2_grupo11
 
 Os totais de Sergipe e o % de cobertura foram retirados do arquivo final já que são informações que podem ser calculadas com os dados do arquivo.
 
