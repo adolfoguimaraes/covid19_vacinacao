@@ -3,8 +3,6 @@
 Este repositório contém os códigos que estou utilizando para processar arquivos relacionados à vacinação da COVID-19. 
 
 * [Sergipe](Sergipe/): Scripts para o processamento do arquivo de vacinação do estado de Sergipe. 
-* [Microdados_SUS](Microdados_SUS/): Scripts para o processamento do arquivo de microdados da vacinação disponibilizados pelo SUS.
-
 
 
 
