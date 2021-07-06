@@ -1,54 +1,55 @@
 dose,grupo,nome_grupo,total
--1,99,Dose única,13853
-1,1,Trabalhadores da Saúde,73466
+-1,99,Dose única,15423
+1,1,Trabalhadores da Saúde,74119
 1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,905
 1,3,Índio Aldeado,278
-1,4,Pessoas com 80 anos e mais,40409
-1,5,Pessoas de 70 a 79 anos,81458
-1,6,Pessoas de 60 a 69 anos,142831
-1,7,Situação de Rua,324
-1,8,Quilombolas,11156
-1,9,Trabalhadores das forças de segurança,8420
-1,10,Pessoas com Síndrome de Dowm e Autismo,1368
-1,12,Puerperas com comorbidade,280
-1,13,Gestante com comorbidade,786
-1,14,Deficiente Permanente,45024
-1,15,Comorbidades,77872
-1,16,Trabalhadores da Educação,36415
+1,4,Pessoas com 80 anos e mais,40428
+1,5,Pessoas de 70 a 79 anos,81493
+1,6,Pessoas de 60 a 69 anos,142969
+1,7,Situação de Rua,335
+1,8,Quilombolas,11157
+1,9,Trabalhadores das forças de segurança,8457
+1,10,Pessoas com Síndrome de Dowm e Autismo,1366
+1,12,Puerperas com comorbidade,289
+1,13,Gestante com comorbidade,806
+1,14,Deficiente Permanente,43441
+1,15,Comorbidades,78834
+1,16,Trabalhadores da Educação,36740
 1,17,Trabalhadores do sistema prisional,827
-1,18,Privados de liberdade,5193
-1,19,Trabalhadores do Transporte aéreo,448
-1,20,Trabalhadores da Limpeza Urbana,4146
-1,21,Trabalhadores do Transporte Coletivo,3840
-1,22,Caminhoneiros,6757
-1,23,População de 55 a 59 anos,121784
-1,24,Trabalhadores da Educação Superior,3150
-1,25,Trabalhadores da Zona Portuária,510
-1,26,Trabalhadores Industriais e Civil,10437
-1,27,População de 50 a 54 anos,41622
-1,28,População de 45 a 49 anos,35602
-1,29,População de 40 a 44 anos,14930
-1,30,Gestantes,3734
-1,31,Puerperas,533
-2,1,Trabalhadores da Saúde,49832
+1,18,Privados de liberdade,5194
+1,19,Trabalhadores do Transporte aéreo,449
+1,20,Trabalhadores da Limpeza Urbana,4078
+1,21,Trabalhadores do Transporte Coletivo,3868
+1,22,Caminhoneiros,6855
+1,23,População de 55 a 59 anos,130116
+1,24,Trabalhadores da Educação Superior,3347
+1,25,Trabalhadores da Zona Portuária,511
+1,26,Trabalhadores Industriais e Civil,11842
+1,27,População de 50 a 54 anos,43519
+1,28,População de 45 a 49 anos,40504
+1,29,População de 40 a 44 anos,23882
+1,30,Gestantes,5106
+1,31,Puerperas,771
+1,32,População de 35 a 39 anos,747
+2,1,Trabalhadores da Saúde,49993
 2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,800
 2,3,Índio Aldeado,276
-2,4,Pessoas com 80 anos e mais,37351
-2,5,Pessoas de 70 a 79 anos,75770
-2,6,Pessoas de 60 a 69 anos,61941
-2,7,Situação de Rua,42
-2,8,Quilombolas,759
-2,9,Trabalhadores das forças de segurança,2988
-2,10,Pessoas com Síndrome de Dowm e Autismo,960
-2,12,Puerperas com comorbidade,8
-2,13,Gestante com comorbidade,34
-2,14,Deficiente Permanente,67
-2,15,Comorbidades,392
+2,4,Pessoas com 80 anos e mais,37686
+2,5,Pessoas de 70 a 79 anos,76322
+2,6,Pessoas de 60 a 69 anos,64895
+2,7,Situação de Rua,43
+2,8,Quilombolas,766
+2,9,Trabalhadores das forças de segurança,2995
+2,10,Pessoas com Síndrome de Dowm e Autismo,965
+2,12,Puerperas com comorbidade,9
+2,13,Gestante com comorbidade,55
+2,14,Deficiente Permanente,0
+2,15,Comorbidades,265
 2,16,Trabalhadores da Educação,0
 2,17,Trabalhadores do sistema prisional,0
 2,18,Privados de liberdade,0
 2,19,Trabalhadores do Transporte aéreo,0
-2,20,Trabalhadores da Limpeza Urbana,0
+2,20,Trabalhadores da Limpeza Urbana,35
 2,21,Trabalhadores do Transporte Coletivo,0
 2,22,Caminhoneiros,0
 2,23,População de 55 a 59 anos,0
@@ -58,5 +59,6 @@ dose,grupo,nome_grupo,total
 2,27,População de 50 a 54 anos,0
 2,28,População de 45 a 49 anos,0
 2,29,População de 40 a 44 anos,0
-2,30,Gestantes,24
-2,31,Puerperas,0
+2,30,Gestantes,12
+2,31,Puerperas,1
+2,32,População de 35 a 39 anos,0
