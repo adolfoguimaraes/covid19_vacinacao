@@ -29,7 +29,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280010,Amparo de São Francisco,-1,32,População de 35 a 39 anos,11
 280010,Amparo de São Francisco,-1,33,População de 30 a 34 anos,3
 280010,Amparo de São Francisco,-1,34,Lactantes,0
-280010,Amparo de São Francisco,-1,99,Dose única,59
 280010,Amparo de São Francisco,1,1,Trabalhadores da Saúde,72
 280010,Amparo de São Francisco,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280010,Amparo de São Francisco,1,3,Índio Aldeado,0
@@ -120,7 +119,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280020,Aquidabã,-1,32,População de 35 a 39 anos,133
 280020,Aquidabã,-1,33,População de 30 a 34 anos,0
 280020,Aquidabã,-1,34,Lactantes,0
-280020,Aquidabã,-1,99,Dose única,420
 280020,Aquidabã,1,1,Trabalhadores da Saúde,473
 280020,Aquidabã,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,18
 280020,Aquidabã,1,3,Índio Aldeado,0
@@ -211,7 +209,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280030,Aracaju,-1,32,População de 35 a 39 anos,0
 280030,Aracaju,-1,33,População de 30 a 34 anos,0
 280030,Aracaju,-1,34,Lactantes,0
-280030,Aracaju,-1,99,Dose única,23300
 280030,Aracaju,1,1,Trabalhadores da Saúde,38488
 280030,Aracaju,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,257
 280030,Aracaju,1,3,Índio Aldeado,0
@@ -302,7 +299,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280040,Arauá,-1,32,População de 35 a 39 anos,0
 280040,Arauá,-1,33,População de 30 a 34 anos,0
 280040,Arauá,-1,34,Lactantes,0
-280040,Arauá,-1,99,Dose única,186
 280040,Arauá,1,1,Trabalhadores da Saúde,171
 280040,Arauá,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280040,Arauá,1,3,Índio Aldeado,0
@@ -393,7 +389,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280050,Areia Branca,-1,32,População de 35 a 39 anos,47
 280050,Areia Branca,-1,33,População de 30 a 34 anos,2
 280050,Areia Branca,-1,34,Lactantes,0
-280050,Areia Branca,-1,99,Dose única,383
 280050,Areia Branca,1,1,Trabalhadores da Saúde,298
 280050,Areia Branca,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280050,Areia Branca,1,3,Índio Aldeado,0
@@ -484,7 +479,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280060,Barra dos Coqueiros,-1,32,População de 35 a 39 anos,3
 280060,Barra dos Coqueiros,-1,33,População de 30 a 34 anos,2
 280060,Barra dos Coqueiros,-1,34,Lactantes,0
-280060,Barra dos Coqueiros,-1,99,Dose única,1791
 280060,Barra dos Coqueiros,1,1,Trabalhadores da Saúde,611
 280060,Barra dos Coqueiros,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280060,Barra dos Coqueiros,1,3,Índio Aldeado,0
@@ -575,7 +569,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280067,Boquim,-1,32,População de 35 a 39 anos,0
 280067,Boquim,-1,33,População de 30 a 34 anos,0
 280067,Boquim,-1,34,Lactantes,0
-280067,Boquim,-1,99,Dose única,506
 280067,Boquim,1,1,Trabalhadores da Saúde,721
 280067,Boquim,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,9
 280067,Boquim,1,3,Índio Aldeado,0
@@ -666,7 +659,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280070,Brejo Grande,-1,32,População de 35 a 39 anos,39
 280070,Brejo Grande,-1,33,População de 30 a 34 anos,4
 280070,Brejo Grande,-1,34,Lactantes,0
-280070,Brejo Grande,-1,99,Dose única,134
 280070,Brejo Grande,1,1,Trabalhadores da Saúde,155
 280070,Brejo Grande,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280070,Brejo Grande,1,3,Índio Aldeado,0
@@ -757,7 +749,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280100,Campo do Brito,-1,32,População de 35 a 39 anos,0
 280100,Campo do Brito,-1,33,População de 30 a 34 anos,0
 280100,Campo do Brito,-1,34,Lactantes,0
-280100,Campo do Brito,-1,99,Dose única,350
 280100,Campo do Brito,1,1,Trabalhadores da Saúde,330
 280100,Campo do Brito,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280100,Campo do Brito,1,3,Índio Aldeado,0
@@ -848,7 +839,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280110,Canhoba,-1,32,População de 35 a 39 anos,0
 280110,Canhoba,-1,33,População de 30 a 34 anos,0
 280110,Canhoba,-1,34,Lactantes,0
-280110,Canhoba,-1,99,Dose única,80
 280110,Canhoba,1,1,Trabalhadores da Saúde,120
 280110,Canhoba,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280110,Canhoba,1,3,Índio Aldeado,0
@@ -939,7 +929,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280120,Canindé de São Francisco,-1,32,População de 35 a 39 anos,0
 280120,Canindé de São Francisco,-1,33,População de 30 a 34 anos,0
 280120,Canindé de São Francisco,-1,34,Lactantes,0
-280120,Canindé de São Francisco,-1,99,Dose única,550
 280120,Canindé de São Francisco,1,1,Trabalhadores da Saúde,581
 280120,Canindé de São Francisco,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280120,Canindé de São Francisco,1,3,Índio Aldeado,0
@@ -1030,7 +1019,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280130,Capela,-1,32,População de 35 a 39 anos,30
 280130,Capela,-1,33,População de 30 a 34 anos,232
 280130,Capela,-1,34,Lactantes,0
-280130,Capela,-1,99,Dose única,672
 280130,Capela,1,1,Trabalhadores da Saúde,834
 280130,Capela,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280130,Capela,1,3,Índio Aldeado,0
@@ -1121,7 +1109,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280140,Carira,-1,32,População de 35 a 39 anos,58
 280140,Carira,-1,33,População de 30 a 34 anos,0
 280140,Carira,-1,34,Lactantes,0
-280140,Carira,-1,99,Dose única,389
 280140,Carira,1,1,Trabalhadores da Saúde,369
 280140,Carira,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280140,Carira,1,3,Índio Aldeado,0
@@ -1212,7 +1199,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280150,Carmópolis,-1,32,População de 35 a 39 anos,68
 280150,Carmópolis,-1,33,População de 30 a 34 anos,0
 280150,Carmópolis,-1,34,Lactantes,0
-280150,Carmópolis,-1,99,Dose única,310
 280150,Carmópolis,1,1,Trabalhadores da Saúde,359
 280150,Carmópolis,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280150,Carmópolis,1,3,Índio Aldeado,0
@@ -1303,7 +1289,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280160,Cedro de São João,-1,32,População de 35 a 39 anos,21
 280160,Cedro de São João,-1,33,População de 30 a 34 anos,0
 280160,Cedro de São João,-1,34,Lactantes,0
-280160,Cedro de São João,-1,99,Dose única,120
 280160,Cedro de São João,1,1,Trabalhadores da Saúde,168
 280160,Cedro de São João,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280160,Cedro de São João,1,3,Índio Aldeado,0
@@ -1394,7 +1379,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280170,Cristinápolis,-1,32,População de 35 a 39 anos,98
 280170,Cristinápolis,-1,33,População de 30 a 34 anos,3
 280170,Cristinápolis,-1,34,Lactantes,0
-280170,Cristinápolis,-1,99,Dose única,329
 280170,Cristinápolis,1,1,Trabalhadores da Saúde,371
 280170,Cristinápolis,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280170,Cristinápolis,1,3,Índio Aldeado,0
@@ -1485,7 +1469,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280190,Cumbe,-1,32,População de 35 a 39 anos,26
 280190,Cumbe,-1,33,População de 30 a 34 anos,0
 280190,Cumbe,-1,34,Lactantes,0
-280190,Cumbe,-1,99,Dose única,90
 280190,Cumbe,1,1,Trabalhadores da Saúde,83
 280190,Cumbe,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280190,Cumbe,1,3,Índio Aldeado,0
@@ -1576,7 +1559,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280200,Divina Pastora,-1,32,População de 35 a 39 anos,38
 280200,Divina Pastora,-1,33,População de 30 a 34 anos,0
 280200,Divina Pastora,-1,34,Lactantes,0
-280200,Divina Pastora,-1,99,Dose única,100
 280200,Divina Pastora,1,1,Trabalhadores da Saúde,174
 280200,Divina Pastora,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280200,Divina Pastora,1,3,Índio Aldeado,0
@@ -1667,7 +1649,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280210,Estância,-1,32,População de 35 a 39 anos,359
 280210,Estância,-1,33,População de 30 a 34 anos,0
 280210,Estância,-1,34,Lactantes,0
-280210,Estância,-1,99,Dose única,5010
 280210,Estância,1,1,Trabalhadores da Saúde,2200
 280210,Estância,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,33
 280210,Estância,1,3,Índio Aldeado,0
@@ -1758,7 +1739,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280220,Feira Nova,-1,32,População de 35 a 39 anos,0
 280220,Feira Nova,-1,33,População de 30 a 34 anos,0
 280220,Feira Nova,-1,34,Lactantes,0
-280220,Feira Nova,-1,99,Dose única,107
 280220,Feira Nova,1,1,Trabalhadores da Saúde,88
 280220,Feira Nova,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280220,Feira Nova,1,3,Índio Aldeado,0
@@ -1849,7 +1829,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280230,Frei Paulo,-1,32,População de 35 a 39 anos,70
 280230,Frei Paulo,-1,33,População de 30 a 34 anos,0
 280230,Frei Paulo,-1,34,Lactantes,0
-280230,Frei Paulo,-1,99,Dose única,300
 280230,Frei Paulo,1,1,Trabalhadores da Saúde,252
 280230,Frei Paulo,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280230,Frei Paulo,1,3,Índio Aldeado,0
@@ -1940,7 +1919,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280240,Gararu,-1,32,População de 35 a 39 anos,2
 280240,Gararu,-1,33,População de 30 a 34 anos,0
 280240,Gararu,-1,34,Lactantes,0
-280240,Gararu,-1,99,Dose única,235
 280240,Gararu,1,1,Trabalhadores da Saúde,173
 280240,Gararu,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280240,Gararu,1,3,Índio Aldeado,0
@@ -2031,7 +2009,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280250,General Maynard,-1,32,População de 35 a 39 anos,0
 280250,General Maynard,-1,33,População de 30 a 34 anos,0
 280250,General Maynard,-1,34,Lactantes,0
-280250,General Maynard,-1,99,Dose única,70
 280250,General Maynard,1,1,Trabalhadores da Saúde,132
 280250,General Maynard,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280250,General Maynard,1,3,Índio Aldeado,0
@@ -2122,7 +2099,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280260,Gracho Cardoso,-1,32,População de 35 a 39 anos,0
 280260,Gracho Cardoso,-1,33,População de 30 a 34 anos,0
 280260,Gracho Cardoso,-1,34,Lactantes,0
-280260,Gracho Cardoso,-1,99,Dose única,136
 280260,Gracho Cardoso,1,1,Trabalhadores da Saúde,147
 280260,Gracho Cardoso,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280260,Gracho Cardoso,1,3,Índio Aldeado,0
@@ -2213,7 +2189,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280270,Ilha das Flores,-1,32,População de 35 a 39 anos,0
 280270,Ilha das Flores,-1,33,População de 30 a 34 anos,0
 280270,Ilha das Flores,-1,34,Lactantes,0
-280270,Ilha das Flores,-1,99,Dose única,150
 280270,Ilha das Flores,1,1,Trabalhadores da Saúde,158
 280270,Ilha das Flores,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280270,Ilha das Flores,1,3,Índio Aldeado,0
@@ -2304,7 +2279,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280280,Indiaroba,-1,32,População de 35 a 39 anos,83
 280280,Indiaroba,-1,33,População de 30 a 34 anos,3
 280280,Indiaroba,-1,34,Lactantes,0
-280280,Indiaroba,-1,99,Dose única,292
 280280,Indiaroba,1,1,Trabalhadores da Saúde,281
 280280,Indiaroba,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280280,Indiaroba,1,3,Índio Aldeado,0
@@ -2395,7 +2369,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280290,Itabaiana,-1,32,População de 35 a 39 anos,0
 280290,Itabaiana,-1,33,População de 30 a 34 anos,0
 280290,Itabaiana,-1,34,Lactantes,0
-280290,Itabaiana,-1,99,Dose única,4819
 280290,Itabaiana,1,1,Trabalhadores da Saúde,3242
 280290,Itabaiana,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,246
 280290,Itabaiana,1,3,Índio Aldeado,0
@@ -2486,7 +2459,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280300,Itabaianinha,-1,32,População de 35 a 39 anos,128
 280300,Itabaianinha,-1,33,População de 30 a 34 anos,48
 280300,Itabaianinha,-1,34,Lactantes,0
-280300,Itabaianinha,-1,99,Dose única,740
 280300,Itabaianinha,1,1,Trabalhadores da Saúde,834
 280300,Itabaianinha,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280300,Itabaianinha,1,3,Índio Aldeado,0
@@ -2577,7 +2549,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280310,Itabi,-1,32,População de 35 a 39 anos,0
 280310,Itabi,-1,33,População de 30 a 34 anos,0
 280310,Itabi,-1,34,Lactantes,0
-280310,Itabi,-1,99,Dose única,111
 280310,Itabi,1,1,Trabalhadores da Saúde,132
 280310,Itabi,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280310,Itabi,1,3,Índio Aldeado,0
@@ -2668,7 +2639,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280320,Itaporanga d'Ajuda,-1,32,População de 35 a 39 anos,25
 280320,Itaporanga d'Ajuda,-1,33,População de 30 a 34 anos,25
 280320,Itaporanga d'Ajuda,-1,34,Lactantes,0
-280320,Itaporanga d'Ajuda,-1,99,Dose única,660
 280320,Itaporanga d'Ajuda,1,1,Trabalhadores da Saúde,725
 280320,Itaporanga d'Ajuda,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280320,Itaporanga d'Ajuda,1,3,Índio Aldeado,0
@@ -2759,7 +2729,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280330,Japaratuba,-1,32,População de 35 a 39 anos,60
 280330,Japaratuba,-1,33,População de 30 a 34 anos,0
 280330,Japaratuba,-1,34,Lactantes,0
-280330,Japaratuba,-1,99,Dose única,350
 280330,Japaratuba,1,1,Trabalhadores da Saúde,353
 280330,Japaratuba,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280330,Japaratuba,1,3,Índio Aldeado,0
@@ -2850,7 +2819,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280340,Japoatã,-1,32,População de 35 a 39 anos,5
 280340,Japoatã,-1,33,População de 30 a 34 anos,0
 280340,Japoatã,-1,34,Lactantes,0
-280340,Japoatã,-1,99,Dose única,283
 280340,Japoatã,1,1,Trabalhadores da Saúde,252
 280340,Japoatã,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280340,Japoatã,1,3,Índio Aldeado,0
@@ -2941,7 +2909,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280350,Lagarto,-1,32,População de 35 a 39 anos,427
 280350,Lagarto,-1,33,População de 30 a 34 anos,0
 280350,Lagarto,-1,34,Lactantes,0
-280350,Lagarto,-1,99,Dose única,5010
 280350,Lagarto,1,1,Trabalhadores da Saúde,4362
 280350,Lagarto,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,50
 280350,Lagarto,1,3,Índio Aldeado,0
@@ -3032,7 +2999,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280360,Laranjeiras,-1,32,População de 35 a 39 anos,369
 280360,Laranjeiras,-1,33,População de 30 a 34 anos,0
 280360,Laranjeiras,-1,34,Lactantes,0
-280360,Laranjeiras,-1,99,Dose única,980
 280360,Laranjeiras,1,1,Trabalhadores da Saúde,620
 280360,Laranjeiras,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280360,Laranjeiras,1,3,Índio Aldeado,0
@@ -3123,7 +3089,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280370,Macambira,-1,32,População de 35 a 39 anos,0
 280370,Macambira,-1,33,População de 30 a 34 anos,0
 280370,Macambira,-1,34,Lactantes,0
-280370,Macambira,-1,99,Dose única,140
 280370,Macambira,1,1,Trabalhadores da Saúde,134
 280370,Macambira,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280370,Macambira,1,3,Índio Aldeado,0
@@ -3214,7 +3179,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280380,Malhada dos Bois,-1,32,População de 35 a 39 anos,0
 280380,Malhada dos Bois,-1,33,População de 30 a 34 anos,0
 280380,Malhada dos Bois,-1,34,Lactantes,0
-280380,Malhada dos Bois,-1,99,Dose única,40
 280380,Malhada dos Bois,1,1,Trabalhadores da Saúde,107
 280380,Malhada dos Bois,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280380,Malhada dos Bois,1,3,Índio Aldeado,0
@@ -3305,7 +3269,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280390,Malhador,-1,32,População de 35 a 39 anos,0
 280390,Malhador,-1,33,População de 30 a 34 anos,0
 280390,Malhador,-1,34,Lactantes,0
-280390,Malhador,-1,99,Dose única,239
 280390,Malhador,1,1,Trabalhadores da Saúde,187
 280390,Malhador,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280390,Malhador,1,3,Índio Aldeado,0
@@ -3396,7 +3359,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280400,Maruim,-1,32,População de 35 a 39 anos,0
 280400,Maruim,-1,33,População de 30 a 34 anos,0
 280400,Maruim,-1,34,Lactantes,0
-280400,Maruim,-1,99,Dose única,330
 280400,Maruim,1,1,Trabalhadores da Saúde,305
 280400,Maruim,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280400,Maruim,1,3,Índio Aldeado,0
@@ -3487,7 +3449,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280410,Moita Bonita,-1,32,População de 35 a 39 anos,68
 280410,Moita Bonita,-1,33,População de 30 a 34 anos,0
 280410,Moita Bonita,-1,34,Lactantes,0
-280410,Moita Bonita,-1,99,Dose única,263
 280410,Moita Bonita,1,1,Trabalhadores da Saúde,191
 280410,Moita Bonita,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280410,Moita Bonita,1,3,Índio Aldeado,0
@@ -3578,7 +3539,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280420,Monte Alegre de Sergipe,-1,32,População de 35 a 39 anos,3
 280420,Monte Alegre de Sergipe,-1,33,População de 30 a 34 anos,0
 280420,Monte Alegre de Sergipe,-1,34,Lactantes,0
-280420,Monte Alegre de Sergipe,-1,99,Dose única,268
 280420,Monte Alegre de Sergipe,1,1,Trabalhadores da Saúde,219
 280420,Monte Alegre de Sergipe,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280420,Monte Alegre de Sergipe,1,3,Índio Aldeado,0
@@ -3669,7 +3629,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280430,Muribeca,-1,32,População de 35 a 39 anos,3
 280430,Muribeca,-1,33,População de 30 a 34 anos,4
 280430,Muribeca,-1,34,Lactantes,0
-280430,Muribeca,-1,99,Dose única,150
 280430,Muribeca,1,1,Trabalhadores da Saúde,167
 280430,Muribeca,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280430,Muribeca,1,3,Índio Aldeado,0
@@ -3760,7 +3719,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280440,Neópolis,-1,32,População de 35 a 39 anos,7
 280440,Neópolis,-1,33,População de 30 a 34 anos,1
 280440,Neópolis,-1,34,Lactantes,0
-280440,Neópolis,-1,99,Dose única,342
 280440,Neópolis,1,1,Trabalhadores da Saúde,449
 280440,Neópolis,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280440,Neópolis,1,3,Índio Aldeado,0
@@ -3851,7 +3809,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280445,Nossa Senhora Aparecida,-1,32,População de 35 a 39 anos,61
 280445,Nossa Senhora Aparecida,-1,33,População de 30 a 34 anos,0
 280445,Nossa Senhora Aparecida,-1,34,Lactantes,0
-280445,Nossa Senhora Aparecida,-1,99,Dose única,206
 280445,Nossa Senhora Aparecida,1,1,Trabalhadores da Saúde,150
 280445,Nossa Senhora Aparecida,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280445,Nossa Senhora Aparecida,1,3,Índio Aldeado,0
@@ -3942,7 +3899,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280450,Nossa Senhora da Glória,-1,32,População de 35 a 39 anos,0
 280450,Nossa Senhora da Glória,-1,33,População de 30 a 34 anos,0
 280450,Nossa Senhora da Glória,-1,34,Lactantes,0
-280450,Nossa Senhora da Glória,-1,99,Dose única,1960
 280450,Nossa Senhora da Glória,1,1,Trabalhadores da Saúde,1023
 280450,Nossa Senhora da Glória,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,22
 280450,Nossa Senhora da Glória,1,3,Índio Aldeado,0
@@ -4033,7 +3989,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280460,Nossa Senhora das Dores,-1,32,População de 35 a 39 anos,5
 280460,Nossa Senhora das Dores,-1,33,População de 30 a 34 anos,0
 280460,Nossa Senhora das Dores,-1,34,Lactantes,0
-280460,Nossa Senhora das Dores,-1,99,Dose única,490
 280460,Nossa Senhora das Dores,1,1,Trabalhadores da Saúde,728
 280460,Nossa Senhora das Dores,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280460,Nossa Senhora das Dores,1,3,Índio Aldeado,0
@@ -4124,7 +4079,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280470,Nossa Senhora de Lourdes,-1,32,População de 35 a 39 anos,0
 280470,Nossa Senhora de Lourdes,-1,33,População de 30 a 34 anos,0
 280470,Nossa Senhora de Lourdes,-1,34,Lactantes,0
-280470,Nossa Senhora de Lourdes,-1,99,Dose única,80
 280470,Nossa Senhora de Lourdes,1,1,Trabalhadores da Saúde,161
 280470,Nossa Senhora de Lourdes,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280470,Nossa Senhora de Lourdes,1,3,Índio Aldeado,0
@@ -4215,7 +4169,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280480,Nossa Senhora do Socorro,-1,32,População de 35 a 39 anos,896
 280480,Nossa Senhora do Socorro,-1,33,População de 30 a 34 anos,1
 280480,Nossa Senhora do Socorro,-1,34,Lactantes,0
-280480,Nossa Senhora do Socorro,-1,99,Dose única,8275
 280480,Nossa Senhora do Socorro,1,1,Trabalhadores da Saúde,2793
 280480,Nossa Senhora do Socorro,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,36
 280480,Nossa Senhora do Socorro,1,3,Índio Aldeado,0
@@ -4306,7 +4259,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280490,Pacatuba,-1,32,População de 35 a 39 anos,0
 280490,Pacatuba,-1,33,População de 30 a 34 anos,0
 280490,Pacatuba,-1,34,Lactantes,0
-280490,Pacatuba,-1,99,Dose única,266
 280490,Pacatuba,1,1,Trabalhadores da Saúde,234
 280490,Pacatuba,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280490,Pacatuba,1,3,Índio Aldeado,0
@@ -4397,7 +4349,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280500,Pedra Mole,-1,32,População de 35 a 39 anos,0
 280500,Pedra Mole,-1,33,População de 30 a 34 anos,0
 280500,Pedra Mole,-1,34,Lactantes,0
-280500,Pedra Mole,-1,99,Dose única,82
 280500,Pedra Mole,1,1,Trabalhadores da Saúde,91
 280500,Pedra Mole,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280500,Pedra Mole,1,3,Índio Aldeado,0
@@ -4488,7 +4439,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280510,Pedrinhas,-1,32,População de 35 a 39 anos,17
 280510,Pedrinhas,-1,33,População de 30 a 34 anos,0
 280510,Pedrinhas,-1,34,Lactantes,0
-280510,Pedrinhas,-1,99,Dose única,181
 280510,Pedrinhas,1,1,Trabalhadores da Saúde,196
 280510,Pedrinhas,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280510,Pedrinhas,1,3,Índio Aldeado,0
@@ -4579,7 +4529,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280520,Pinhão,-1,32,População de 35 a 39 anos,43
 280520,Pinhão,-1,33,População de 30 a 34 anos,0
 280520,Pinhão,-1,34,Lactantes,0
-280520,Pinhão,-1,99,Dose única,138
 280520,Pinhão,1,1,Trabalhadores da Saúde,114
 280520,Pinhão,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280520,Pinhão,1,3,Índio Aldeado,0
@@ -4670,7 +4619,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280530,Pirambu,-1,32,População de 35 a 39 anos,19
 280530,Pirambu,-1,33,População de 30 a 34 anos,0
 280530,Pirambu,-1,34,Lactantes,0
-280530,Pirambu,-1,99,Dose única,146
 280530,Pirambu,1,1,Trabalhadores da Saúde,172
 280530,Pirambu,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280530,Pirambu,1,3,Índio Aldeado,0
@@ -4761,7 +4709,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280540,Poço Redondo,-1,32,População de 35 a 39 anos,113
 280540,Poço Redondo,-1,33,População de 30 a 34 anos,8
 280540,Poço Redondo,-1,34,Lactantes,0
-280540,Poço Redondo,-1,99,Dose única,495
 280540,Poço Redondo,1,1,Trabalhadores da Saúde,494
 280540,Poço Redondo,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280540,Poço Redondo,1,3,Índio Aldeado,0
@@ -4852,7 +4799,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280550,Poço Verde,-1,32,População de 35 a 39 anos,62
 280550,Poço Verde,-1,33,População de 30 a 34 anos,1
 280550,Poço Verde,-1,34,Lactantes,0
-280550,Poço Verde,-1,99,Dose única,416
 280550,Poço Verde,1,1,Trabalhadores da Saúde,426
 280550,Poço Verde,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280550,Poço Verde,1,3,Índio Aldeado,0
@@ -4943,7 +4889,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280560,Porto da Folha,-1,32,População de 35 a 39 anos,0
 280560,Porto da Folha,-1,33,População de 30 a 34 anos,0
 280560,Porto da Folha,-1,34,Lactantes,0
-280560,Porto da Folha,-1,99,Dose única,533
 280560,Porto da Folha,1,1,Trabalhadores da Saúde,512
 280560,Porto da Folha,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280560,Porto da Folha,1,3,Índio Aldeado,278
@@ -5034,7 +4979,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280570,Propriá,-1,32,População de 35 a 39 anos,199
 280570,Propriá,-1,33,População de 30 a 34 anos,0
 280570,Propriá,-1,34,Lactantes,0
-280570,Propriá,-1,99,Dose única,513
 280570,Propriá,1,1,Trabalhadores da Saúde,1174
 280570,Propriá,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,21
 280570,Propriá,1,3,Índio Aldeado,0
@@ -5125,7 +5069,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280580,Riachão do Dantas,-1,32,População de 35 a 39 anos,0
 280580,Riachão do Dantas,-1,33,População de 30 a 34 anos,0
 280580,Riachão do Dantas,-1,34,Lactantes,0
-280580,Riachão do Dantas,-1,99,Dose única,368
 280580,Riachão do Dantas,1,1,Trabalhadores da Saúde,385
 280580,Riachão do Dantas,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280580,Riachão do Dantas,1,3,Índio Aldeado,0
@@ -5216,7 +5159,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280590,Riachuelo,-1,32,População de 35 a 39 anos,42
 280590,Riachuelo,-1,33,População de 30 a 34 anos,1
 280590,Riachuelo,-1,34,Lactantes,0
-280590,Riachuelo,-1,99,Dose única,200
 280590,Riachuelo,1,1,Trabalhadores da Saúde,270
 280590,Riachuelo,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280590,Riachuelo,1,3,Índio Aldeado,0
@@ -5307,7 +5249,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280600,Ribeirópolis,-1,32,População de 35 a 39 anos,0
 280600,Ribeirópolis,-1,33,População de 30 a 34 anos,0
 280600,Ribeirópolis,-1,34,Lactantes,0
-280600,Ribeirópolis,-1,99,Dose única,397
 280600,Ribeirópolis,1,1,Trabalhadores da Saúde,447
 280600,Ribeirópolis,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,48
 280600,Ribeirópolis,1,3,Índio Aldeado,0
@@ -5398,7 +5339,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280610,Rosário do Catete,-1,32,População de 35 a 39 anos,53
 280610,Rosário do Catete,-1,33,População de 30 a 34 anos,13
 280610,Rosário do Catete,-1,34,Lactantes,0
-280610,Rosário do Catete,-1,99,Dose única,216
 280610,Rosário do Catete,1,1,Trabalhadores da Saúde,323
 280610,Rosário do Catete,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280610,Rosário do Catete,1,3,Índio Aldeado,0
@@ -5489,7 +5429,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280620,Salgado,-1,32,População de 35 a 39 anos,0
 280620,Salgado,-1,33,População de 30 a 34 anos,0
 280620,Salgado,-1,34,Lactantes,0
-280620,Salgado,-1,99,Dose única,390
 280620,Salgado,1,1,Trabalhadores da Saúde,328
 280620,Salgado,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280620,Salgado,1,3,Índio Aldeado,0
@@ -5580,7 +5519,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280630,Santa Luzia do Itanhy,-1,32,População de 35 a 39 anos,23
 280630,Santa Luzia do Itanhy,-1,33,População de 30 a 34 anos,35
 280630,Santa Luzia do Itanhy,-1,34,Lactantes,0
-280630,Santa Luzia do Itanhy,-1,99,Dose única,220
 280630,Santa Luzia do Itanhy,1,1,Trabalhadores da Saúde,195
 280630,Santa Luzia do Itanhy,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280630,Santa Luzia do Itanhy,1,3,Índio Aldeado,0
@@ -5671,7 +5609,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280640,Santana do São Francisco,-1,32,População de 35 a 39 anos,1
 280640,Santana do São Francisco,-1,33,População de 30 a 34 anos,0
 280640,Santana do São Francisco,-1,34,Lactantes,0
-280640,Santana do São Francisco,-1,99,Dose única,170
 280640,Santana do São Francisco,1,1,Trabalhadores da Saúde,150
 280640,Santana do São Francisco,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280640,Santana do São Francisco,1,3,Índio Aldeado,0
@@ -5762,7 +5699,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280650,Santa Rosa de Lima,-1,32,População de 35 a 39 anos,6
 280650,Santa Rosa de Lima,-1,33,População de 30 a 34 anos,0
 280650,Santa Rosa de Lima,-1,34,Lactantes,0
-280650,Santa Rosa de Lima,-1,99,Dose única,70
 280650,Santa Rosa de Lima,1,1,Trabalhadores da Saúde,130
 280650,Santa Rosa de Lima,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280650,Santa Rosa de Lima,1,3,Índio Aldeado,0
@@ -5853,7 +5789,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280660,Santo Amaro das Brotas,-1,32,População de 35 a 39 anos,9
 280660,Santo Amaro das Brotas,-1,33,População de 30 a 34 anos,0
 280660,Santo Amaro das Brotas,-1,34,Lactantes,0
-280660,Santo Amaro das Brotas,-1,99,Dose única,250
 280660,Santo Amaro das Brotas,1,1,Trabalhadores da Saúde,184
 280660,Santo Amaro das Brotas,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280660,Santo Amaro das Brotas,1,3,Índio Aldeado,0
@@ -5944,7 +5879,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280670,São Cristóvão,-1,32,População de 35 a 39 anos,551
 280670,São Cristóvão,-1,33,População de 30 a 34 anos,0
 280670,São Cristóvão,-1,34,Lactantes,0
-280670,São Cristóvão,-1,99,Dose única,4769
 280670,São Cristóvão,1,1,Trabalhadores da Saúde,1606
 280670,São Cristóvão,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,27
 280670,São Cristóvão,1,3,Índio Aldeado,0
@@ -6035,7 +5969,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280680,São Domingos,-1,32,População de 35 a 39 anos,0
 280680,São Domingos,-1,33,População de 30 a 34 anos,0
 280680,São Domingos,-1,34,Lactantes,0
-280680,São Domingos,-1,99,Dose única,217
 280680,São Domingos,1,1,Trabalhadores da Saúde,223
 280680,São Domingos,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280680,São Domingos,1,3,Índio Aldeado,0
@@ -6126,7 +6059,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280690,São Francisco,-1,32,População de 35 a 39 anos,0
 280690,São Francisco,-1,33,População de 30 a 34 anos,0
 280690,São Francisco,-1,34,Lactantes,0
-280690,São Francisco,-1,99,Dose única,80
 280690,São Francisco,1,1,Trabalhadores da Saúde,112
 280690,São Francisco,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280690,São Francisco,1,3,Índio Aldeado,0
@@ -6217,7 +6149,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280700,São Miguel do Aleixo,-1,32,População de 35 a 39 anos,1
 280700,São Miguel do Aleixo,-1,33,População de 30 a 34 anos,0
 280700,São Miguel do Aleixo,-1,34,Lactantes,0
-280700,São Miguel do Aleixo,-1,99,Dose única,89
 280700,São Miguel do Aleixo,1,1,Trabalhadores da Saúde,113
 280700,São Miguel do Aleixo,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280700,São Miguel do Aleixo,1,3,Índio Aldeado,0
@@ -6308,7 +6239,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280710,Simão Dias,-1,32,População de 35 a 39 anos,22
 280710,Simão Dias,-1,33,População de 30 a 34 anos,48
 280710,Simão Dias,-1,34,Lactantes,0
-280710,Simão Dias,-1,99,Dose única,2110
 280710,Simão Dias,1,1,Trabalhadores da Saúde,999
 280710,Simão Dias,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,13
 280710,Simão Dias,1,3,Índio Aldeado,0
@@ -6399,7 +6329,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280720,Siriri,-1,32,População de 35 a 39 anos,17
 280720,Siriri,-1,33,População de 30 a 34 anos,0
 280720,Siriri,-1,34,Lactantes,0
-280720,Siriri,-1,99,Dose única,150
 280720,Siriri,1,1,Trabalhadores da Saúde,201
 280720,Siriri,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280720,Siriri,1,3,Índio Aldeado,0
@@ -6490,7 +6419,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280730,Telha,-1,32,População de 35 a 39 anos,0
 280730,Telha,-1,33,População de 30 a 34 anos,0
 280730,Telha,-1,34,Lactantes,0
-280730,Telha,-1,99,Dose única,91
 280730,Telha,1,1,Trabalhadores da Saúde,105
 280730,Telha,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280730,Telha,1,3,Índio Aldeado,0
@@ -6581,7 +6509,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280740,Tobias Barreto,-1,32,População de 35 a 39 anos,42
 280740,Tobias Barreto,-1,33,População de 30 a 34 anos,0
 280740,Tobias Barreto,-1,34,Lactantes,0
-280740,Tobias Barreto,-1,99,Dose única,2347
 280740,Tobias Barreto,1,1,Trabalhadores da Saúde,1667
 280740,Tobias Barreto,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,35
 280740,Tobias Barreto,1,3,Índio Aldeado,0
@@ -6672,7 +6599,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280750,Tomar do Geru,-1,32,População de 35 a 39 anos,139
 280750,Tomar do Geru,-1,33,População de 30 a 34 anos,0
 280750,Tomar do Geru,-1,34,Lactantes,0
-280750,Tomar do Geru,-1,99,Dose única,274
 280750,Tomar do Geru,1,1,Trabalhadores da Saúde,213
 280750,Tomar do Geru,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280750,Tomar do Geru,1,3,Índio Aldeado,0
@@ -6763,7 +6689,6 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280760,Umbaúba,-1,32,População de 35 a 39 anos,116
 280760,Umbaúba,-1,33,População de 30 a 34 anos,34
 280760,Umbaúba,-1,34,Lactantes,0
-280760,Umbaúba,-1,99,Dose única,467
 280760,Umbaúba,1,1,Trabalhadores da Saúde,449
 280760,Umbaúba,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280760,Umbaúba,1,3,Índio Aldeado,0
