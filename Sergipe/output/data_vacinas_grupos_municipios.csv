@@ -69,7 +69,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280010,Amparo de São Francisco,2,8,Quilombolas,136
 280010,Amparo de São Francisco,2,9,Trabalhadores das forças de segurança,18
 280010,Amparo de São Francisco,2,14,Deficiente Permanente,0
-280010,Amparo de São Francisco,2,15,Comorbidades,1
+280010,Amparo de São Francisco,2,15,Comorbidades,2
 280010,Amparo de São Francisco,2,16,Trabalhadores da Educação,2
 280010,Amparo de São Francisco,2,17,Trabalhadores do sistema prisional,0
 280010,Amparo de São Francisco,2,18,Privados de liberdade,0
@@ -77,17 +77,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280010,Amparo de São Francisco,2,20,Trabalhadores da Limpeza Urbana,0
 280010,Amparo de São Francisco,2,21,Trabalhadores do Transporte Coletivo,0
 280010,Amparo de São Francisco,2,22,Caminhoneiros,0
-280010,Amparo de São Francisco,2,23,População de 55 a 59 anos,2
+280010,Amparo de São Francisco,2,23,População de 55 a 59 anos,3
 280010,Amparo de São Francisco,2,24,Trabalhadores da Educação Superior,0
 280010,Amparo de São Francisco,2,25,Trabalhadores da Zona Portuária,0
 280010,Amparo de São Francisco,2,26,Trabalhadores Industriais e Civil,1
-280010,Amparo de São Francisco,2,27,População de 50 a 54 anos,4
-280010,Amparo de São Francisco,2,28,População de 45 a 49 anos,6
-280010,Amparo de São Francisco,2,29,População de 40 a 44 anos,6
+280010,Amparo de São Francisco,2,27,População de 50 a 54 anos,6
+280010,Amparo de São Francisco,2,28,População de 45 a 49 anos,10
+280010,Amparo de São Francisco,2,29,População de 40 a 44 anos,10
 280010,Amparo de São Francisco,2,30,Gestantes,0
 280010,Amparo de São Francisco,2,31,Puerperas,0
-280010,Amparo de São Francisco,2,32,População de 35 a 39 anos,0
-280010,Amparo de São Francisco,2,33,População de 30 a 34 anos,0
+280010,Amparo de São Francisco,2,32,População de 35 a 39 anos,7
+280010,Amparo de São Francisco,2,33,População de 30 a 34 anos,1
 280010,Amparo de São Francisco,2,34,Lactantes,0
 280020,Aquidabã,-1,1,Trabalhadores da Saúde,0
 280020,Aquidabã,-1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
@@ -124,12 +124,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280020,Aquidabã,1,3,Índio Aldeado,0
 280020,Aquidabã,1,4,Pessoas com 80 anos e mais,485
 280020,Aquidabã,1,5,Pessoas de 70 a 79 anos,864
-280020,Aquidabã,1,6,Pessoas de 60 a 69 anos,1421
+280020,Aquidabã,1,6,Pessoas de 60 a 69 anos,1422
 280020,Aquidabã,1,7,Situação de Rua,0
 280020,Aquidabã,1,8,Quilombolas,160
 280020,Aquidabã,1,9,Trabalhadores das forças de segurança,24
 280020,Aquidabã,1,14,Deficiente Permanente,44
-280020,Aquidabã,1,15,Comorbidades,631
+280020,Aquidabã,1,15,Comorbidades,635
 280020,Aquidabã,1,16,Trabalhadores da Educação,807
 280020,Aquidabã,1,17,Trabalhadores do sistema prisional,0
 280020,Aquidabã,1,18,Privados de liberdade,0
@@ -137,28 +137,28 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280020,Aquidabã,1,20,Trabalhadores da Limpeza Urbana,47
 280020,Aquidabã,1,21,Trabalhadores do Transporte Coletivo,42
 280020,Aquidabã,1,22,Caminhoneiros,68
-280020,Aquidabã,1,23,População de 55 a 59 anos,523
+280020,Aquidabã,1,23,População de 55 a 59 anos,526
 280020,Aquidabã,1,24,Trabalhadores da Educação Superior,0
 280020,Aquidabã,1,25,Trabalhadores da Zona Portuária,0
 280020,Aquidabã,1,26,Trabalhadores Industriais e Civil,106
-280020,Aquidabã,1,27,População de 50 a 54 anos,671
-280020,Aquidabã,1,28,População de 45 a 49 anos,785
-280020,Aquidabã,1,29,População de 40 a 44 anos,707
-280020,Aquidabã,1,30,Gestantes,55
+280020,Aquidabã,1,27,População de 50 a 54 anos,674
+280020,Aquidabã,1,28,População de 45 a 49 anos,790
+280020,Aquidabã,1,29,População de 40 a 44 anos,717
+280020,Aquidabã,1,30,Gestantes,57
 280020,Aquidabã,1,31,Puerperas,12
-280020,Aquidabã,1,32,População de 35 a 39 anos,558
-280020,Aquidabã,1,33,População de 30 a 34 anos,127
+280020,Aquidabã,1,32,População de 35 a 39 anos,580
+280020,Aquidabã,1,33,População de 30 a 34 anos,231
 280020,Aquidabã,1,34,Lactantes,3
 280020,Aquidabã,2,1,Trabalhadores da Saúde,386
 280020,Aquidabã,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,17
 280020,Aquidabã,2,3,Índio Aldeado,0
 280020,Aquidabã,2,4,Pessoas com 80 anos e mais,427
 280020,Aquidabã,2,5,Pessoas de 70 a 79 anos,820
-280020,Aquidabã,2,6,Pessoas de 60 a 69 anos,886
+280020,Aquidabã,2,6,Pessoas de 60 a 69 anos,903
 280020,Aquidabã,2,7,Situação de Rua,0
 280020,Aquidabã,2,8,Quilombolas,102
-280020,Aquidabã,2,9,Trabalhadores das forças de segurança,19
-280020,Aquidabã,2,14,Deficiente Permanente,0
+280020,Aquidabã,2,9,Trabalhadores das forças de segurança,21
+280020,Aquidabã,2,14,Deficiente Permanente,1
 280020,Aquidabã,2,15,Comorbidades,9
 280020,Aquidabã,2,16,Trabalhadores da Educação,0
 280020,Aquidabã,2,17,Trabalhadores do sistema prisional,0
@@ -167,13 +167,13 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280020,Aquidabã,2,20,Trabalhadores da Limpeza Urbana,0
 280020,Aquidabã,2,21,Trabalhadores do Transporte Coletivo,0
 280020,Aquidabã,2,22,Caminhoneiros,0
-280020,Aquidabã,2,23,População de 55 a 59 anos,1
+280020,Aquidabã,2,23,População de 55 a 59 anos,3
 280020,Aquidabã,2,24,Trabalhadores da Educação Superior,0
 280020,Aquidabã,2,25,Trabalhadores da Zona Portuária,0
 280020,Aquidabã,2,26,Trabalhadores Industriais e Civil,2
-280020,Aquidabã,2,27,População de 50 a 54 anos,6
-280020,Aquidabã,2,28,População de 45 a 49 anos,4
-280020,Aquidabã,2,29,População de 40 a 44 anos,7
+280020,Aquidabã,2,27,População de 50 a 54 anos,10
+280020,Aquidabã,2,28,População de 45 a 49 anos,8
+280020,Aquidabã,2,29,População de 40 a 44 anos,23
 280020,Aquidabã,2,30,Gestantes,4
 280020,Aquidabã,2,31,Puerperas,2
 280020,Aquidabã,2,32,População de 35 a 39 anos,1
@@ -209,18 +209,18 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280030,Aracaju,-1,32,População de 35 a 39 anos,0
 280030,Aracaju,-1,33,População de 30 a 34 anos,0
 280030,Aracaju,-1,34,Lactantes,0
-280030,Aracaju,1,1,Trabalhadores da Saúde,38488
-280030,Aracaju,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,257
+280030,Aracaju,1,1,Trabalhadores da Saúde,38529
+280030,Aracaju,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,259
 280030,Aracaju,1,3,Índio Aldeado,0
 280030,Aracaju,1,4,Pessoas com 80 anos e mais,11966
 280030,Aracaju,1,5,Pessoas de 70 a 79 anos,25308
 280030,Aracaju,1,6,Pessoas de 60 a 69 anos,47311
 280030,Aracaju,1,7,Situação de Rua,325
 280030,Aracaju,1,8,Quilombolas,203
-280030,Aracaju,1,9,Trabalhadores das forças de segurança,4893
+280030,Aracaju,1,9,Trabalhadores das forças de segurança,4897
 280030,Aracaju,1,14,Deficiente Permanente,0
-280030,Aracaju,1,15,Comorbidades,37887
-280030,Aracaju,1,16,Trabalhadores da Educação,9898
+280030,Aracaju,1,15,Comorbidades,37912
+280030,Aracaju,1,16,Trabalhadores da Educação,9927
 280030,Aracaju,1,17,Trabalhadores do sistema prisional,284
 280030,Aracaju,1,18,Privados de liberdade,630
 280030,Aracaju,1,19,Trabalhadores do Transporte aéreo,450
@@ -230,31 +230,31 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280030,Aracaju,1,23,População de 55 a 59 anos,127426
 280030,Aracaju,1,24,Trabalhadores da Educação Superior,0
 280030,Aracaju,1,25,Trabalhadores da Zona Portuária,0
-280030,Aracaju,1,26,Trabalhadores Industriais e Civil,237
-280030,Aracaju,1,27,População de 50 a 54 anos,0
+280030,Aracaju,1,26,Trabalhadores Industriais e Civil,255
+280030,Aracaju,1,27,População de 50 a 54 anos,1
 280030,Aracaju,1,28,População de 45 a 49 anos,0
-280030,Aracaju,1,29,População de 40 a 44 anos,0
-280030,Aracaju,1,30,Gestantes,2392
+280030,Aracaju,1,29,População de 40 a 44 anos,4
+280030,Aracaju,1,30,Gestantes,2445
 280030,Aracaju,1,31,Puerperas,0
 280030,Aracaju,1,32,População de 35 a 39 anos,0
-280030,Aracaju,1,33,População de 30 a 34 anos,9725
-280030,Aracaju,1,34,Lactantes,0
-280030,Aracaju,2,1,Trabalhadores da Saúde,23948
+280030,Aracaju,1,33,População de 30 a 34 anos,11621
+280030,Aracaju,1,34,Lactantes,2
+280030,Aracaju,2,1,Trabalhadores da Saúde,24080
 280030,Aracaju,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,235
 280030,Aracaju,2,3,Índio Aldeado,0
-280030,Aracaju,2,4,Pessoas com 80 anos e mais,11570
-280030,Aracaju,2,5,Pessoas de 70 a 79 anos,25330
-280030,Aracaju,2,6,Pessoas de 60 a 69 anos,36261
+280030,Aracaju,2,4,Pessoas com 80 anos e mais,11573
+280030,Aracaju,2,5,Pessoas de 70 a 79 anos,25397
+280030,Aracaju,2,6,Pessoas de 60 a 69 anos,36863
 280030,Aracaju,2,7,Situação de Rua,45
 280030,Aracaju,2,8,Quilombolas,138
-280030,Aracaju,2,9,Trabalhadores das forças de segurança,1744
+280030,Aracaju,2,9,Trabalhadores das forças de segurança,1771
 280030,Aracaju,2,14,Deficiente Permanente,0
-280030,Aracaju,2,15,Comorbidades,347
+280030,Aracaju,2,15,Comorbidades,351
 280030,Aracaju,2,16,Trabalhadores da Educação,1
 280030,Aracaju,2,17,Trabalhadores do sistema prisional,0
 280030,Aracaju,2,18,Privados de liberdade,1
 280030,Aracaju,2,19,Trabalhadores do Transporte aéreo,0
-280030,Aracaju,2,20,Trabalhadores da Limpeza Urbana,2
+280030,Aracaju,2,20,Trabalhadores da Limpeza Urbana,3
 280030,Aracaju,2,21,Trabalhadores do Transporte Coletivo,0
 280030,Aracaju,2,22,Caminhoneiros,0
 280030,Aracaju,2,23,População de 55 a 59 anos,0
@@ -392,8 +392,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280050,Areia Branca,1,1,Trabalhadores da Saúde,298
 280050,Areia Branca,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280050,Areia Branca,1,3,Índio Aldeado,0
-280050,Areia Branca,1,4,Pessoas com 80 anos e mais,338
-280050,Areia Branca,1,5,Pessoas de 70 a 79 anos,580
+280050,Areia Branca,1,4,Pessoas com 80 anos e mais,340
+280050,Areia Branca,1,5,Pessoas de 70 a 79 anos,581
 280050,Areia Branca,1,6,Pessoas de 60 a 69 anos,1038
 280050,Areia Branca,1,7,Situação de Rua,1
 280050,Areia Branca,1,8,Quilombolas,0
@@ -407,17 +407,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280050,Areia Branca,1,20,Trabalhadores da Limpeza Urbana,28
 280050,Areia Branca,1,21,Trabalhadores do Transporte Coletivo,24
 280050,Areia Branca,1,22,Caminhoneiros,66
-280050,Areia Branca,1,23,População de 55 a 59 anos,461
+280050,Areia Branca,1,23,População de 55 a 59 anos,462
 280050,Areia Branca,1,24,Trabalhadores da Educação Superior,0
 280050,Areia Branca,1,25,Trabalhadores da Zona Portuária,0
 280050,Areia Branca,1,26,Trabalhadores Industriais e Civil,0
-280050,Areia Branca,1,27,População de 50 a 54 anos,660
-280050,Areia Branca,1,28,População de 45 a 49 anos,683
-280050,Areia Branca,1,29,População de 40 a 44 anos,676
+280050,Areia Branca,1,27,População de 50 a 54 anos,666
+280050,Areia Branca,1,28,População de 45 a 49 anos,684
+280050,Areia Branca,1,29,População de 40 a 44 anos,690
 280050,Areia Branca,1,30,Gestantes,61
 280050,Areia Branca,1,31,Puerperas,13
-280050,Areia Branca,1,32,População de 35 a 39 anos,288
-280050,Areia Branca,1,33,População de 30 a 34 anos,11
+280050,Areia Branca,1,32,População de 35 a 39 anos,312
+280050,Areia Branca,1,33,População de 30 a 34 anos,12
 280050,Areia Branca,1,34,Lactantes,0
 280050,Areia Branca,2,1,Trabalhadores da Saúde,253
 280050,Areia Branca,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
@@ -454,7 +454,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280060,Barra dos Coqueiros,-1,3,Índio Aldeado,0
 280060,Barra dos Coqueiros,-1,4,Pessoas com 80 anos e mais,2
 280060,Barra dos Coqueiros,-1,5,Pessoas de 70 a 79 anos,2
-280060,Barra dos Coqueiros,-1,6,Pessoas de 60 a 69 anos,0
+280060,Barra dos Coqueiros,-1,6,Pessoas de 60 a 69 anos,21
 280060,Barra dos Coqueiros,-1,7,Situação de Rua,0
 280060,Barra dos Coqueiros,-1,8,Quilombolas,136
 280060,Barra dos Coqueiros,-1,9,Trabalhadores das forças de segurança,0
@@ -479,17 +479,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280060,Barra dos Coqueiros,-1,32,População de 35 a 39 anos,3
 280060,Barra dos Coqueiros,-1,33,População de 30 a 34 anos,2
 280060,Barra dos Coqueiros,-1,34,Lactantes,0
-280060,Barra dos Coqueiros,1,1,Trabalhadores da Saúde,611
+280060,Barra dos Coqueiros,1,1,Trabalhadores da Saúde,614
 280060,Barra dos Coqueiros,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280060,Barra dos Coqueiros,1,3,Índio Aldeado,0
 280060,Barra dos Coqueiros,1,4,Pessoas com 80 anos e mais,436
-280060,Barra dos Coqueiros,1,5,Pessoas de 70 a 79 anos,880
-280060,Barra dos Coqueiros,1,6,Pessoas de 60 a 69 anos,1731
+280060,Barra dos Coqueiros,1,5,Pessoas de 70 a 79 anos,881
+280060,Barra dos Coqueiros,1,6,Pessoas de 60 a 69 anos,1737
 280060,Barra dos Coqueiros,1,7,Situação de Rua,1
 280060,Barra dos Coqueiros,1,8,Quilombolas,201
 280060,Barra dos Coqueiros,1,9,Trabalhadores das forças de segurança,85
 280060,Barra dos Coqueiros,1,14,Deficiente Permanente,104
-280060,Barra dos Coqueiros,1,15,Comorbidades,1506
+280060,Barra dos Coqueiros,1,15,Comorbidades,1515
 280060,Barra dos Coqueiros,1,16,Trabalhadores da Educação,565
 280060,Barra dos Coqueiros,1,17,Trabalhadores do sistema prisional,0
 280060,Barra dos Coqueiros,1,18,Privados de liberdade,0
@@ -497,26 +497,26 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280060,Barra dos Coqueiros,1,20,Trabalhadores da Limpeza Urbana,114
 280060,Barra dos Coqueiros,1,21,Trabalhadores do Transporte Coletivo,18
 280060,Barra dos Coqueiros,1,22,Caminhoneiros,3
-280060,Barra dos Coqueiros,1,23,População de 55 a 59 anos,711
+280060,Barra dos Coqueiros,1,23,População de 55 a 59 anos,729
 280060,Barra dos Coqueiros,1,24,Trabalhadores da Educação Superior,0
 280060,Barra dos Coqueiros,1,25,Trabalhadores da Zona Portuária,506
 280060,Barra dos Coqueiros,1,26,Trabalhadores Industriais e Civil,253
-280060,Barra dos Coqueiros,1,27,População de 50 a 54 anos,1039
-280060,Barra dos Coqueiros,1,28,População de 45 a 49 anos,1387
-280060,Barra dos Coqueiros,1,29,População de 40 a 44 anos,890
-280060,Barra dos Coqueiros,1,30,Gestantes,132
-280060,Barra dos Coqueiros,1,31,Puerperas,36
-280060,Barra dos Coqueiros,1,32,População de 35 a 39 anos,3
-280060,Barra dos Coqueiros,1,33,População de 30 a 34 anos,0
-280060,Barra dos Coqueiros,1,34,Lactantes,0
-280060,Barra dos Coqueiros,2,1,Trabalhadores da Saúde,506
+280060,Barra dos Coqueiros,1,27,População de 50 a 54 anos,1070
+280060,Barra dos Coqueiros,1,28,População de 45 a 49 anos,1445
+280060,Barra dos Coqueiros,1,29,População de 40 a 44 anos,1081
+280060,Barra dos Coqueiros,1,30,Gestantes,140
+280060,Barra dos Coqueiros,1,31,Puerperas,37
+280060,Barra dos Coqueiros,1,32,População de 35 a 39 anos,366
+280060,Barra dos Coqueiros,1,33,População de 30 a 34 anos,3
+280060,Barra dos Coqueiros,1,34,Lactantes,12
+280060,Barra dos Coqueiros,2,1,Trabalhadores da Saúde,507
 280060,Barra dos Coqueiros,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280060,Barra dos Coqueiros,2,3,Índio Aldeado,0
 280060,Barra dos Coqueiros,2,4,Pessoas com 80 anos e mais,387
 280060,Barra dos Coqueiros,2,5,Pessoas de 70 a 79 anos,870
-280060,Barra dos Coqueiros,2,6,Pessoas de 60 a 69 anos,1166
+280060,Barra dos Coqueiros,2,6,Pessoas de 60 a 69 anos,1176
 280060,Barra dos Coqueiros,2,7,Situação de Rua,0
-280060,Barra dos Coqueiros,2,8,Quilombolas,5
+280060,Barra dos Coqueiros,2,8,Quilombolas,15
 280060,Barra dos Coqueiros,2,9,Trabalhadores das forças de segurança,39
 280060,Barra dos Coqueiros,2,14,Deficiente Permanente,1
 280060,Barra dos Coqueiros,2,15,Comorbidades,3
@@ -527,17 +527,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280060,Barra dos Coqueiros,2,20,Trabalhadores da Limpeza Urbana,0
 280060,Barra dos Coqueiros,2,21,Trabalhadores do Transporte Coletivo,0
 280060,Barra dos Coqueiros,2,22,Caminhoneiros,0
-280060,Barra dos Coqueiros,2,23,População de 55 a 59 anos,5
+280060,Barra dos Coqueiros,2,23,População de 55 a 59 anos,11
 280060,Barra dos Coqueiros,2,24,Trabalhadores da Educação Superior,0
 280060,Barra dos Coqueiros,2,25,Trabalhadores da Zona Portuária,0
 280060,Barra dos Coqueiros,2,26,Trabalhadores Industriais e Civil,0
-280060,Barra dos Coqueiros,2,27,População de 50 a 54 anos,2
-280060,Barra dos Coqueiros,2,28,População de 45 a 49 anos,5
-280060,Barra dos Coqueiros,2,29,População de 40 a 44 anos,1
+280060,Barra dos Coqueiros,2,27,População de 50 a 54 anos,15
+280060,Barra dos Coqueiros,2,28,População de 45 a 49 anos,44
+280060,Barra dos Coqueiros,2,29,População de 40 a 44 anos,5
 280060,Barra dos Coqueiros,2,30,Gestantes,0
 280060,Barra dos Coqueiros,2,31,Puerperas,0
 280060,Barra dos Coqueiros,2,32,População de 35 a 39 anos,0
-280060,Barra dos Coqueiros,2,33,População de 30 a 34 anos,0
+280060,Barra dos Coqueiros,2,33,População de 30 a 34 anos,1
 280060,Barra dos Coqueiros,2,34,Lactantes,0
 280067,Boquim,-1,1,Trabalhadores da Saúde,0
 280067,Boquim,-1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
@@ -599,17 +599,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280067,Boquim,1,32,População de 35 a 39 anos,212
 280067,Boquim,1,33,População de 30 a 34 anos,0
 280067,Boquim,1,34,Lactantes,2
-280067,Boquim,2,1,Trabalhadores da Saúde,600
+280067,Boquim,2,1,Trabalhadores da Saúde,601
 280067,Boquim,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,9
 280067,Boquim,2,3,Índio Aldeado,0
 280067,Boquim,2,4,Pessoas com 80 anos e mais,525
 280067,Boquim,2,5,Pessoas de 70 a 79 anos,1185
-280067,Boquim,2,6,Pessoas de 60 a 69 anos,951
+280067,Boquim,2,6,Pessoas de 60 a 69 anos,994
 280067,Boquim,2,7,Situação de Rua,0
 280067,Boquim,2,8,Quilombolas,0
-280067,Boquim,2,9,Trabalhadores das forças de segurança,22
+280067,Boquim,2,9,Trabalhadores das forças de segurança,23
 280067,Boquim,2,14,Deficiente Permanente,0
-280067,Boquim,2,15,Comorbidades,62
+280067,Boquim,2,15,Comorbidades,66
 280067,Boquim,2,16,Trabalhadores da Educação,61
 280067,Boquim,2,17,Trabalhadores do sistema prisional,0
 280067,Boquim,2,18,Privados de liberdade,0
@@ -617,11 +617,11 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280067,Boquim,2,20,Trabalhadores da Limpeza Urbana,0
 280067,Boquim,2,21,Trabalhadores do Transporte Coletivo,2
 280067,Boquim,2,22,Caminhoneiros,0
-280067,Boquim,2,23,População de 55 a 59 anos,2
+280067,Boquim,2,23,População de 55 a 59 anos,3
 280067,Boquim,2,24,Trabalhadores da Educação Superior,0
 280067,Boquim,2,25,Trabalhadores da Zona Portuária,0
 280067,Boquim,2,26,Trabalhadores Industriais e Civil,0
-280067,Boquim,2,27,População de 50 a 54 anos,4
+280067,Boquim,2,27,População de 50 a 54 anos,8
 280067,Boquim,2,28,População de 45 a 49 anos,2
 280067,Boquim,2,29,População de 40 a 44 anos,0
 280067,Boquim,2,30,Gestantes,6
@@ -934,39 +934,39 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280120,Canindé de São Francisco,1,3,Índio Aldeado,0
 280120,Canindé de São Francisco,1,4,Pessoas com 80 anos e mais,344
 280120,Canindé de São Francisco,1,5,Pessoas de 70 a 79 anos,818
-280120,Canindé de São Francisco,1,6,Pessoas de 60 a 69 anos,1282
+280120,Canindé de São Francisco,1,6,Pessoas de 60 a 69 anos,1284
 280120,Canindé de São Francisco,1,7,Situação de Rua,0
 280120,Canindé de São Francisco,1,8,Quilombolas,424
 280120,Canindé de São Francisco,1,9,Trabalhadores das forças de segurança,78
 280120,Canindé de São Francisco,1,14,Deficiente Permanente,130
 280120,Canindé de São Francisco,1,15,Comorbidades,1391
-280120,Canindé de São Francisco,1,16,Trabalhadores da Educação,408
+280120,Canindé de São Francisco,1,16,Trabalhadores da Educação,411
 280120,Canindé de São Francisco,1,17,Trabalhadores do sistema prisional,0
 280120,Canindé de São Francisco,1,18,Privados de liberdade,0
 280120,Canindé de São Francisco,1,19,Trabalhadores do Transporte aéreo,0
 280120,Canindé de São Francisco,1,20,Trabalhadores da Limpeza Urbana,64
 280120,Canindé de São Francisco,1,21,Trabalhadores do Transporte Coletivo,21
 280120,Canindé de São Francisco,1,22,Caminhoneiros,64
-280120,Canindé de São Francisco,1,23,População de 55 a 59 anos,593
+280120,Canindé de São Francisco,1,23,População de 55 a 59 anos,595
 280120,Canindé de São Francisco,1,24,Trabalhadores da Educação Superior,20
 280120,Canindé de São Francisco,1,25,Trabalhadores da Zona Portuária,0
 280120,Canindé de São Francisco,1,26,Trabalhadores Industriais e Civil,85
-280120,Canindé de São Francisco,1,27,População de 50 a 54 anos,798
-280120,Canindé de São Francisco,1,28,População de 45 a 49 anos,834
-280120,Canindé de São Francisco,1,29,População de 40 a 44 anos,505
+280120,Canindé de São Francisco,1,27,População de 50 a 54 anos,801
+280120,Canindé de São Francisco,1,28,População de 45 a 49 anos,843
+280120,Canindé de São Francisco,1,29,População de 40 a 44 anos,523
 280120,Canindé de São Francisco,1,30,Gestantes,197
 280120,Canindé de São Francisco,1,31,Puerperas,53
 280120,Canindé de São Francisco,1,32,População de 35 a 39 anos,0
 280120,Canindé de São Francisco,1,33,População de 30 a 34 anos,0
-280120,Canindé de São Francisco,1,34,Lactantes,0
-280120,Canindé de São Francisco,2,1,Trabalhadores da Saúde,401
+280120,Canindé de São Francisco,1,34,Lactantes,9
+280120,Canindé de São Francisco,2,1,Trabalhadores da Saúde,402
 280120,Canindé de São Francisco,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280120,Canindé de São Francisco,2,3,Índio Aldeado,0
 280120,Canindé de São Francisco,2,4,Pessoas com 80 anos e mais,336
 280120,Canindé de São Francisco,2,5,Pessoas de 70 a 79 anos,792
-280120,Canindé de São Francisco,2,6,Pessoas de 60 a 69 anos,627
+280120,Canindé de São Francisco,2,6,Pessoas de 60 a 69 anos,646
 280120,Canindé de São Francisco,2,7,Situação de Rua,0
-280120,Canindé de São Francisco,2,8,Quilombolas,354
+280120,Canindé de São Francisco,2,8,Quilombolas,357
 280120,Canindé de São Francisco,2,9,Trabalhadores das forças de segurança,37
 280120,Canindé de São Francisco,2,14,Deficiente Permanente,3
 280120,Canindé de São Francisco,2,15,Comorbidades,16
@@ -1041,20 +1041,20 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280130,Capela,1,24,Trabalhadores da Educação Superior,0
 280130,Capela,1,25,Trabalhadores da Zona Portuária,0
 280130,Capela,1,26,Trabalhadores Industriais e Civil,229
-280130,Capela,1,27,População de 50 a 54 anos,758
+280130,Capela,1,27,População de 50 a 54 anos,759
 280130,Capela,1,28,População de 45 a 49 anos,940
-280130,Capela,1,29,População de 40 a 44 anos,1179
+280130,Capela,1,29,População de 40 a 44 anos,1183
 280130,Capela,1,30,Gestantes,177
 280130,Capela,1,31,Puerperas,39
 280130,Capela,1,32,População de 35 a 39 anos,1108
-280130,Capela,1,33,População de 30 a 34 anos,611
+280130,Capela,1,33,População de 30 a 34 anos,642
 280130,Capela,1,34,Lactantes,0
 280130,Capela,2,1,Trabalhadores da Saúde,629
 280130,Capela,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280130,Capela,2,3,Índio Aldeado,0
-280130,Capela,2,4,Pessoas com 80 anos e mais,566
-280130,Capela,2,5,Pessoas de 70 a 79 anos,961
-280130,Capela,2,6,Pessoas de 60 a 69 anos,763
+280130,Capela,2,4,Pessoas com 80 anos e mais,568
+280130,Capela,2,5,Pessoas de 70 a 79 anos,964
+280130,Capela,2,6,Pessoas de 60 a 69 anos,805
 280130,Capela,2,7,Situação de Rua,0
 280130,Capela,2,8,Quilombolas,498
 280130,Capela,2,9,Trabalhadores das forças de segurança,39
@@ -1071,7 +1071,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280130,Capela,2,24,Trabalhadores da Educação Superior,0
 280130,Capela,2,25,Trabalhadores da Zona Portuária,0
 280130,Capela,2,26,Trabalhadores Industriais e Civil,0
-280130,Capela,2,27,População de 50 a 54 anos,8
+280130,Capela,2,27,População de 50 a 54 anos,10
 280130,Capela,2,28,População de 45 a 49 anos,12
 280130,Capela,2,29,População de 40 a 44 anos,13
 280130,Capela,2,30,Gestantes,0
@@ -1132,19 +1132,19 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280140,Carira,1,25,Trabalhadores da Zona Portuária,0
 280140,Carira,1,26,Trabalhadores Industriais e Civil,4
 280140,Carira,1,27,População de 50 a 54 anos,587
-280140,Carira,1,28,População de 45 a 49 anos,695
-280140,Carira,1,29,População de 40 a 44 anos,607
+280140,Carira,1,28,População de 45 a 49 anos,696
+280140,Carira,1,29,População de 40 a 44 anos,610
 280140,Carira,1,30,Gestantes,50
 280140,Carira,1,31,Puerperas,26
-280140,Carira,1,32,População de 35 a 39 anos,464
-280140,Carira,1,33,População de 30 a 34 anos,140
+280140,Carira,1,32,População de 35 a 39 anos,468
+280140,Carira,1,33,População de 30 a 34 anos,141
 280140,Carira,1,34,Lactantes,2
-280140,Carira,2,1,Trabalhadores da Saúde,287
+280140,Carira,2,1,Trabalhadores da Saúde,288
 280140,Carira,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280140,Carira,2,3,Índio Aldeado,0
 280140,Carira,2,4,Pessoas com 80 anos e mais,489
-280140,Carira,2,5,Pessoas de 70 a 79 anos,968
-280140,Carira,2,6,Pessoas de 60 a 69 anos,1005
+280140,Carira,2,5,Pessoas de 70 a 79 anos,969
+280140,Carira,2,6,Pessoas de 60 a 69 anos,1011
 280140,Carira,2,7,Situação de Rua,0
 280140,Carira,2,8,Quilombolas,0
 280140,Carira,2,9,Trabalhadores das forças de segurança,11
@@ -1162,7 +1162,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280140,Carira,2,25,Trabalhadores da Zona Portuária,0
 280140,Carira,2,26,Trabalhadores Industriais e Civil,0
 280140,Carira,2,27,População de 50 a 54 anos,0
-280140,Carira,2,28,População de 45 a 49 anos,0
+280140,Carira,2,28,População de 45 a 49 anos,1
 280140,Carira,2,29,População de 40 a 44 anos,0
 280140,Carira,2,30,Gestantes,0
 280140,Carira,2,31,Puerperas,0
@@ -1199,7 +1199,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280150,Carmópolis,-1,32,População de 35 a 39 anos,68
 280150,Carmópolis,-1,33,População de 30 a 34 anos,0
 280150,Carmópolis,-1,34,Lactantes,0
-280150,Carmópolis,1,1,Trabalhadores da Saúde,359
+280150,Carmópolis,1,1,Trabalhadores da Saúde,360
 280150,Carmópolis,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280150,Carmópolis,1,3,Índio Aldeado,0
 280150,Carmópolis,1,4,Pessoas com 80 anos e mais,123
@@ -1209,7 +1209,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280150,Carmópolis,1,8,Quilombolas,0
 280150,Carmópolis,1,9,Trabalhadores das forças de segurança,122
 280150,Carmópolis,1,14,Deficiente Permanente,36
-280150,Carmópolis,1,15,Comorbidades,700
+280150,Carmópolis,1,15,Comorbidades,701
 280150,Carmópolis,1,16,Trabalhadores da Educação,240
 280150,Carmópolis,1,17,Trabalhadores do sistema prisional,0
 280150,Carmópolis,1,18,Privados de liberdade,0
@@ -1222,19 +1222,19 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280150,Carmópolis,1,25,Trabalhadores da Zona Portuária,0
 280150,Carmópolis,1,26,Trabalhadores Industriais e Civil,150
 280150,Carmópolis,1,27,População de 50 a 54 anos,394
-280150,Carmópolis,1,28,População de 45 a 49 anos,422
+280150,Carmópolis,1,28,População de 45 a 49 anos,423
 280150,Carmópolis,1,29,População de 40 a 44 anos,450
-280150,Carmópolis,1,30,Gestantes,47
+280150,Carmópolis,1,30,Gestantes,48
 280150,Carmópolis,1,31,Puerperas,9
-280150,Carmópolis,1,32,População de 35 a 39 anos,268
+280150,Carmópolis,1,32,População de 35 a 39 anos,270
 280150,Carmópolis,1,33,População de 30 a 34 anos,0
-280150,Carmópolis,1,34,Lactantes,0
+280150,Carmópolis,1,34,Lactantes,1
 280150,Carmópolis,2,1,Trabalhadores da Saúde,254
 280150,Carmópolis,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280150,Carmópolis,2,3,Índio Aldeado,0
 280150,Carmópolis,2,4,Pessoas com 80 anos e mais,86
-280150,Carmópolis,2,5,Pessoas de 70 a 79 anos,160
-280150,Carmópolis,2,6,Pessoas de 60 a 69 anos,318
+280150,Carmópolis,2,5,Pessoas de 70 a 79 anos,161
+280150,Carmópolis,2,6,Pessoas de 60 a 69 anos,368
 280150,Carmópolis,2,7,Situação de Rua,0
 280150,Carmópolis,2,8,Quilombolas,0
 280150,Carmópolis,2,9,Trabalhadores das forças de segurança,31
@@ -1289,7 +1289,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280160,Cedro de São João,-1,32,População de 35 a 39 anos,21
 280160,Cedro de São João,-1,33,População de 30 a 34 anos,0
 280160,Cedro de São João,-1,34,Lactantes,0
-280160,Cedro de São João,1,1,Trabalhadores da Saúde,168
+280160,Cedro de São João,1,1,Trabalhadores da Saúde,169
 280160,Cedro de São João,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280160,Cedro de São João,1,3,Índio Aldeado,0
 280160,Cedro de São João,1,4,Pessoas com 80 anos e mais,118
@@ -1300,7 +1300,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280160,Cedro de São João,1,9,Trabalhadores das forças de segurança,9
 280160,Cedro de São João,1,14,Deficiente Permanente,19
 280160,Cedro de São João,1,15,Comorbidades,424
-280160,Cedro de São João,1,16,Trabalhadores da Educação,129
+280160,Cedro de São João,1,16,Trabalhadores da Educação,130
 280160,Cedro de São João,1,17,Trabalhadores do sistema prisional,0
 280160,Cedro de São João,1,18,Privados de liberdade,0
 280160,Cedro de São João,1,19,Trabalhadores do Transporte aéreo,0
@@ -1312,19 +1312,19 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280160,Cedro de São João,1,25,Trabalhadores da Zona Portuária,0
 280160,Cedro de São João,1,26,Trabalhadores Industriais e Civil,0
 280160,Cedro de São João,1,27,População de 50 a 54 anos,201
-280160,Cedro de São João,1,28,População de 45 a 49 anos,220
-280160,Cedro de São João,1,29,População de 40 a 44 anos,171
+280160,Cedro de São João,1,28,População de 45 a 49 anos,221
+280160,Cedro de São João,1,29,População de 40 a 44 anos,172
 280160,Cedro de São João,1,30,Gestantes,8
 280160,Cedro de São João,1,31,Puerperas,1
-280160,Cedro de São João,1,32,População de 35 a 39 anos,100
+280160,Cedro de São João,1,32,População de 35 a 39 anos,104
 280160,Cedro de São João,1,33,População de 30 a 34 anos,0
 280160,Cedro de São João,1,34,Lactantes,0
-280160,Cedro de São João,2,1,Trabalhadores da Saúde,131
+280160,Cedro de São João,2,1,Trabalhadores da Saúde,132
 280160,Cedro de São João,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280160,Cedro de São João,2,3,Índio Aldeado,0
 280160,Cedro de São João,2,4,Pessoas com 80 anos e mais,141
-280160,Cedro de São João,2,5,Pessoas de 70 a 79 anos,306
-280160,Cedro de São João,2,6,Pessoas de 60 a 69 anos,312
+280160,Cedro de São João,2,5,Pessoas de 70 a 79 anos,307
+280160,Cedro de São João,2,6,Pessoas de 60 a 69 anos,332
 280160,Cedro de São João,2,7,Situação de Rua,0
 280160,Cedro de São João,2,8,Quilombolas,0
 280160,Cedro de São João,2,9,Trabalhadores das forças de segurança,7
@@ -1384,7 +1384,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280170,Cristinápolis,1,3,Índio Aldeado,0
 280170,Cristinápolis,1,4,Pessoas com 80 anos e mais,295
 280170,Cristinápolis,1,5,Pessoas de 70 a 79 anos,504
-280170,Cristinápolis,1,6,Pessoas de 60 a 69 anos,820
+280170,Cristinápolis,1,6,Pessoas de 60 a 69 anos,822
 280170,Cristinápolis,1,7,Situação de Rua,0
 280170,Cristinápolis,1,8,Quilombolas,0
 280170,Cristinápolis,1,9,Trabalhadores das forças de segurança,12
@@ -1397,17 +1397,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280170,Cristinápolis,1,20,Trabalhadores da Limpeza Urbana,24
 280170,Cristinápolis,1,21,Trabalhadores do Transporte Coletivo,28
 280170,Cristinápolis,1,22,Caminhoneiros,6
-280170,Cristinápolis,1,23,População de 55 a 59 anos,306
+280170,Cristinápolis,1,23,População de 55 a 59 anos,308
 280170,Cristinápolis,1,24,Trabalhadores da Educação Superior,0
 280170,Cristinápolis,1,25,Trabalhadores da Zona Portuária,0
 280170,Cristinápolis,1,26,Trabalhadores Industriais e Civil,0
-280170,Cristinápolis,1,27,População de 50 a 54 anos,385
-280170,Cristinápolis,1,28,População de 45 a 49 anos,453
-280170,Cristinápolis,1,29,População de 40 a 44 anos,435
+280170,Cristinápolis,1,27,População de 50 a 54 anos,388
+280170,Cristinápolis,1,28,População de 45 a 49 anos,459
+280170,Cristinápolis,1,29,População de 40 a 44 anos,448
 280170,Cristinápolis,1,30,Gestantes,33
 280170,Cristinápolis,1,31,Puerperas,4
-280170,Cristinápolis,1,32,População de 35 a 39 anos,399
-280170,Cristinápolis,1,33,População de 30 a 34 anos,98
+280170,Cristinápolis,1,32,População de 35 a 39 anos,433
+280170,Cristinápolis,1,33,População de 30 a 34 anos,129
 280170,Cristinápolis,1,34,Lactantes,2
 280170,Cristinápolis,2,1,Trabalhadores da Saúde,306
 280170,Cristinápolis,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
@@ -1487,16 +1487,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280190,Cumbe,1,20,Trabalhadores da Limpeza Urbana,7
 280190,Cumbe,1,21,Trabalhadores do Transporte Coletivo,10
 280190,Cumbe,1,22,Caminhoneiros,14
-280190,Cumbe,1,23,População de 55 a 59 anos,124
+280190,Cumbe,1,23,População de 55 a 59 anos,125
 280190,Cumbe,1,24,Trabalhadores da Educação Superior,0
 280190,Cumbe,1,25,Trabalhadores da Zona Portuária,0
 280190,Cumbe,1,26,Trabalhadores Industriais e Civil,2
 280190,Cumbe,1,27,População de 50 a 54 anos,160
 280190,Cumbe,1,28,População de 45 a 49 anos,171
-280190,Cumbe,1,29,População de 40 a 44 anos,165
+280190,Cumbe,1,29,População de 40 a 44 anos,167
 280190,Cumbe,1,30,Gestantes,16
 280190,Cumbe,1,31,Puerperas,2
-280190,Cumbe,1,32,População de 35 a 39 anos,69
+280190,Cumbe,1,32,População de 35 a 39 anos,101
 280190,Cumbe,1,33,População de 30 a 34 anos,0
 280190,Cumbe,1,34,Lactantes,0
 280190,Cumbe,2,1,Trabalhadores da Saúde,77
@@ -1510,7 +1510,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280190,Cumbe,2,9,Trabalhadores das forças de segurança,8
 280190,Cumbe,2,14,Deficiente Permanente,0
 280190,Cumbe,2,15,Comorbidades,0
-280190,Cumbe,2,16,Trabalhadores da Educação,0
+280190,Cumbe,2,16,Trabalhadores da Educação,1
 280190,Cumbe,2,17,Trabalhadores do sistema prisional,0
 280190,Cumbe,2,18,Privados de liberdade,0
 280190,Cumbe,2,19,Trabalhadores do Transporte aéreo,0
@@ -1521,9 +1521,9 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280190,Cumbe,2,24,Trabalhadores da Educação Superior,0
 280190,Cumbe,2,25,Trabalhadores da Zona Portuária,0
 280190,Cumbe,2,26,Trabalhadores Industriais e Civil,0
-280190,Cumbe,2,27,População de 50 a 54 anos,6
-280190,Cumbe,2,28,População de 45 a 49 anos,0
-280190,Cumbe,2,29,População de 40 a 44 anos,7
+280190,Cumbe,2,27,População de 50 a 54 anos,8
+280190,Cumbe,2,28,População de 45 a 49 anos,4
+280190,Cumbe,2,29,População de 40 a 44 anos,12
 280190,Cumbe,2,30,Gestantes,0
 280190,Cumbe,2,31,Puerperas,1
 280190,Cumbe,2,32,População de 35 a 39 anos,0
@@ -1649,18 +1649,18 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280210,Estância,-1,32,População de 35 a 39 anos,359
 280210,Estância,-1,33,População de 30 a 34 anos,0
 280210,Estância,-1,34,Lactantes,0
-280210,Estância,1,1,Trabalhadores da Saúde,2200
+280210,Estância,1,1,Trabalhadores da Saúde,2201
 280210,Estância,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,33
 280210,Estância,1,3,Índio Aldeado,0
 280210,Estância,1,4,Pessoas com 80 anos e mais,1290
 280210,Estância,1,5,Pessoas de 70 a 79 anos,2078
-280210,Estância,1,6,Pessoas de 60 a 69 anos,4149
+280210,Estância,1,6,Pessoas de 60 a 69 anos,4156
 280210,Estância,1,7,Situação de Rua,1
 280210,Estância,1,8,Quilombolas,266
 280210,Estância,1,9,Trabalhadores das forças de segurança,300
 280210,Estância,1,14,Deficiente Permanente,106
-280210,Estância,1,15,Comorbidades,4169
-280210,Estância,1,16,Trabalhadores da Educação,953
+280210,Estância,1,15,Comorbidades,4182
+280210,Estância,1,16,Trabalhadores da Educação,954
 280210,Estância,1,17,Trabalhadores do sistema prisional,118
 280210,Estância,1,18,Privados de liberdade,228
 280210,Estância,1,19,Trabalhadores do Transporte aéreo,0
@@ -1671,25 +1671,25 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280210,Estância,1,24,Trabalhadores da Educação Superior,118
 280210,Estância,1,25,Trabalhadores da Zona Portuária,3
 280210,Estância,1,26,Trabalhadores Industriais e Civil,45
-280210,Estância,1,27,População de 50 a 54 anos,1417
+280210,Estância,1,27,População de 50 a 54 anos,1435
 280210,Estância,1,28,População de 45 a 49 anos,1576
-280210,Estância,1,29,População de 40 a 44 anos,2515
+280210,Estância,1,29,População de 40 a 44 anos,2579
 280210,Estância,1,30,Gestantes,279
 280210,Estância,1,31,Puerperas,111
-280210,Estância,1,32,População de 35 a 39 anos,1611
+280210,Estância,1,32,População de 35 a 39 anos,2203
 280210,Estância,1,33,População de 30 a 34 anos,0
-280210,Estância,1,34,Lactantes,9
+280210,Estância,1,34,Lactantes,12
 280210,Estância,2,1,Trabalhadores da Saúde,1762
 280210,Estância,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,33
 280210,Estância,2,3,Índio Aldeado,0
 280210,Estância,2,4,Pessoas com 80 anos e mais,1278
 280210,Estância,2,5,Pessoas de 70 a 79 anos,2019
-280210,Estância,2,6,Pessoas de 60 a 69 anos,2608
+280210,Estância,2,6,Pessoas de 60 a 69 anos,2770
 280210,Estância,2,7,Situação de Rua,0
 280210,Estância,2,8,Quilombolas,241
 280210,Estância,2,9,Trabalhadores das forças de segurança,123
 280210,Estância,2,14,Deficiente Permanente,0
-280210,Estância,2,15,Comorbidades,43
+280210,Estância,2,15,Comorbidades,60
 280210,Estância,2,16,Trabalhadores da Educação,0
 280210,Estância,2,17,Trabalhadores do sistema prisional,0
 280210,Estância,2,18,Privados de liberdade,0
@@ -1701,8 +1701,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280210,Estância,2,24,Trabalhadores da Educação Superior,0
 280210,Estância,2,25,Trabalhadores da Zona Portuária,0
 280210,Estância,2,26,Trabalhadores Industriais e Civil,0
-280210,Estância,2,27,População de 50 a 54 anos,70
-280210,Estância,2,28,População de 45 a 49 anos,60
+280210,Estância,2,27,População de 50 a 54 anos,82
+280210,Estância,2,28,População de 45 a 49 anos,85
 280210,Estância,2,29,População de 40 a 44 anos,83
 280210,Estância,2,30,Gestantes,0
 280210,Estância,2,31,Puerperas,0
@@ -1740,7 +1740,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280220,Feira Nova,-1,33,População de 30 a 34 anos,0
 280220,Feira Nova,-1,34,Lactantes,0
 280220,Feira Nova,1,1,Trabalhadores da Saúde,88
-280220,Feira Nova,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
+280220,Feira Nova,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,1
 280220,Feira Nova,1,3,Índio Aldeado,0
 280220,Feira Nova,1,4,Pessoas com 80 anos e mais,108
 280220,Feira Nova,1,5,Pessoas de 70 a 79 anos,213
@@ -1769,12 +1769,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280220,Feira Nova,1,32,População de 35 a 39 anos,22
 280220,Feira Nova,1,33,População de 30 a 34 anos,0
 280220,Feira Nova,1,34,Lactantes,0
-280220,Feira Nova,2,1,Trabalhadores da Saúde,80
+280220,Feira Nova,2,1,Trabalhadores da Saúde,89
 280220,Feira Nova,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280220,Feira Nova,2,3,Índio Aldeado,0
 280220,Feira Nova,2,4,Pessoas com 80 anos e mais,108
-280220,Feira Nova,2,5,Pessoas de 70 a 79 anos,208
-280220,Feira Nova,2,6,Pessoas de 60 a 69 anos,271
+280220,Feira Nova,2,5,Pessoas de 70 a 79 anos,209
+280220,Feira Nova,2,6,Pessoas de 60 a 69 anos,280
 280220,Feira Nova,2,7,Situação de Rua,0
 280220,Feira Nova,2,8,Quilombolas,0
 280220,Feira Nova,2,9,Trabalhadores das forças de segurança,8
@@ -1787,12 +1787,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280220,Feira Nova,2,20,Trabalhadores da Limpeza Urbana,0
 280220,Feira Nova,2,21,Trabalhadores do Transporte Coletivo,0
 280220,Feira Nova,2,22,Caminhoneiros,0
-280220,Feira Nova,2,23,População de 55 a 59 anos,0
+280220,Feira Nova,2,23,População de 55 a 59 anos,1
 280220,Feira Nova,2,24,Trabalhadores da Educação Superior,0
 280220,Feira Nova,2,25,Trabalhadores da Zona Portuária,0
 280220,Feira Nova,2,26,Trabalhadores Industriais e Civil,0
 280220,Feira Nova,2,27,População de 50 a 54 anos,1
-280220,Feira Nova,2,28,População de 45 a 49 anos,0
+280220,Feira Nova,2,28,População de 45 a 49 anos,1
 280220,Feira Nova,2,29,População de 40 a 44 anos,0
 280220,Feira Nova,2,30,Gestantes,0
 280220,Feira Nova,2,31,Puerperas,0
@@ -1864,7 +1864,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280230,Frei Paulo,2,3,Índio Aldeado,0
 280230,Frei Paulo,2,4,Pessoas com 80 anos e mais,294
 280230,Frei Paulo,2,5,Pessoas de 70 a 79 anos,583
-280230,Frei Paulo,2,6,Pessoas de 60 a 69 anos,736
+280230,Frei Paulo,2,6,Pessoas de 60 a 69 anos,743
 280230,Frei Paulo,2,7,Situação de Rua,0
 280230,Frei Paulo,2,8,Quilombolas,169
 280230,Frei Paulo,2,9,Trabalhadores das forças de segurança,9
@@ -1924,7 +1924,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280240,Gararu,1,3,Índio Aldeado,0
 280240,Gararu,1,4,Pessoas com 80 anos e mais,257
 280240,Gararu,1,5,Pessoas de 70 a 79 anos,520
-280240,Gararu,1,6,Pessoas de 60 a 69 anos,738
+280240,Gararu,1,6,Pessoas de 60 a 69 anos,739
 280240,Gararu,1,7,Situação de Rua,0
 280240,Gararu,1,8,Quilombolas,0
 280240,Gararu,1,9,Trabalhadores das forças de segurança,15
@@ -1937,16 +1937,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280240,Gararu,1,20,Trabalhadores da Limpeza Urbana,14
 280240,Gararu,1,21,Trabalhadores do Transporte Coletivo,15
 280240,Gararu,1,22,Caminhoneiros,6
-280240,Gararu,1,23,População de 55 a 59 anos,436
+280240,Gararu,1,23,População de 55 a 59 anos,438
 280240,Gararu,1,24,Trabalhadores da Educação Superior,0
 280240,Gararu,1,25,Trabalhadores da Zona Portuária,0
 280240,Gararu,1,26,Trabalhadores Industriais e Civil,51
-280240,Gararu,1,27,População de 50 a 54 anos,480
-280240,Gararu,1,28,População de 45 a 49 anos,492
-280240,Gararu,1,29,População de 40 a 44 anos,431
+280240,Gararu,1,27,População de 50 a 54 anos,483
+280240,Gararu,1,28,População de 45 a 49 anos,497
+280240,Gararu,1,29,População de 40 a 44 anos,441
 280240,Gararu,1,30,Gestantes,22
 280240,Gararu,1,31,Puerperas,6
-280240,Gararu,1,32,População de 35 a 39 anos,157
+280240,Gararu,1,32,População de 35 a 39 anos,164
 280240,Gararu,1,33,População de 30 a 34 anos,0
 280240,Gararu,1,34,Lactantes,0
 280240,Gararu,2,1,Trabalhadores da Saúde,134
@@ -2039,33 +2039,33 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280250,General Maynard,1,32,População de 35 a 39 anos,0
 280250,General Maynard,1,33,População de 30 a 34 anos,0
 280250,General Maynard,1,34,Lactantes,0
-280250,General Maynard,2,1,Trabalhadores da Saúde,98
+280250,General Maynard,2,1,Trabalhadores da Saúde,103
 280250,General Maynard,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280250,General Maynard,2,3,Índio Aldeado,0
 280250,General Maynard,2,4,Pessoas com 80 anos e mais,50
 280250,General Maynard,2,5,Pessoas de 70 a 79 anos,106
-280250,General Maynard,2,6,Pessoas de 60 a 69 anos,117
+280250,General Maynard,2,6,Pessoas de 60 a 69 anos,160
 280250,General Maynard,2,7,Situação de Rua,0
 280250,General Maynard,2,8,Quilombolas,0
-280250,General Maynard,2,9,Trabalhadores das forças de segurança,3
+280250,General Maynard,2,9,Trabalhadores das forças de segurança,21
 280250,General Maynard,2,14,Deficiente Permanente,0
-280250,General Maynard,2,15,Comorbidades,2
-280250,General Maynard,2,16,Trabalhadores da Educação,0
+280250,General Maynard,2,15,Comorbidades,3
+280250,General Maynard,2,16,Trabalhadores da Educação,1
 280250,General Maynard,2,17,Trabalhadores do sistema prisional,0
 280250,General Maynard,2,18,Privados de liberdade,0
 280250,General Maynard,2,19,Trabalhadores do Transporte aéreo,0
 280250,General Maynard,2,20,Trabalhadores da Limpeza Urbana,0
 280250,General Maynard,2,21,Trabalhadores do Transporte Coletivo,0
-280250,General Maynard,2,22,Caminhoneiros,0
-280250,General Maynard,2,23,População de 55 a 59 anos,0
+280250,General Maynard,2,22,Caminhoneiros,2
+280250,General Maynard,2,23,População de 55 a 59 anos,1
 280250,General Maynard,2,24,Trabalhadores da Educação Superior,0
 280250,General Maynard,2,25,Trabalhadores da Zona Portuária,0
 280250,General Maynard,2,26,Trabalhadores Industriais e Civil,0
-280250,General Maynard,2,27,População de 50 a 54 anos,0
-280250,General Maynard,2,28,População de 45 a 49 anos,0
+280250,General Maynard,2,27,População de 50 a 54 anos,11
+280250,General Maynard,2,28,População de 45 a 49 anos,26
 280250,General Maynard,2,29,População de 40 a 44 anos,0
-280250,General Maynard,2,30,Gestantes,0
-280250,General Maynard,2,31,Puerperas,0
+280250,General Maynard,2,30,Gestantes,1
+280250,General Maynard,2,31,Puerperas,4
 280250,General Maynard,2,32,População de 35 a 39 anos,0
 280250,General Maynard,2,33,População de 30 a 34 anos,0
 280250,General Maynard,2,34,Lactantes,0
@@ -2189,44 +2189,44 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280270,Ilha das Flores,-1,32,População de 35 a 39 anos,0
 280270,Ilha das Flores,-1,33,População de 30 a 34 anos,0
 280270,Ilha das Flores,-1,34,Lactantes,0
-280270,Ilha das Flores,1,1,Trabalhadores da Saúde,158
+280270,Ilha das Flores,1,1,Trabalhadores da Saúde,159
 280270,Ilha das Flores,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280270,Ilha das Flores,1,3,Índio Aldeado,0
 280270,Ilha das Flores,1,4,Pessoas com 80 anos e mais,191
-280270,Ilha das Flores,1,5,Pessoas de 70 a 79 anos,281
-280270,Ilha das Flores,1,6,Pessoas de 60 a 69 anos,531
+280270,Ilha das Flores,1,5,Pessoas de 70 a 79 anos,282
+280270,Ilha das Flores,1,6,Pessoas de 60 a 69 anos,532
 280270,Ilha das Flores,1,7,Situação de Rua,0
 280270,Ilha das Flores,1,8,Quilombolas,322
 280270,Ilha das Flores,1,9,Trabalhadores das forças de segurança,13
-280270,Ilha das Flores,1,14,Deficiente Permanente,73
-280270,Ilha das Flores,1,15,Comorbidades,336
-280270,Ilha das Flores,1,16,Trabalhadores da Educação,186
+280270,Ilha das Flores,1,14,Deficiente Permanente,74
+280270,Ilha das Flores,1,15,Comorbidades,337
+280270,Ilha das Flores,1,16,Trabalhadores da Educação,188
 280270,Ilha das Flores,1,17,Trabalhadores do sistema prisional,0
 280270,Ilha das Flores,1,18,Privados de liberdade,0
 280270,Ilha das Flores,1,19,Trabalhadores do Transporte aéreo,0
 280270,Ilha das Flores,1,20,Trabalhadores da Limpeza Urbana,13
 280270,Ilha das Flores,1,21,Trabalhadores do Transporte Coletivo,5
 280270,Ilha das Flores,1,22,Caminhoneiros,7
-280270,Ilha das Flores,1,23,População de 55 a 59 anos,205
+280270,Ilha das Flores,1,23,População de 55 a 59 anos,207
 280270,Ilha das Flores,1,24,Trabalhadores da Educação Superior,0
 280270,Ilha das Flores,1,25,Trabalhadores da Zona Portuária,0
 280270,Ilha das Flores,1,26,Trabalhadores Industriais e Civil,0
-280270,Ilha das Flores,1,27,População de 50 a 54 anos,214
-280270,Ilha das Flores,1,28,População de 45 a 49 anos,237
-280270,Ilha das Flores,1,29,População de 40 a 44 anos,178
+280270,Ilha das Flores,1,27,População de 50 a 54 anos,217
+280270,Ilha das Flores,1,28,População de 45 a 49 anos,245
+280270,Ilha das Flores,1,29,População de 40 a 44 anos,222
 280270,Ilha das Flores,1,30,Gestantes,28
 280270,Ilha das Flores,1,31,Puerperas,12
-280270,Ilha das Flores,1,32,População de 35 a 39 anos,1
+280270,Ilha das Flores,1,32,População de 35 a 39 anos,3
 280270,Ilha das Flores,1,33,População de 30 a 34 anos,0
-280270,Ilha das Flores,1,34,Lactantes,0
+280270,Ilha das Flores,1,34,Lactantes,1
 280270,Ilha das Flores,2,1,Trabalhadores da Saúde,111
 280270,Ilha das Flores,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280270,Ilha das Flores,2,3,Índio Aldeado,0
 280270,Ilha das Flores,2,4,Pessoas com 80 anos e mais,177
-280270,Ilha das Flores,2,5,Pessoas de 70 a 79 anos,262
-280270,Ilha das Flores,2,6,Pessoas de 60 a 69 anos,188
+280270,Ilha das Flores,2,5,Pessoas de 70 a 79 anos,263
+280270,Ilha das Flores,2,6,Pessoas de 60 a 69 anos,189
 280270,Ilha das Flores,2,7,Situação de Rua,0
-280270,Ilha das Flores,2,8,Quilombolas,278
+280270,Ilha das Flores,2,8,Quilombolas,283
 280270,Ilha das Flores,2,9,Trabalhadores das forças de segurança,6
 280270,Ilha das Flores,2,14,Deficiente Permanente,0
 280270,Ilha das Flores,2,15,Comorbidades,3
@@ -2288,8 +2288,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280280,Indiaroba,1,7,Situação de Rua,0
 280280,Indiaroba,1,8,Quilombolas,137
 280280,Indiaroba,1,9,Trabalhadores das forças de segurança,56
-280280,Indiaroba,1,14,Deficiente Permanente,45
-280280,Indiaroba,1,15,Comorbidades,458
+280280,Indiaroba,1,14,Deficiente Permanente,46
+280280,Indiaroba,1,15,Comorbidades,460
 280280,Indiaroba,1,16,Trabalhadores da Educação,380
 280280,Indiaroba,1,17,Trabalhadores do sistema prisional,4
 280280,Indiaroba,1,18,Privados de liberdade,0
@@ -2297,16 +2297,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280280,Indiaroba,1,20,Trabalhadores da Limpeza Urbana,28
 280280,Indiaroba,1,21,Trabalhadores do Transporte Coletivo,5
 280280,Indiaroba,1,22,Caminhoneiros,1
-280280,Indiaroba,1,23,População de 55 a 59 anos,458
+280280,Indiaroba,1,23,População de 55 a 59 anos,467
 280280,Indiaroba,1,24,Trabalhadores da Educação Superior,0
 280280,Indiaroba,1,25,Trabalhadores da Zona Portuária,0
 280280,Indiaroba,1,26,Trabalhadores Industriais e Civil,5
-280280,Indiaroba,1,27,População de 50 a 54 anos,521
-280280,Indiaroba,1,28,População de 45 a 49 anos,538
-280280,Indiaroba,1,29,População de 40 a 44 anos,602
+280280,Indiaroba,1,27,População de 50 a 54 anos,531
+280280,Indiaroba,1,28,População de 45 a 49 anos,551
+280280,Indiaroba,1,29,População de 40 a 44 anos,610
 280280,Indiaroba,1,30,Gestantes,38
 280280,Indiaroba,1,31,Puerperas,13
-280280,Indiaroba,1,32,População de 35 a 39 anos,275
+280280,Indiaroba,1,32,População de 35 a 39 anos,296
 280280,Indiaroba,1,33,População de 30 a 34 anos,16
 280280,Indiaroba,1,34,Lactantes,0
 280280,Indiaroba,2,1,Trabalhadores da Saúde,228
@@ -2327,15 +2327,15 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280280,Indiaroba,2,20,Trabalhadores da Limpeza Urbana,0
 280280,Indiaroba,2,21,Trabalhadores do Transporte Coletivo,0
 280280,Indiaroba,2,22,Caminhoneiros,0
-280280,Indiaroba,2,23,População de 55 a 59 anos,0
+280280,Indiaroba,2,23,População de 55 a 59 anos,1
 280280,Indiaroba,2,24,Trabalhadores da Educação Superior,0
 280280,Indiaroba,2,25,Trabalhadores da Zona Portuária,0
 280280,Indiaroba,2,26,Trabalhadores Industriais e Civil,0
-280280,Indiaroba,2,27,População de 50 a 54 anos,0
-280280,Indiaroba,2,28,População de 45 a 49 anos,0
-280280,Indiaroba,2,29,População de 40 a 44 anos,0
+280280,Indiaroba,2,27,População de 50 a 54 anos,1
+280280,Indiaroba,2,28,População de 45 a 49 anos,4
+280280,Indiaroba,2,29,População de 40 a 44 anos,9
 280280,Indiaroba,2,30,Gestantes,0
-280280,Indiaroba,2,31,Puerperas,0
+280280,Indiaroba,2,31,Puerperas,1
 280280,Indiaroba,2,32,População de 35 a 39 anos,0
 280280,Indiaroba,2,33,População de 30 a 34 anos,0
 280280,Indiaroba,2,34,Lactantes,0
@@ -2387,42 +2387,42 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280290,Itabaiana,1,20,Trabalhadores da Limpeza Urbana,261
 280290,Itabaiana,1,21,Trabalhadores do Transporte Coletivo,76
 280290,Itabaiana,1,22,Caminhoneiros,1973
-280290,Itabaiana,1,23,População de 55 a 59 anos,2736
+280290,Itabaiana,1,23,População de 55 a 59 anos,2739
 280290,Itabaiana,1,24,Trabalhadores da Educação Superior,770
 280290,Itabaiana,1,25,Trabalhadores da Zona Portuária,0
 280290,Itabaiana,1,26,Trabalhadores Industriais e Civil,1130
-280290,Itabaiana,1,27,População de 50 a 54 anos,2894
-280290,Itabaiana,1,28,População de 45 a 49 anos,2311
-280290,Itabaiana,1,29,População de 40 a 44 anos,2835
+280290,Itabaiana,1,27,População de 50 a 54 anos,2900
+280290,Itabaiana,1,28,População de 45 a 49 anos,2313
+280290,Itabaiana,1,29,População de 40 a 44 anos,2839
 280290,Itabaiana,1,30,Gestantes,377
 280290,Itabaiana,1,31,Puerperas,67
 280290,Itabaiana,1,32,População de 35 a 39 anos,0
 280290,Itabaiana,1,33,População de 30 a 34 anos,0
 280290,Itabaiana,1,34,Lactantes,0
-280290,Itabaiana,2,1,Trabalhadores da Saúde,2004
+280290,Itabaiana,2,1,Trabalhadores da Saúde,2007
 280290,Itabaiana,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,230
 280290,Itabaiana,2,3,Índio Aldeado,0
 280290,Itabaiana,2,4,Pessoas com 80 anos e mais,1716
-280290,Itabaiana,2,5,Pessoas de 70 a 79 anos,3403
-280290,Itabaiana,2,6,Pessoas de 60 a 69 anos,3127
+280290,Itabaiana,2,5,Pessoas de 70 a 79 anos,3407
+280290,Itabaiana,2,6,Pessoas de 60 a 69 anos,3167
 280290,Itabaiana,2,7,Situação de Rua,9
 280290,Itabaiana,2,8,Quilombolas,0
 280290,Itabaiana,2,9,Trabalhadores das forças de segurança,121
 280290,Itabaiana,2,14,Deficiente Permanente,2
 280290,Itabaiana,2,15,Comorbidades,49
-280290,Itabaiana,2,16,Trabalhadores da Educação,11
+280290,Itabaiana,2,16,Trabalhadores da Educação,12
 280290,Itabaiana,2,17,Trabalhadores do sistema prisional,0
 280290,Itabaiana,2,18,Privados de liberdade,0
 280290,Itabaiana,2,19,Trabalhadores do Transporte aéreo,0
 280290,Itabaiana,2,20,Trabalhadores da Limpeza Urbana,0
 280290,Itabaiana,2,21,Trabalhadores do Transporte Coletivo,0
-280290,Itabaiana,2,22,Caminhoneiros,3
+280290,Itabaiana,2,22,Caminhoneiros,4
 280290,Itabaiana,2,23,População de 55 a 59 anos,20
 280290,Itabaiana,2,24,Trabalhadores da Educação Superior,0
 280290,Itabaiana,2,25,Trabalhadores da Zona Portuária,0
 280290,Itabaiana,2,26,Trabalhadores Industriais e Civil,0
-280290,Itabaiana,2,27,População de 50 a 54 anos,138
-280290,Itabaiana,2,28,População de 45 a 49 anos,104
+280290,Itabaiana,2,27,População de 50 a 54 anos,142
+280290,Itabaiana,2,28,População de 45 a 49 anos,108
 280290,Itabaiana,2,29,População de 40 a 44 anos,4
 280290,Itabaiana,2,30,Gestantes,3
 280290,Itabaiana,2,31,Puerperas,1
@@ -2463,8 +2463,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280300,Itabaianinha,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280300,Itabaianinha,1,3,Índio Aldeado,0
 280300,Itabaianinha,1,4,Pessoas com 80 anos e mais,697
-280300,Itabaianinha,1,5,Pessoas de 70 a 79 anos,1429
-280300,Itabaianinha,1,6,Pessoas de 60 a 69 anos,2276
+280300,Itabaianinha,1,5,Pessoas de 70 a 79 anos,1431
+280300,Itabaianinha,1,6,Pessoas de 60 a 69 anos,2278
 280300,Itabaianinha,1,7,Situação de Rua,2
 280300,Itabaianinha,1,8,Quilombolas,0
 280300,Itabaianinha,1,9,Trabalhadores das forças de segurança,68
@@ -2477,29 +2477,29 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280300,Itabaianinha,1,20,Trabalhadores da Limpeza Urbana,18
 280300,Itabaianinha,1,21,Trabalhadores do Transporte Coletivo,71
 280300,Itabaianinha,1,22,Caminhoneiros,156
-280300,Itabaianinha,1,23,População de 55 a 59 anos,667
+280300,Itabaianinha,1,23,População de 55 a 59 anos,671
 280300,Itabaianinha,1,24,Trabalhadores da Educação Superior,6
 280300,Itabaianinha,1,25,Trabalhadores da Zona Portuária,0
 280300,Itabaianinha,1,26,Trabalhadores Industriais e Civil,1132
-280300,Itabaianinha,1,27,População de 50 a 54 anos,841
-280300,Itabaianinha,1,28,População de 45 a 49 anos,878
-280300,Itabaianinha,1,29,População de 40 a 44 anos,1106
-280300,Itabaianinha,1,30,Gestantes,162
-280300,Itabaianinha,1,31,Puerperas,38
-280300,Itabaianinha,1,32,População de 35 a 39 anos,850
-280300,Itabaianinha,1,33,População de 30 a 34 anos,492
-280300,Itabaianinha,1,34,Lactantes,1
-280300,Itabaianinha,2,1,Trabalhadores da Saúde,561
+280300,Itabaianinha,1,27,População de 50 a 54 anos,844
+280300,Itabaianinha,1,28,População de 45 a 49 anos,888
+280300,Itabaianinha,1,29,População de 40 a 44 anos,1121
+280300,Itabaianinha,1,30,Gestantes,163
+280300,Itabaianinha,1,31,Puerperas,40
+280300,Itabaianinha,1,32,População de 35 a 39 anos,880
+280300,Itabaianinha,1,33,População de 30 a 34 anos,544
+280300,Itabaianinha,1,34,Lactantes,2
+280300,Itabaianinha,2,1,Trabalhadores da Saúde,571
 280300,Itabaianinha,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280300,Itabaianinha,2,3,Índio Aldeado,0
-280300,Itabaianinha,2,4,Pessoas com 80 anos e mais,631
-280300,Itabaianinha,2,5,Pessoas de 70 a 79 anos,1354
-280300,Itabaianinha,2,6,Pessoas de 60 a 69 anos,1430
+280300,Itabaianinha,2,4,Pessoas com 80 anos e mais,632
+280300,Itabaianinha,2,5,Pessoas de 70 a 79 anos,1359
+280300,Itabaianinha,2,6,Pessoas de 60 a 69 anos,1663
 280300,Itabaianinha,2,7,Situação de Rua,0
 280300,Itabaianinha,2,8,Quilombolas,0
-280300,Itabaianinha,2,9,Trabalhadores das forças de segurança,14
-280300,Itabaianinha,2,14,Deficiente Permanente,0
-280300,Itabaianinha,2,15,Comorbidades,33
+280300,Itabaianinha,2,9,Trabalhadores das forças de segurança,16
+280300,Itabaianinha,2,14,Deficiente Permanente,5
+280300,Itabaianinha,2,15,Comorbidades,103
 280300,Itabaianinha,2,16,Trabalhadores da Educação,1
 280300,Itabaianinha,2,17,Trabalhadores do sistema prisional,0
 280300,Itabaianinha,2,18,Privados de liberdade,0
@@ -2507,13 +2507,13 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280300,Itabaianinha,2,20,Trabalhadores da Limpeza Urbana,0
 280300,Itabaianinha,2,21,Trabalhadores do Transporte Coletivo,0
 280300,Itabaianinha,2,22,Caminhoneiros,0
-280300,Itabaianinha,2,23,População de 55 a 59 anos,2
+280300,Itabaianinha,2,23,População de 55 a 59 anos,14
 280300,Itabaianinha,2,24,Trabalhadores da Educação Superior,0
 280300,Itabaianinha,2,25,Trabalhadores da Zona Portuária,0
 280300,Itabaianinha,2,26,Trabalhadores Industriais e Civil,0
-280300,Itabaianinha,2,27,População de 50 a 54 anos,2
-280300,Itabaianinha,2,28,População de 45 a 49 anos,10
-280300,Itabaianinha,2,29,População de 40 a 44 anos,7
+280300,Itabaianinha,2,27,População de 50 a 54 anos,13
+280300,Itabaianinha,2,28,População de 45 a 49 anos,65
+280300,Itabaianinha,2,29,População de 40 a 44 anos,26
 280300,Itabaianinha,2,30,Gestantes,0
 280300,Itabaianinha,2,31,Puerperas,0
 280300,Itabaianinha,2,32,População de 35 a 39 anos,1
@@ -2584,7 +2584,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280310,Itabi,2,3,Índio Aldeado,0
 280310,Itabi,2,4,Pessoas com 80 anos e mais,106
 280310,Itabi,2,5,Pessoas de 70 a 79 anos,281
-280310,Itabi,2,6,Pessoas de 60 a 69 anos,238
+280310,Itabi,2,6,Pessoas de 60 a 69 anos,241
 280310,Itabi,2,7,Situação de Rua,0
 280310,Itabi,2,8,Quilombolas,0
 280310,Itabi,2,9,Trabalhadores das forças de segurança,3
@@ -2597,12 +2597,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280310,Itabi,2,20,Trabalhadores da Limpeza Urbana,0
 280310,Itabi,2,21,Trabalhadores do Transporte Coletivo,0
 280310,Itabi,2,22,Caminhoneiros,0
-280310,Itabi,2,23,População de 55 a 59 anos,3
+280310,Itabi,2,23,População de 55 a 59 anos,5
 280310,Itabi,2,24,Trabalhadores da Educação Superior,0
 280310,Itabi,2,25,Trabalhadores da Zona Portuária,0
 280310,Itabi,2,26,Trabalhadores Industriais e Civil,0
-280310,Itabi,2,27,População de 50 a 54 anos,4
-280310,Itabi,2,28,População de 45 a 49 anos,0
+280310,Itabi,2,27,População de 50 a 54 anos,9
+280310,Itabi,2,28,População de 45 a 49 anos,12
 280310,Itabi,2,29,População de 40 a 44 anos,0
 280310,Itabi,2,30,Gestantes,0
 280310,Itabi,2,31,Puerperas,0
@@ -2648,8 +2648,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280320,Itaporanga d'Ajuda,1,7,Situação de Rua,0
 280320,Itaporanga d'Ajuda,1,8,Quilombolas,0
 280320,Itaporanga d'Ajuda,1,9,Trabalhadores das forças de segurança,60
-280320,Itaporanga d'Ajuda,1,14,Deficiente Permanente,199
-280320,Itaporanga d'Ajuda,1,15,Comorbidades,2130
+280320,Itaporanga d'Ajuda,1,14,Deficiente Permanente,200
+280320,Itaporanga d'Ajuda,1,15,Comorbidades,2131
 280320,Itaporanga d'Ajuda,1,16,Trabalhadores da Educação,553
 280320,Itaporanga d'Ajuda,1,17,Trabalhadores do sistema prisional,0
 280320,Itaporanga d'Ajuda,1,18,Privados de liberdade,0
@@ -2657,29 +2657,29 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280320,Itaporanga d'Ajuda,1,20,Trabalhadores da Limpeza Urbana,30
 280320,Itaporanga d'Ajuda,1,21,Trabalhadores do Transporte Coletivo,51
 280320,Itaporanga d'Ajuda,1,22,Caminhoneiros,56
-280320,Itaporanga d'Ajuda,1,23,População de 55 a 59 anos,639
+280320,Itaporanga d'Ajuda,1,23,População de 55 a 59 anos,640
 280320,Itaporanga d'Ajuda,1,24,Trabalhadores da Educação Superior,0
 280320,Itaporanga d'Ajuda,1,25,Trabalhadores da Zona Portuária,0
 280320,Itaporanga d'Ajuda,1,26,Trabalhadores Industriais e Civil,746
-280320,Itaporanga d'Ajuda,1,27,População de 50 a 54 anos,865
-280320,Itaporanga d'Ajuda,1,28,População de 45 a 49 anos,993
-280320,Itaporanga d'Ajuda,1,29,População de 40 a 44 anos,738
+280320,Itaporanga d'Ajuda,1,27,População de 50 a 54 anos,866
+280320,Itaporanga d'Ajuda,1,28,População de 45 a 49 anos,994
+280320,Itaporanga d'Ajuda,1,29,População de 40 a 44 anos,742
 280320,Itaporanga d'Ajuda,1,30,Gestantes,111
 280320,Itaporanga d'Ajuda,1,31,Puerperas,30
-280320,Itaporanga d'Ajuda,1,32,População de 35 a 39 anos,125
-280320,Itaporanga d'Ajuda,1,33,População de 30 a 34 anos,189
-280320,Itaporanga d'Ajuda,1,34,Lactantes,4
-280320,Itaporanga d'Ajuda,2,1,Trabalhadores da Saúde,585
+280320,Itaporanga d'Ajuda,1,32,População de 35 a 39 anos,127
+280320,Itaporanga d'Ajuda,1,33,População de 30 a 34 anos,190
+280320,Itaporanga d'Ajuda,1,34,Lactantes,5
+280320,Itaporanga d'Ajuda,2,1,Trabalhadores da Saúde,586
 280320,Itaporanga d'Ajuda,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280320,Itaporanga d'Ajuda,2,3,Índio Aldeado,0
 280320,Itaporanga d'Ajuda,2,4,Pessoas com 80 anos e mais,499
 280320,Itaporanga d'Ajuda,2,5,Pessoas de 70 a 79 anos,1178
-280320,Itaporanga d'Ajuda,2,6,Pessoas de 60 a 69 anos,1002
+280320,Itaporanga d'Ajuda,2,6,Pessoas de 60 a 69 anos,1064
 280320,Itaporanga d'Ajuda,2,7,Situação de Rua,0
 280320,Itaporanga d'Ajuda,2,8,Quilombolas,0
 280320,Itaporanga d'Ajuda,2,9,Trabalhadores das forças de segurança,18
 280320,Itaporanga d'Ajuda,2,14,Deficiente Permanente,0
-280320,Itaporanga d'Ajuda,2,15,Comorbidades,23
+280320,Itaporanga d'Ajuda,2,15,Comorbidades,24
 280320,Itaporanga d'Ajuda,2,16,Trabalhadores da Educação,0
 280320,Itaporanga d'Ajuda,2,17,Trabalhadores do sistema prisional,0
 280320,Itaporanga d'Ajuda,2,18,Privados de liberdade,0
@@ -2687,17 +2687,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280320,Itaporanga d'Ajuda,2,20,Trabalhadores da Limpeza Urbana,0
 280320,Itaporanga d'Ajuda,2,21,Trabalhadores do Transporte Coletivo,1
 280320,Itaporanga d'Ajuda,2,22,Caminhoneiros,0
-280320,Itaporanga d'Ajuda,2,23,População de 55 a 59 anos,4
+280320,Itaporanga d'Ajuda,2,23,População de 55 a 59 anos,5
 280320,Itaporanga d'Ajuda,2,24,Trabalhadores da Educação Superior,0
 280320,Itaporanga d'Ajuda,2,25,Trabalhadores da Zona Portuária,0
 280320,Itaporanga d'Ajuda,2,26,Trabalhadores Industriais e Civil,0
 280320,Itaporanga d'Ajuda,2,27,População de 50 a 54 anos,10
-280320,Itaporanga d'Ajuda,2,28,População de 45 a 49 anos,8
-280320,Itaporanga d'Ajuda,2,29,População de 40 a 44 anos,5
+280320,Itaporanga d'Ajuda,2,28,População de 45 a 49 anos,9
+280320,Itaporanga d'Ajuda,2,29,População de 40 a 44 anos,6
 280320,Itaporanga d'Ajuda,2,30,Gestantes,0
 280320,Itaporanga d'Ajuda,2,31,Puerperas,0
-280320,Itaporanga d'Ajuda,2,32,População de 35 a 39 anos,2
-280320,Itaporanga d'Ajuda,2,33,População de 30 a 34 anos,2
+280320,Itaporanga d'Ajuda,2,32,População de 35 a 39 anos,8
+280320,Itaporanga d'Ajuda,2,33,População de 30 a 34 anos,5
 280320,Itaporanga d'Ajuda,2,34,Lactantes,0
 280330,Japaratuba,-1,1,Trabalhadores da Saúde,2
 280330,Japaratuba,-1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
@@ -2759,17 +2759,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280330,Japaratuba,1,32,População de 35 a 39 anos,473
 280330,Japaratuba,1,33,População de 30 a 34 anos,0
 280330,Japaratuba,1,34,Lactantes,2
-280330,Japaratuba,2,1,Trabalhadores da Saúde,266
+280330,Japaratuba,2,1,Trabalhadores da Saúde,267
 280330,Japaratuba,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280330,Japaratuba,2,3,Índio Aldeado,0
 280330,Japaratuba,2,4,Pessoas com 80 anos e mais,294
 280330,Japaratuba,2,5,Pessoas de 70 a 79 anos,657
-280330,Japaratuba,2,6,Pessoas de 60 a 69 anos,545
+280330,Japaratuba,2,6,Pessoas de 60 a 69 anos,598
 280330,Japaratuba,2,7,Situação de Rua,0
 280330,Japaratuba,2,8,Quilombolas,303
-280330,Japaratuba,2,9,Trabalhadores das forças de segurança,0
+280330,Japaratuba,2,9,Trabalhadores das forças de segurança,1
 280330,Japaratuba,2,14,Deficiente Permanente,0
-280330,Japaratuba,2,15,Comorbidades,10
+280330,Japaratuba,2,15,Comorbidades,13
 280330,Japaratuba,2,16,Trabalhadores da Educação,5
 280330,Japaratuba,2,17,Trabalhadores do sistema prisional,0
 280330,Japaratuba,2,18,Privados de liberdade,0
@@ -2777,11 +2777,11 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280330,Japaratuba,2,20,Trabalhadores da Limpeza Urbana,35
 280330,Japaratuba,2,21,Trabalhadores do Transporte Coletivo,0
 280330,Japaratuba,2,22,Caminhoneiros,0
-280330,Japaratuba,2,23,População de 55 a 59 anos,8
+280330,Japaratuba,2,23,População de 55 a 59 anos,9
 280330,Japaratuba,2,24,Trabalhadores da Educação Superior,0
 280330,Japaratuba,2,25,Trabalhadores da Zona Portuária,0
 280330,Japaratuba,2,26,Trabalhadores Industriais e Civil,0
-280330,Japaratuba,2,27,População de 50 a 54 anos,30
+280330,Japaratuba,2,27,População de 50 a 54 anos,32
 280330,Japaratuba,2,28,População de 45 a 49 anos,68
 280330,Japaratuba,2,29,População de 40 a 44 anos,37
 280330,Japaratuba,2,30,Gestantes,7
@@ -2813,7 +2813,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280340,Japoatã,-1,26,Trabalhadores Industriais e Civil,0
 280340,Japoatã,-1,27,População de 50 a 54 anos,6
 280340,Japoatã,-1,28,População de 45 a 49 anos,27
-280340,Japoatã,-1,29,População de 40 a 44 anos,92
+280340,Japoatã,-1,29,População de 40 a 44 anos,98
 280340,Japoatã,-1,30,Gestantes,0
 280340,Japoatã,-1,31,Puerperas,0
 280340,Japoatã,-1,32,População de 35 a 39 anos,5
@@ -2824,29 +2824,29 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280340,Japoatã,1,3,Índio Aldeado,0
 280340,Japoatã,1,4,Pessoas com 80 anos e mais,258
 280340,Japoatã,1,5,Pessoas de 70 a 79 anos,502
-280340,Japoatã,1,6,Pessoas de 60 a 69 anos,803
+280340,Japoatã,1,6,Pessoas de 60 a 69 anos,804
 280340,Japoatã,1,7,Situação de Rua,0
 280340,Japoatã,1,8,Quilombolas,533
 280340,Japoatã,1,9,Trabalhadores das forças de segurança,27
 280340,Japoatã,1,14,Deficiente Permanente,118
-280340,Japoatã,1,15,Comorbidades,558
-280340,Japoatã,1,16,Trabalhadores da Educação,240
+280340,Japoatã,1,15,Comorbidades,559
+280340,Japoatã,1,16,Trabalhadores da Educação,241
 280340,Japoatã,1,17,Trabalhadores do sistema prisional,0
 280340,Japoatã,1,18,Privados de liberdade,0
 280340,Japoatã,1,19,Trabalhadores do Transporte aéreo,0
 280340,Japoatã,1,20,Trabalhadores da Limpeza Urbana,33
 280340,Japoatã,1,21,Trabalhadores do Transporte Coletivo,1
 280340,Japoatã,1,22,Caminhoneiros,4
-280340,Japoatã,1,23,População de 55 a 59 anos,374
+280340,Japoatã,1,23,População de 55 a 59 anos,376
 280340,Japoatã,1,24,Trabalhadores da Educação Superior,0
 280340,Japoatã,1,25,Trabalhadores da Zona Portuária,0
 280340,Japoatã,1,26,Trabalhadores Industriais e Civil,130
-280340,Japoatã,1,27,População de 50 a 54 anos,398
-280340,Japoatã,1,28,População de 45 a 49 anos,447
-280340,Japoatã,1,29,População de 40 a 44 anos,415
-280340,Japoatã,1,30,Gestantes,68
-280340,Japoatã,1,31,Puerperas,4
-280340,Japoatã,1,32,População de 35 a 39 anos,28
+280340,Japoatã,1,27,População de 50 a 54 anos,401
+280340,Japoatã,1,28,População de 45 a 49 anos,451
+280340,Japoatã,1,29,População de 40 a 44 anos,439
+280340,Japoatã,1,30,Gestantes,75
+280340,Japoatã,1,31,Puerperas,6
+280340,Japoatã,1,32,População de 35 a 39 anos,58
 280340,Japoatã,1,33,População de 30 a 34 anos,1
 280340,Japoatã,1,34,Lactantes,0
 280340,Japoatã,2,1,Trabalhadores da Saúde,217
@@ -2854,10 +2854,10 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280340,Japoatã,2,3,Índio Aldeado,0
 280340,Japoatã,2,4,Pessoas com 80 anos e mais,173
 280340,Japoatã,2,5,Pessoas de 70 a 79 anos,468
-280340,Japoatã,2,6,Pessoas de 60 a 69 anos,379
+280340,Japoatã,2,6,Pessoas de 60 a 69 anos,401
 280340,Japoatã,2,7,Situação de Rua,0
-280340,Japoatã,2,8,Quilombolas,419
-280340,Japoatã,2,9,Trabalhadores das forças de segurança,8
+280340,Japoatã,2,8,Quilombolas,484
+280340,Japoatã,2,9,Trabalhadores das forças de segurança,10
 280340,Japoatã,2,14,Deficiente Permanente,0
 280340,Japoatã,2,15,Comorbidades,0
 280340,Japoatã,2,16,Trabalhadores da Educação,0
@@ -2909,17 +2909,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280350,Lagarto,-1,32,População de 35 a 39 anos,427
 280350,Lagarto,-1,33,População de 30 a 34 anos,0
 280350,Lagarto,-1,34,Lactantes,0
-280350,Lagarto,1,1,Trabalhadores da Saúde,4362
+280350,Lagarto,1,1,Trabalhadores da Saúde,4448
 280350,Lagarto,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,50
 280350,Lagarto,1,3,Índio Aldeado,0
 280350,Lagarto,1,4,Pessoas com 80 anos e mais,2046
 280350,Lagarto,1,5,Pessoas de 70 a 79 anos,4191
-280350,Lagarto,1,6,Pessoas de 60 a 69 anos,7027
+280350,Lagarto,1,6,Pessoas de 60 a 69 anos,7028
 280350,Lagarto,1,7,Situação de Rua,9
 280350,Lagarto,1,8,Quilombolas,664
 280350,Lagarto,1,9,Trabalhadores das forças de segurança,191
 280350,Lagarto,1,14,Deficiente Permanente,751
-280350,Lagarto,1,15,Comorbidades,4539
+280350,Lagarto,1,15,Comorbidades,4542
 280350,Lagarto,1,16,Trabalhadores da Educação,1876
 280350,Lagarto,1,17,Trabalhadores do sistema prisional,0
 280350,Lagarto,1,18,Privados de liberdade,0
@@ -2927,27 +2927,27 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280350,Lagarto,1,20,Trabalhadores da Limpeza Urbana,106
 280350,Lagarto,1,21,Trabalhadores do Transporte Coletivo,198
 280350,Lagarto,1,22,Caminhoneiros,923
-280350,Lagarto,1,23,População de 55 a 59 anos,2922
+280350,Lagarto,1,23,População de 55 a 59 anos,2928
 280350,Lagarto,1,24,Trabalhadores da Educação Superior,226
 280350,Lagarto,1,25,Trabalhadores da Zona Portuária,0
 280350,Lagarto,1,26,Trabalhadores Industriais e Civil,429
-280350,Lagarto,1,27,População de 50 a 54 anos,3544
-280350,Lagarto,1,28,População de 45 a 49 anos,3900
-280350,Lagarto,1,29,População de 40 a 44 anos,2945
-280350,Lagarto,1,30,Gestantes,369
+280350,Lagarto,1,27,População de 50 a 54 anos,3547
+280350,Lagarto,1,28,População de 45 a 49 anos,3909
+280350,Lagarto,1,29,População de 40 a 44 anos,2980
+280350,Lagarto,1,30,Gestantes,370
 280350,Lagarto,1,31,Puerperas,80
-280350,Lagarto,1,32,População de 35 a 39 anos,4090
-280350,Lagarto,1,33,População de 30 a 34 anos,1143
-280350,Lagarto,1,34,Lactantes,2
-280350,Lagarto,2,1,Trabalhadores da Saúde,3203
+280350,Lagarto,1,32,População de 35 a 39 anos,4130
+280350,Lagarto,1,33,População de 30 a 34 anos,1208
+280350,Lagarto,1,34,Lactantes,11
+280350,Lagarto,2,1,Trabalhadores da Saúde,3220
 280350,Lagarto,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,48
 280350,Lagarto,2,3,Índio Aldeado,0
-280350,Lagarto,2,4,Pessoas com 80 anos e mais,1862
-280350,Lagarto,2,5,Pessoas de 70 a 79 anos,3876
-280350,Lagarto,2,6,Pessoas de 60 a 69 anos,4486
+280350,Lagarto,2,4,Pessoas com 80 anos e mais,1864
+280350,Lagarto,2,5,Pessoas de 70 a 79 anos,3880
+280350,Lagarto,2,6,Pessoas de 60 a 69 anos,4630
 280350,Lagarto,2,7,Situação de Rua,0
 280350,Lagarto,2,8,Quilombolas,654
-280350,Lagarto,2,9,Trabalhadores das forças de segurança,111
+280350,Lagarto,2,9,Trabalhadores das forças de segurança,119
 280350,Lagarto,2,14,Deficiente Permanente,23
 280350,Lagarto,2,15,Comorbidades,183
 280350,Lagarto,2,16,Trabalhadores da Educação,1
@@ -2957,13 +2957,13 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280350,Lagarto,2,20,Trabalhadores da Limpeza Urbana,0
 280350,Lagarto,2,21,Trabalhadores do Transporte Coletivo,2
 280350,Lagarto,2,22,Caminhoneiros,0
-280350,Lagarto,2,23,População de 55 a 59 anos,64
+280350,Lagarto,2,23,População de 55 a 59 anos,65
 280350,Lagarto,2,24,Trabalhadores da Educação Superior,0
 280350,Lagarto,2,25,Trabalhadores da Zona Portuária,0
 280350,Lagarto,2,26,Trabalhadores Industriais e Civil,1
-280350,Lagarto,2,27,População de 50 a 54 anos,145
-280350,Lagarto,2,28,População de 45 a 49 anos,416
-280350,Lagarto,2,29,População de 40 a 44 anos,12
+280350,Lagarto,2,27,População de 50 a 54 anos,155
+280350,Lagarto,2,28,População de 45 a 49 anos,431
+280350,Lagarto,2,29,População de 40 a 44 anos,14
 280350,Lagarto,2,30,Gestantes,27
 280350,Lagarto,2,31,Puerperas,3
 280350,Lagarto,2,32,População de 35 a 39 anos,6
@@ -2987,16 +2987,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280360,Laranjeiras,-1,20,Trabalhadores da Limpeza Urbana,0
 280360,Laranjeiras,-1,21,Trabalhadores do Transporte Coletivo,0
 280360,Laranjeiras,-1,22,Caminhoneiros,0
-280360,Laranjeiras,-1,23,População de 55 a 59 anos,0
+280360,Laranjeiras,-1,23,População de 55 a 59 anos,20
 280360,Laranjeiras,-1,24,Trabalhadores da Educação Superior,0
 280360,Laranjeiras,-1,25,Trabalhadores da Zona Portuária,0
 280360,Laranjeiras,-1,26,Trabalhadores Industriais e Civil,0
-280360,Laranjeiras,-1,27,População de 50 a 54 anos,20
-280360,Laranjeiras,-1,28,População de 45 a 49 anos,0
-280360,Laranjeiras,-1,29,População de 40 a 44 anos,101
+280360,Laranjeiras,-1,27,População de 50 a 54 anos,0
+280360,Laranjeiras,-1,28,População de 45 a 49 anos,101
+280360,Laranjeiras,-1,29,População de 40 a 44 anos,369
 280360,Laranjeiras,-1,30,Gestantes,0
 280360,Laranjeiras,-1,31,Puerperas,0
-280360,Laranjeiras,-1,32,População de 35 a 39 anos,369
+280360,Laranjeiras,-1,32,População de 35 a 39 anos,0
 280360,Laranjeiras,-1,33,População de 30 a 34 anos,0
 280360,Laranjeiras,-1,34,Lactantes,0
 280360,Laranjeiras,1,1,Trabalhadores da Saúde,620
@@ -3004,40 +3004,40 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280360,Laranjeiras,1,3,Índio Aldeado,0
 280360,Laranjeiras,1,4,Pessoas com 80 anos e mais,295
 280360,Laranjeiras,1,5,Pessoas de 70 a 79 anos,718
-280360,Laranjeiras,1,6,Pessoas de 60 a 69 anos,1294
+280360,Laranjeiras,1,6,Pessoas de 60 a 69 anos,1297
 280360,Laranjeiras,1,7,Situação de Rua,0
-280360,Laranjeiras,1,8,Quilombolas,2069
+280360,Laranjeiras,1,8,Quilombolas,2071
 280360,Laranjeiras,1,9,Trabalhadores das forças de segurança,105
-280360,Laranjeiras,1,14,Deficiente Permanente,80
+280360,Laranjeiras,1,14,Deficiente Permanente,81
 280360,Laranjeiras,1,15,Comorbidades,3235
 280360,Laranjeiras,1,16,Trabalhadores da Educação,546
 280360,Laranjeiras,1,17,Trabalhadores do sistema prisional,0
 280360,Laranjeiras,1,18,Privados de liberdade,0
 280360,Laranjeiras,1,19,Trabalhadores do Transporte aéreo,0
-280360,Laranjeiras,1,20,Trabalhadores da Limpeza Urbana,41
+280360,Laranjeiras,1,20,Trabalhadores da Limpeza Urbana,42
 280360,Laranjeiras,1,21,Trabalhadores do Transporte Coletivo,40
-280360,Laranjeiras,1,22,Caminhoneiros,62
-280360,Laranjeiras,1,23,População de 55 a 59 anos,502
+280360,Laranjeiras,1,22,Caminhoneiros,63
+280360,Laranjeiras,1,23,População de 55 a 59 anos,506
 280360,Laranjeiras,1,24,Trabalhadores da Educação Superior,0
 280360,Laranjeiras,1,25,Trabalhadores da Zona Portuária,1
 280360,Laranjeiras,1,26,Trabalhadores Industriais e Civil,905
-280360,Laranjeiras,1,27,População de 50 a 54 anos,666
-280360,Laranjeiras,1,28,População de 45 a 49 anos,791
-280360,Laranjeiras,1,29,População de 40 a 44 anos,952
-280360,Laranjeiras,1,30,Gestantes,95
-280360,Laranjeiras,1,31,Puerperas,36
-280360,Laranjeiras,1,32,População de 35 a 39 anos,1009
-280360,Laranjeiras,1,33,População de 30 a 34 anos,842
+280360,Laranjeiras,1,27,População de 50 a 54 anos,670
+280360,Laranjeiras,1,28,População de 45 a 49 anos,801
+280360,Laranjeiras,1,29,População de 40 a 44 anos,966
+280360,Laranjeiras,1,30,Gestantes,98
+280360,Laranjeiras,1,31,Puerperas,38
+280360,Laranjeiras,1,32,População de 35 a 39 anos,1028
+280360,Laranjeiras,1,33,População de 30 a 34 anos,882
 280360,Laranjeiras,1,34,Lactantes,0
 280360,Laranjeiras,2,1,Trabalhadores da Saúde,437
 280360,Laranjeiras,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280360,Laranjeiras,2,3,Índio Aldeado,0
-280360,Laranjeiras,2,4,Pessoas com 80 anos e mais,263
-280360,Laranjeiras,2,5,Pessoas de 70 a 79 anos,716
-280360,Laranjeiras,2,6,Pessoas de 60 a 69 anos,979
+280360,Laranjeiras,2,4,Pessoas com 80 anos e mais,264
+280360,Laranjeiras,2,5,Pessoas de 70 a 79 anos,717
+280360,Laranjeiras,2,6,Pessoas de 60 a 69 anos,1041
 280360,Laranjeiras,2,7,Situação de Rua,0
-280360,Laranjeiras,2,8,Quilombolas,1698
-280360,Laranjeiras,2,9,Trabalhadores das forças de segurança,36
+280360,Laranjeiras,2,8,Quilombolas,1730
+280360,Laranjeiras,2,9,Trabalhadores das forças de segurança,49
 280360,Laranjeiras,2,14,Deficiente Permanente,0
 280360,Laranjeiras,2,15,Comorbidades,454
 280360,Laranjeiras,2,16,Trabalhadores da Educação,0
@@ -3047,16 +3047,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280360,Laranjeiras,2,20,Trabalhadores da Limpeza Urbana,38
 280360,Laranjeiras,2,21,Trabalhadores do Transporte Coletivo,0
 280360,Laranjeiras,2,22,Caminhoneiros,0
-280360,Laranjeiras,2,23,População de 55 a 59 anos,9
+280360,Laranjeiras,2,23,População de 55 a 59 anos,11
 280360,Laranjeiras,2,24,Trabalhadores da Educação Superior,0
 280360,Laranjeiras,2,25,Trabalhadores da Zona Portuária,0
 280360,Laranjeiras,2,26,Trabalhadores Industriais e Civil,0
-280360,Laranjeiras,2,27,População de 50 a 54 anos,12
+280360,Laranjeiras,2,27,População de 50 a 54 anos,14
 280360,Laranjeiras,2,28,População de 45 a 49 anos,8
-280360,Laranjeiras,2,29,População de 40 a 44 anos,8
+280360,Laranjeiras,2,29,População de 40 a 44 anos,9
 280360,Laranjeiras,2,30,Gestantes,0
 280360,Laranjeiras,2,31,Puerperas,0
-280360,Laranjeiras,2,32,População de 35 a 39 anos,1
+280360,Laranjeiras,2,32,População de 35 a 39 anos,2
 280360,Laranjeiras,2,33,População de 30 a 34 anos,3
 280360,Laranjeiras,2,34,Lactantes,0
 280370,Macambira,-1,1,Trabalhadores da Saúde,0
@@ -3119,12 +3119,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280370,Macambira,1,32,População de 35 a 39 anos,47
 280370,Macambira,1,33,População de 30 a 34 anos,0
 280370,Macambira,1,34,Lactantes,3
-280370,Macambira,2,1,Trabalhadores da Saúde,100
+280370,Macambira,2,1,Trabalhadores da Saúde,101
 280370,Macambira,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280370,Macambira,2,3,Índio Aldeado,0
 280370,Macambira,2,4,Pessoas com 80 anos e mais,254
 280370,Macambira,2,5,Pessoas de 70 a 79 anos,328
-280370,Macambira,2,6,Pessoas de 60 a 69 anos,229
+280370,Macambira,2,6,Pessoas de 60 a 69 anos,263
 280370,Macambira,2,7,Situação de Rua,0
 280370,Macambira,2,8,Quilombolas,0
 280370,Macambira,2,9,Trabalhadores das forças de segurança,10
@@ -3299,32 +3299,32 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280390,Malhador,1,32,População de 35 a 39 anos,60
 280390,Malhador,1,33,População de 30 a 34 anos,0
 280390,Malhador,1,34,Lactantes,0
-280390,Malhador,2,1,Trabalhadores da Saúde,138
+280390,Malhador,2,1,Trabalhadores da Saúde,139
 280390,Malhador,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280390,Malhador,2,3,Índio Aldeado,0
 280390,Malhador,2,4,Pessoas com 80 anos e mais,220
-280390,Malhador,2,5,Pessoas de 70 a 79 anos,453
-280390,Malhador,2,6,Pessoas de 60 a 69 anos,330
+280390,Malhador,2,5,Pessoas de 70 a 79 anos,455
+280390,Malhador,2,6,Pessoas de 60 a 69 anos,380
 280390,Malhador,2,7,Situação de Rua,0
 280390,Malhador,2,8,Quilombolas,0
 280390,Malhador,2,9,Trabalhadores das forças de segurança,10
 280390,Malhador,2,14,Deficiente Permanente,0
-280390,Malhador,2,15,Comorbidades,12
-280390,Malhador,2,16,Trabalhadores da Educação,4
+280390,Malhador,2,15,Comorbidades,13
+280390,Malhador,2,16,Trabalhadores da Educação,5
 280390,Malhador,2,17,Trabalhadores do sistema prisional,0
 280390,Malhador,2,18,Privados de liberdade,0
 280390,Malhador,2,19,Trabalhadores do Transporte aéreo,0
 280390,Malhador,2,20,Trabalhadores da Limpeza Urbana,0
 280390,Malhador,2,21,Trabalhadores do Transporte Coletivo,0
 280390,Malhador,2,22,Caminhoneiros,1
-280390,Malhador,2,23,População de 55 a 59 anos,0
+280390,Malhador,2,23,População de 55 a 59 anos,3
 280390,Malhador,2,24,Trabalhadores da Educação Superior,0
 280390,Malhador,2,25,Trabalhadores da Zona Portuária,0
 280390,Malhador,2,26,Trabalhadores Industriais e Civil,0
-280390,Malhador,2,27,População de 50 a 54 anos,0
+280390,Malhador,2,27,População de 50 a 54 anos,6
 280390,Malhador,2,28,População de 45 a 49 anos,0
-280390,Malhador,2,29,População de 40 a 44 anos,0
-280390,Malhador,2,30,Gestantes,4
+280390,Malhador,2,29,População de 40 a 44 anos,31
+280390,Malhador,2,30,Gestantes,5
 280390,Malhador,2,31,Puerperas,0
 280390,Malhador,2,32,População de 35 a 39 anos,0
 280390,Malhador,2,33,População de 30 a 34 anos,0
@@ -3377,15 +3377,15 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280400,Maruim,1,20,Trabalhadores da Limpeza Urbana,46
 280400,Maruim,1,21,Trabalhadores do Transporte Coletivo,32
 280400,Maruim,1,22,Caminhoneiros,18
-280400,Maruim,1,23,População de 55 a 59 anos,447
+280400,Maruim,1,23,População de 55 a 59 anos,448
 280400,Maruim,1,24,Trabalhadores da Educação Superior,0
 280400,Maruim,1,25,Trabalhadores da Zona Portuária,0
 280400,Maruim,1,26,Trabalhadores Industriais e Civil,262
-280400,Maruim,1,27,População de 50 a 54 anos,465
+280400,Maruim,1,27,População de 50 a 54 anos,466
 280400,Maruim,1,28,População de 45 a 49 anos,448
-280400,Maruim,1,29,População de 40 a 44 anos,327
-280400,Maruim,1,30,Gestantes,73
-280400,Maruim,1,31,Puerperas,25
+280400,Maruim,1,29,População de 40 a 44 anos,329
+280400,Maruim,1,30,Gestantes,84
+280400,Maruim,1,31,Puerperas,34
 280400,Maruim,1,32,População de 35 a 39 anos,0
 280400,Maruim,1,33,População de 30 a 34 anos,0
 280400,Maruim,1,34,Lactantes,0
@@ -3394,12 +3394,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280400,Maruim,2,3,Índio Aldeado,0
 280400,Maruim,2,4,Pessoas com 80 anos e mais,222
 280400,Maruim,2,5,Pessoas de 70 a 79 anos,493
-280400,Maruim,2,6,Pessoas de 60 a 69 anos,331
+280400,Maruim,2,6,Pessoas de 60 a 69 anos,345
 280400,Maruim,2,7,Situação de Rua,0
 280400,Maruim,2,8,Quilombolas,0
 280400,Maruim,2,9,Trabalhadores das forças de segurança,29
 280400,Maruim,2,14,Deficiente Permanente,2
-280400,Maruim,2,15,Comorbidades,5
+280400,Maruim,2,15,Comorbidades,8
 280400,Maruim,2,16,Trabalhadores da Educação,0
 280400,Maruim,2,17,Trabalhadores do sistema prisional,0
 280400,Maruim,2,18,Privados de liberdade,0
@@ -3407,15 +3407,15 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280400,Maruim,2,20,Trabalhadores da Limpeza Urbana,1
 280400,Maruim,2,21,Trabalhadores do Transporte Coletivo,0
 280400,Maruim,2,22,Caminhoneiros,2
-280400,Maruim,2,23,População de 55 a 59 anos,15
+280400,Maruim,2,23,População de 55 a 59 anos,22
 280400,Maruim,2,24,Trabalhadores da Educação Superior,0
 280400,Maruim,2,25,Trabalhadores da Zona Portuária,0
 280400,Maruim,2,26,Trabalhadores Industriais e Civil,0
-280400,Maruim,2,27,População de 50 a 54 anos,46
-280400,Maruim,2,28,População de 45 a 49 anos,7
-280400,Maruim,2,29,População de 40 a 44 anos,0
-280400,Maruim,2,30,Gestantes,0
-280400,Maruim,2,31,Puerperas,0
+280400,Maruim,2,27,População de 50 a 54 anos,57
+280400,Maruim,2,28,População de 45 a 49 anos,21
+280400,Maruim,2,29,População de 40 a 44 anos,2
+280400,Maruim,2,30,Gestantes,3
+280400,Maruim,2,31,Puerperas,2
 280400,Maruim,2,32,População de 35 a 39 anos,0
 280400,Maruim,2,33,População de 30 a 34 anos,0
 280400,Maruim,2,34,Lactantes,0
@@ -3479,17 +3479,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280410,Moita Bonita,1,32,População de 35 a 39 anos,329
 280410,Moita Bonita,1,33,População de 30 a 34 anos,3
 280410,Moita Bonita,1,34,Lactantes,0
-280410,Moita Bonita,2,1,Trabalhadores da Saúde,163
+280410,Moita Bonita,2,1,Trabalhadores da Saúde,168
 280410,Moita Bonita,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280410,Moita Bonita,2,3,Índio Aldeado,0
 280410,Moita Bonita,2,4,Pessoas com 80 anos e mais,322
-280410,Moita Bonita,2,5,Pessoas de 70 a 79 anos,583
-280410,Moita Bonita,2,6,Pessoas de 60 a 69 anos,776
+280410,Moita Bonita,2,5,Pessoas de 70 a 79 anos,588
+280410,Moita Bonita,2,6,Pessoas de 60 a 69 anos,831
 280410,Moita Bonita,2,7,Situação de Rua,0
 280410,Moita Bonita,2,8,Quilombolas,0
 280410,Moita Bonita,2,9,Trabalhadores das forças de segurança,8
-280410,Moita Bonita,2,14,Deficiente Permanente,4
-280410,Moita Bonita,2,15,Comorbidades,13
+280410,Moita Bonita,2,14,Deficiente Permanente,51
+280410,Moita Bonita,2,15,Comorbidades,189
 280410,Moita Bonita,2,16,Trabalhadores da Educação,37
 280410,Moita Bonita,2,17,Trabalhadores do sistema prisional,0
 280410,Moita Bonita,2,18,Privados de liberdade,0
@@ -3504,7 +3504,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280410,Moita Bonita,2,27,População de 50 a 54 anos,0
 280410,Moita Bonita,2,28,População de 45 a 49 anos,0
 280410,Moita Bonita,2,29,População de 40 a 44 anos,1
-280410,Moita Bonita,2,30,Gestantes,0
+280410,Moita Bonita,2,30,Gestantes,1
 280410,Moita Bonita,2,31,Puerperas,0
 280410,Moita Bonita,2,32,População de 35 a 39 anos,0
 280410,Moita Bonita,2,33,População de 30 a 34 anos,0
@@ -3544,29 +3544,29 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280420,Monte Alegre de Sergipe,1,3,Índio Aldeado,0
 280420,Monte Alegre de Sergipe,1,4,Pessoas com 80 anos e mais,210
 280420,Monte Alegre de Sergipe,1,5,Pessoas de 70 a 79 anos,447
-280420,Monte Alegre de Sergipe,1,6,Pessoas de 60 a 69 anos,794
+280420,Monte Alegre de Sergipe,1,6,Pessoas de 60 a 69 anos,795
 280420,Monte Alegre de Sergipe,1,7,Situação de Rua,0
 280420,Monte Alegre de Sergipe,1,8,Quilombolas,0
 280420,Monte Alegre de Sergipe,1,9,Trabalhadores das forças de segurança,13
 280420,Monte Alegre de Sergipe,1,14,Deficiente Permanente,58
-280420,Monte Alegre de Sergipe,1,15,Comorbidades,340
+280420,Monte Alegre de Sergipe,1,15,Comorbidades,341
 280420,Monte Alegre de Sergipe,1,16,Trabalhadores da Educação,285
 280420,Monte Alegre de Sergipe,1,17,Trabalhadores do sistema prisional,0
 280420,Monte Alegre de Sergipe,1,18,Privados de liberdade,0
 280420,Monte Alegre de Sergipe,1,19,Trabalhadores do Transporte aéreo,0
 280420,Monte Alegre de Sergipe,1,20,Trabalhadores da Limpeza Urbana,44
 280420,Monte Alegre de Sergipe,1,21,Trabalhadores do Transporte Coletivo,10
-280420,Monte Alegre de Sergipe,1,22,Caminhoneiros,30
-280420,Monte Alegre de Sergipe,1,23,População de 55 a 59 anos,414
+280420,Monte Alegre de Sergipe,1,22,Caminhoneiros,33
+280420,Monte Alegre de Sergipe,1,23,População de 55 a 59 anos,416
 280420,Monte Alegre de Sergipe,1,24,Trabalhadores da Educação Superior,0
 280420,Monte Alegre de Sergipe,1,25,Trabalhadores da Zona Portuária,0
 280420,Monte Alegre de Sergipe,1,26,Trabalhadores Industriais e Civil,1
-280420,Monte Alegre de Sergipe,1,27,População de 50 a 54 anos,506
-280420,Monte Alegre de Sergipe,1,28,População de 45 a 49 anos,549
-280420,Monte Alegre de Sergipe,1,29,População de 40 a 44 anos,597
+280420,Monte Alegre de Sergipe,1,27,População de 50 a 54 anos,511
+280420,Monte Alegre de Sergipe,1,28,População de 45 a 49 anos,559
+280420,Monte Alegre de Sergipe,1,29,População de 40 a 44 anos,606
 280420,Monte Alegre de Sergipe,1,30,Gestantes,116
 280420,Monte Alegre de Sergipe,1,31,Puerperas,20
-280420,Monte Alegre de Sergipe,1,32,População de 35 a 39 anos,146
+280420,Monte Alegre de Sergipe,1,32,População de 35 a 39 anos,231
 280420,Monte Alegre de Sergipe,1,33,População de 30 a 34 anos,0
 280420,Monte Alegre de Sergipe,1,34,Lactantes,0
 280420,Monte Alegre de Sergipe,2,1,Trabalhadores da Saúde,184
@@ -3584,16 +3584,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280420,Monte Alegre de Sergipe,2,17,Trabalhadores do sistema prisional,0
 280420,Monte Alegre de Sergipe,2,18,Privados de liberdade,0
 280420,Monte Alegre de Sergipe,2,19,Trabalhadores do Transporte aéreo,0
-280420,Monte Alegre de Sergipe,2,20,Trabalhadores da Limpeza Urbana,0
+280420,Monte Alegre de Sergipe,2,20,Trabalhadores da Limpeza Urbana,2
 280420,Monte Alegre de Sergipe,2,21,Trabalhadores do Transporte Coletivo,0
 280420,Monte Alegre de Sergipe,2,22,Caminhoneiros,0
-280420,Monte Alegre de Sergipe,2,23,População de 55 a 59 anos,2
+280420,Monte Alegre de Sergipe,2,23,População de 55 a 59 anos,3
 280420,Monte Alegre de Sergipe,2,24,Trabalhadores da Educação Superior,0
 280420,Monte Alegre de Sergipe,2,25,Trabalhadores da Zona Portuária,0
 280420,Monte Alegre de Sergipe,2,26,Trabalhadores Industriais e Civil,1
-280420,Monte Alegre de Sergipe,2,27,População de 50 a 54 anos,0
-280420,Monte Alegre de Sergipe,2,28,População de 45 a 49 anos,6
-280420,Monte Alegre de Sergipe,2,29,População de 40 a 44 anos,4
+280420,Monte Alegre de Sergipe,2,27,População de 50 a 54 anos,1
+280420,Monte Alegre de Sergipe,2,28,População de 45 a 49 anos,10
+280420,Monte Alegre de Sergipe,2,29,População de 40 a 44 anos,7
 280420,Monte Alegre de Sergipe,2,30,Gestantes,0
 280420,Monte Alegre de Sergipe,2,31,Puerperas,0
 280420,Monte Alegre de Sergipe,2,32,População de 35 a 39 anos,2
@@ -3633,8 +3633,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280430,Muribeca,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280430,Muribeca,1,3,Índio Aldeado,0
 280430,Muribeca,1,4,Pessoas com 80 anos e mais,131
-280430,Muribeca,1,5,Pessoas de 70 a 79 anos,286
-280430,Muribeca,1,6,Pessoas de 60 a 69 anos,519
+280430,Muribeca,1,5,Pessoas de 70 a 79 anos,287
+280430,Muribeca,1,6,Pessoas de 60 a 69 anos,520
 280430,Muribeca,1,7,Situação de Rua,0
 280430,Muribeca,1,8,Quilombolas,0
 280430,Muribeca,1,9,Trabalhadores das forças de segurança,13
@@ -3651,20 +3651,20 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280430,Muribeca,1,24,Trabalhadores da Educação Superior,0
 280430,Muribeca,1,25,Trabalhadores da Zona Portuária,0
 280430,Muribeca,1,26,Trabalhadores Industriais e Civil,79
-280430,Muribeca,1,27,População de 50 a 54 anos,210
+280430,Muribeca,1,27,População de 50 a 54 anos,212
 280430,Muribeca,1,28,População de 45 a 49 anos,278
-280430,Muribeca,1,29,População de 40 a 44 anos,236
+280430,Muribeca,1,29,População de 40 a 44 anos,239
 280430,Muribeca,1,30,Gestantes,43
-280430,Muribeca,1,31,Puerperas,4
-280430,Muribeca,1,32,População de 35 a 39 anos,194
-280430,Muribeca,1,33,População de 30 a 34 anos,10
+280430,Muribeca,1,31,Puerperas,5
+280430,Muribeca,1,32,População de 35 a 39 anos,218
+280430,Muribeca,1,33,População de 30 a 34 anos,13
 280430,Muribeca,1,34,Lactantes,0
 280430,Muribeca,2,1,Trabalhadores da Saúde,100
 280430,Muribeca,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280430,Muribeca,2,3,Índio Aldeado,0
 280430,Muribeca,2,4,Pessoas com 80 anos e mais,130
 280430,Muribeca,2,5,Pessoas de 70 a 79 anos,282
-280430,Muribeca,2,6,Pessoas de 60 a 69 anos,333
+280430,Muribeca,2,6,Pessoas de 60 a 69 anos,346
 280430,Muribeca,2,7,Situação de Rua,0
 280430,Muribeca,2,8,Quilombolas,0
 280430,Muribeca,2,9,Trabalhadores das forças de segurança,13
@@ -3724,12 +3724,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280440,Neópolis,1,3,Índio Aldeado,0
 280440,Neópolis,1,4,Pessoas com 80 anos e mais,410
 280440,Neópolis,1,5,Pessoas de 70 a 79 anos,692
-280440,Neópolis,1,6,Pessoas de 60 a 69 anos,1201
+280440,Neópolis,1,6,Pessoas de 60 a 69 anos,1203
 280440,Neópolis,1,7,Situação de Rua,0
 280440,Neópolis,1,8,Quilombolas,0
 280440,Neópolis,1,9,Trabalhadores das forças de segurança,37
 280440,Neópolis,1,14,Deficiente Permanente,28
-280440,Neópolis,1,15,Comorbidades,815
+280440,Neópolis,1,15,Comorbidades,816
 280440,Neópolis,1,16,Trabalhadores da Educação,328
 280440,Neópolis,1,17,Trabalhadores do sistema prisional,0
 280440,Neópolis,1,18,Privados de liberdade,0
@@ -3741,25 +3741,25 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280440,Neópolis,1,24,Trabalhadores da Educação Superior,0
 280440,Neópolis,1,25,Trabalhadores da Zona Portuária,3
 280440,Neópolis,1,26,Trabalhadores Industriais e Civil,572
-280440,Neópolis,1,27,População de 50 a 54 anos,517
-280440,Neópolis,1,28,População de 45 a 49 anos,550
-280440,Neópolis,1,29,População de 40 a 44 anos,480
+280440,Neópolis,1,27,População de 50 a 54 anos,519
+280440,Neópolis,1,28,População de 45 a 49 anos,555
+280440,Neópolis,1,29,População de 40 a 44 anos,498
 280440,Neópolis,1,30,Gestantes,53
 280440,Neópolis,1,31,Puerperas,19
-280440,Neópolis,1,32,População de 35 a 39 anos,477
-280440,Neópolis,1,33,População de 30 a 34 anos,61
+280440,Neópolis,1,32,População de 35 a 39 anos,514
+280440,Neópolis,1,33,População de 30 a 34 anos,69
 280440,Neópolis,1,34,Lactantes,0
 280440,Neópolis,2,1,Trabalhadores da Saúde,397
 280440,Neópolis,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280440,Neópolis,2,3,Índio Aldeado,0
 280440,Neópolis,2,4,Pessoas com 80 anos e mais,310
 280440,Neópolis,2,5,Pessoas de 70 a 79 anos,600
-280440,Neópolis,2,6,Pessoas de 60 a 69 anos,623
+280440,Neópolis,2,6,Pessoas de 60 a 69 anos,643
 280440,Neópolis,2,7,Situação de Rua,0
 280440,Neópolis,2,8,Quilombolas,0
 280440,Neópolis,2,9,Trabalhadores das forças de segurança,27
 280440,Neópolis,2,14,Deficiente Permanente,0
-280440,Neópolis,2,15,Comorbidades,6
+280440,Neópolis,2,15,Comorbidades,7
 280440,Neópolis,2,16,Trabalhadores da Educação,0
 280440,Neópolis,2,17,Trabalhadores do sistema prisional,0
 280440,Neópolis,2,18,Privados de liberdade,0
@@ -3767,16 +3767,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280440,Neópolis,2,20,Trabalhadores da Limpeza Urbana,0
 280440,Neópolis,2,21,Trabalhadores do Transporte Coletivo,0
 280440,Neópolis,2,22,Caminhoneiros,0
-280440,Neópolis,2,23,População de 55 a 59 anos,3
+280440,Neópolis,2,23,População de 55 a 59 anos,5
 280440,Neópolis,2,24,Trabalhadores da Educação Superior,0
 280440,Neópolis,2,25,Trabalhadores da Zona Portuária,0
-280440,Neópolis,2,26,Trabalhadores Industriais e Civil,0
-280440,Neópolis,2,27,População de 50 a 54 anos,1
-280440,Neópolis,2,28,População de 45 a 49 anos,2
-280440,Neópolis,2,29,População de 40 a 44 anos,1
+280440,Neópolis,2,26,Trabalhadores Industriais e Civil,11
+280440,Neópolis,2,27,População de 50 a 54 anos,6
+280440,Neópolis,2,28,População de 45 a 49 anos,25
+280440,Neópolis,2,29,População de 40 a 44 anos,3
 280440,Neópolis,2,30,Gestantes,1
 280440,Neópolis,2,31,Puerperas,0
-280440,Neópolis,2,32,População de 35 a 39 anos,1
+280440,Neópolis,2,32,População de 35 a 39 anos,3
 280440,Neópolis,2,33,População de 30 a 34 anos,1
 280440,Neópolis,2,34,Lactantes,0
 280445,Nossa Senhora Aparecida,-1,1,Trabalhadores da Saúde,0
@@ -4058,7 +4058,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280470,Nossa Senhora de Lourdes,-1,7,Situação de Rua,0
 280470,Nossa Senhora de Lourdes,-1,8,Quilombolas,0
 280470,Nossa Senhora de Lourdes,-1,9,Trabalhadores das forças de segurança,0
-280470,Nossa Senhora de Lourdes,-1,14,Deficiente Permanente,5
+280470,Nossa Senhora de Lourdes,-1,14,Deficiente Permanente,6
 280470,Nossa Senhora de Lourdes,-1,15,Comorbidades,1
 280470,Nossa Senhora de Lourdes,-1,16,Trabalhadores da Educação,0
 280470,Nossa Senhora de Lourdes,-1,17,Trabalhadores do sistema prisional,0
@@ -4071,9 +4071,9 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280470,Nossa Senhora de Lourdes,-1,24,Trabalhadores da Educação Superior,0
 280470,Nossa Senhora de Lourdes,-1,25,Trabalhadores da Zona Portuária,0
 280470,Nossa Senhora de Lourdes,-1,26,Trabalhadores Industriais e Civil,0
-280470,Nossa Senhora de Lourdes,-1,27,População de 50 a 54 anos,1
+280470,Nossa Senhora de Lourdes,-1,27,População de 50 a 54 anos,3
 280470,Nossa Senhora de Lourdes,-1,28,População de 45 a 49 anos,3
-280470,Nossa Senhora de Lourdes,-1,29,População de 40 a 44 anos,6
+280470,Nossa Senhora de Lourdes,-1,29,População de 40 a 44 anos,8
 280470,Nossa Senhora de Lourdes,-1,30,Gestantes,0
 280470,Nossa Senhora de Lourdes,-1,31,Puerperas,0
 280470,Nossa Senhora de Lourdes,-1,32,População de 35 a 39 anos,0
@@ -4097,24 +4097,24 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280470,Nossa Senhora de Lourdes,1,20,Trabalhadores da Limpeza Urbana,23
 280470,Nossa Senhora de Lourdes,1,21,Trabalhadores do Transporte Coletivo,2
 280470,Nossa Senhora de Lourdes,1,22,Caminhoneiros,12
-280470,Nossa Senhora de Lourdes,1,23,População de 55 a 59 anos,220
+280470,Nossa Senhora de Lourdes,1,23,População de 55 a 59 anos,221
 280470,Nossa Senhora de Lourdes,1,24,Trabalhadores da Educação Superior,0
 280470,Nossa Senhora de Lourdes,1,25,Trabalhadores da Zona Portuária,0
 280470,Nossa Senhora de Lourdes,1,26,Trabalhadores Industriais e Civil,10
-280470,Nossa Senhora de Lourdes,1,27,População de 50 a 54 anos,270
-280470,Nossa Senhora de Lourdes,1,28,População de 45 a 49 anos,220
-280470,Nossa Senhora de Lourdes,1,29,População de 40 a 44 anos,209
+280470,Nossa Senhora de Lourdes,1,27,População de 50 a 54 anos,273
+280470,Nossa Senhora de Lourdes,1,28,População de 45 a 49 anos,221
+280470,Nossa Senhora de Lourdes,1,29,População de 40 a 44 anos,213
 280470,Nossa Senhora de Lourdes,1,30,Gestantes,28
 280470,Nossa Senhora de Lourdes,1,31,Puerperas,5
-280470,Nossa Senhora de Lourdes,1,32,População de 35 a 39 anos,56
+280470,Nossa Senhora de Lourdes,1,32,População de 35 a 39 anos,68
 280470,Nossa Senhora de Lourdes,1,33,População de 30 a 34 anos,0
 280470,Nossa Senhora de Lourdes,1,34,Lactantes,0
 280470,Nossa Senhora de Lourdes,2,1,Trabalhadores da Saúde,117
 280470,Nossa Senhora de Lourdes,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280470,Nossa Senhora de Lourdes,2,3,Índio Aldeado,0
-280470,Nossa Senhora de Lourdes,2,4,Pessoas com 80 anos e mais,116
-280470,Nossa Senhora de Lourdes,2,5,Pessoas de 70 a 79 anos,283
-280470,Nossa Senhora de Lourdes,2,6,Pessoas de 60 a 69 anos,254
+280470,Nossa Senhora de Lourdes,2,4,Pessoas com 80 anos e mais,117
+280470,Nossa Senhora de Lourdes,2,5,Pessoas de 70 a 79 anos,285
+280470,Nossa Senhora de Lourdes,2,6,Pessoas de 60 a 69 anos,276
 280470,Nossa Senhora de Lourdes,2,7,Situação de Rua,0
 280470,Nossa Senhora de Lourdes,2,8,Quilombolas,0
 280470,Nossa Senhora de Lourdes,2,9,Trabalhadores das forças de segurança,8
@@ -4196,37 +4196,37 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280480,Nossa Senhora do Socorro,1,29,População de 40 a 44 anos,5011
 280480,Nossa Senhora do Socorro,1,30,Gestantes,348
 280480,Nossa Senhora do Socorro,1,31,Puerperas,93
-280480,Nossa Senhora do Socorro,1,32,População de 35 a 39 anos,4796
+280480,Nossa Senhora do Socorro,1,32,População de 35 a 39 anos,4797
 280480,Nossa Senhora do Socorro,1,33,População de 30 a 34 anos,410
 280480,Nossa Senhora do Socorro,1,34,Lactantes,21
-280480,Nossa Senhora do Socorro,2,1,Trabalhadores da Saúde,2085
+280480,Nossa Senhora do Socorro,2,1,Trabalhadores da Saúde,2089
 280480,Nossa Senhora do Socorro,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,36
 280480,Nossa Senhora do Socorro,2,3,Índio Aldeado,0
-280480,Nossa Senhora do Socorro,2,4,Pessoas com 80 anos e mais,1358
-280480,Nossa Senhora do Socorro,2,5,Pessoas de 70 a 79 anos,3598
-280480,Nossa Senhora do Socorro,2,6,Pessoas de 60 a 69 anos,7224
+280480,Nossa Senhora do Socorro,2,4,Pessoas com 80 anos e mais,1361
+280480,Nossa Senhora do Socorro,2,5,Pessoas de 70 a 79 anos,3600
+280480,Nossa Senhora do Socorro,2,6,Pessoas de 60 a 69 anos,7255
 280480,Nossa Senhora do Socorro,2,7,Situação de Rua,0
 280480,Nossa Senhora do Socorro,2,8,Quilombolas,1
 280480,Nossa Senhora do Socorro,2,9,Trabalhadores das forças de segurança,114
 280480,Nossa Senhora do Socorro,2,14,Deficiente Permanente,3
-280480,Nossa Senhora do Socorro,2,15,Comorbidades,89
+280480,Nossa Senhora do Socorro,2,15,Comorbidades,92
 280480,Nossa Senhora do Socorro,2,16,Trabalhadores da Educação,1
-280480,Nossa Senhora do Socorro,2,17,Trabalhadores do sistema prisional,0
+280480,Nossa Senhora do Socorro,2,17,Trabalhadores do sistema prisional,1
 280480,Nossa Senhora do Socorro,2,18,Privados de liberdade,220
 280480,Nossa Senhora do Socorro,2,19,Trabalhadores do Transporte aéreo,0
 280480,Nossa Senhora do Socorro,2,20,Trabalhadores da Limpeza Urbana,511
 280480,Nossa Senhora do Socorro,2,21,Trabalhadores do Transporte Coletivo,0
 280480,Nossa Senhora do Socorro,2,22,Caminhoneiros,3
-280480,Nossa Senhora do Socorro,2,23,População de 55 a 59 anos,38
+280480,Nossa Senhora do Socorro,2,23,População de 55 a 59 anos,43
 280480,Nossa Senhora do Socorro,2,24,Trabalhadores da Educação Superior,0
 280480,Nossa Senhora do Socorro,2,25,Trabalhadores da Zona Portuária,0
-280480,Nossa Senhora do Socorro,2,26,Trabalhadores Industriais e Civil,96
-280480,Nossa Senhora do Socorro,2,27,População de 50 a 54 anos,57
-280480,Nossa Senhora do Socorro,2,28,População de 45 a 49 anos,96
-280480,Nossa Senhora do Socorro,2,29,População de 40 a 44 anos,53
-280480,Nossa Senhora do Socorro,2,30,Gestantes,18
-280480,Nossa Senhora do Socorro,2,31,Puerperas,9
-280480,Nossa Senhora do Socorro,2,32,População de 35 a 39 anos,10
+280480,Nossa Senhora do Socorro,2,26,Trabalhadores Industriais e Civil,98
+280480,Nossa Senhora do Socorro,2,27,População de 50 a 54 anos,78
+280480,Nossa Senhora do Socorro,2,28,População de 45 a 49 anos,131
+280480,Nossa Senhora do Socorro,2,29,População de 40 a 44 anos,66
+280480,Nossa Senhora do Socorro,2,30,Gestantes,19
+280480,Nossa Senhora do Socorro,2,31,Puerperas,10
+280480,Nossa Senhora do Socorro,2,32,População de 35 a 39 anos,11
 280480,Nossa Senhora do Socorro,2,33,População de 30 a 34 anos,1
 280480,Nossa Senhora do Socorro,2,34,Lactantes,0
 280490,Pacatuba,-1,1,Trabalhadores da Saúde,3
@@ -4264,12 +4264,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280490,Pacatuba,1,3,Índio Aldeado,0
 280490,Pacatuba,1,4,Pessoas com 80 anos e mais,229
 280490,Pacatuba,1,5,Pessoas de 70 a 79 anos,461
-280490,Pacatuba,1,6,Pessoas de 60 a 69 anos,804
+280490,Pacatuba,1,6,Pessoas de 60 a 69 anos,805
 280490,Pacatuba,1,7,Situação de Rua,0
 280490,Pacatuba,1,8,Quilombolas,0
 280490,Pacatuba,1,9,Trabalhadores das forças de segurança,8
 280490,Pacatuba,1,14,Deficiente Permanente,222
-280490,Pacatuba,1,15,Comorbidades,1081
+280490,Pacatuba,1,15,Comorbidades,1082
 280490,Pacatuba,1,16,Trabalhadores da Educação,275
 280490,Pacatuba,1,17,Trabalhadores do sistema prisional,0
 280490,Pacatuba,1,18,Privados de liberdade,1
@@ -4282,24 +4282,24 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280490,Pacatuba,1,25,Trabalhadores da Zona Portuária,0
 280490,Pacatuba,1,26,Trabalhadores Industriais e Civil,54
 280490,Pacatuba,1,27,População de 50 a 54 anos,315
-280490,Pacatuba,1,28,População de 45 a 49 anos,282
+280490,Pacatuba,1,28,População de 45 a 49 anos,283
 280490,Pacatuba,1,29,População de 40 a 44 anos,270
 280490,Pacatuba,1,30,Gestantes,76
 280490,Pacatuba,1,31,Puerperas,24
-280490,Pacatuba,1,32,População de 35 a 39 anos,107
+280490,Pacatuba,1,32,População de 35 a 39 anos,108
 280490,Pacatuba,1,33,População de 30 a 34 anos,0
-280490,Pacatuba,1,34,Lactantes,8
-280490,Pacatuba,2,1,Trabalhadores da Saúde,180
+280490,Pacatuba,1,34,Lactantes,9
+280490,Pacatuba,2,1,Trabalhadores da Saúde,181
 280490,Pacatuba,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280490,Pacatuba,2,3,Índio Aldeado,0
 280490,Pacatuba,2,4,Pessoas com 80 anos e mais,226
 280490,Pacatuba,2,5,Pessoas de 70 a 79 anos,437
-280490,Pacatuba,2,6,Pessoas de 60 a 69 anos,525
+280490,Pacatuba,2,6,Pessoas de 60 a 69 anos,538
 280490,Pacatuba,2,7,Situação de Rua,0
 280490,Pacatuba,2,8,Quilombolas,0
 280490,Pacatuba,2,9,Trabalhadores das forças de segurança,8
-280490,Pacatuba,2,14,Deficiente Permanente,4
-280490,Pacatuba,2,15,Comorbidades,15
+280490,Pacatuba,2,14,Deficiente Permanente,6
+280490,Pacatuba,2,15,Comorbidades,21
 280490,Pacatuba,2,16,Trabalhadores da Educação,0
 280490,Pacatuba,2,17,Trabalhadores do sistema prisional,0
 280490,Pacatuba,2,18,Privados de liberdade,0
@@ -4444,12 +4444,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280510,Pedrinhas,1,3,Índio Aldeado,0
 280510,Pedrinhas,1,4,Pessoas com 80 anos e mais,232
 280510,Pedrinhas,1,5,Pessoas de 70 a 79 anos,399
-280510,Pedrinhas,1,6,Pessoas de 60 a 69 anos,548
+280510,Pedrinhas,1,6,Pessoas de 60 a 69 anos,549
 280510,Pedrinhas,1,7,Situação de Rua,0
 280510,Pedrinhas,1,8,Quilombolas,0
 280510,Pedrinhas,1,9,Trabalhadores das forças de segurança,22
 280510,Pedrinhas,1,14,Deficiente Permanente,37
-280510,Pedrinhas,1,15,Comorbidades,413
+280510,Pedrinhas,1,15,Comorbidades,414
 280510,Pedrinhas,1,16,Trabalhadores da Educação,155
 280510,Pedrinhas,1,17,Trabalhadores do sistema prisional,0
 280510,Pedrinhas,1,18,Privados de liberdade,0
@@ -4457,43 +4457,43 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280510,Pedrinhas,1,20,Trabalhadores da Limpeza Urbana,12
 280510,Pedrinhas,1,21,Trabalhadores do Transporte Coletivo,23
 280510,Pedrinhas,1,22,Caminhoneiros,15
-280510,Pedrinhas,1,23,População de 55 a 59 anos,170
+280510,Pedrinhas,1,23,População de 55 a 59 anos,174
 280510,Pedrinhas,1,24,Trabalhadores da Educação Superior,0
 280510,Pedrinhas,1,25,Trabalhadores da Zona Portuária,0
 280510,Pedrinhas,1,26,Trabalhadores Industriais e Civil,23
-280510,Pedrinhas,1,27,População de 50 a 54 anos,284
-280510,Pedrinhas,1,28,População de 45 a 49 anos,282
-280510,Pedrinhas,1,29,População de 40 a 44 anos,240
+280510,Pedrinhas,1,27,População de 50 a 54 anos,291
+280510,Pedrinhas,1,28,População de 45 a 49 anos,292
+280510,Pedrinhas,1,29,População de 40 a 44 anos,262
 280510,Pedrinhas,1,30,Gestantes,31
 280510,Pedrinhas,1,31,Puerperas,4
-280510,Pedrinhas,1,32,População de 35 a 39 anos,132
+280510,Pedrinhas,1,32,População de 35 a 39 anos,219
 280510,Pedrinhas,1,33,População de 30 a 34 anos,0
-280510,Pedrinhas,1,34,Lactantes,0
-280510,Pedrinhas,2,1,Trabalhadores da Saúde,131
+280510,Pedrinhas,1,34,Lactantes,3
+280510,Pedrinhas,2,1,Trabalhadores da Saúde,132
 280510,Pedrinhas,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280510,Pedrinhas,2,3,Índio Aldeado,0
 280510,Pedrinhas,2,4,Pessoas com 80 anos e mais,180
-280510,Pedrinhas,2,5,Pessoas de 70 a 79 anos,384
-280510,Pedrinhas,2,6,Pessoas de 60 a 69 anos,269
+280510,Pedrinhas,2,5,Pessoas de 70 a 79 anos,385
+280510,Pedrinhas,2,6,Pessoas de 60 a 69 anos,270
 280510,Pedrinhas,2,7,Situação de Rua,0
 280510,Pedrinhas,2,8,Quilombolas,0
 280510,Pedrinhas,2,9,Trabalhadores das forças de segurança,9
 280510,Pedrinhas,2,14,Deficiente Permanente,2
-280510,Pedrinhas,2,15,Comorbidades,7
-280510,Pedrinhas,2,16,Trabalhadores da Educação,0
+280510,Pedrinhas,2,15,Comorbidades,11
+280510,Pedrinhas,2,16,Trabalhadores da Educação,1
 280510,Pedrinhas,2,17,Trabalhadores do sistema prisional,0
 280510,Pedrinhas,2,18,Privados de liberdade,0
 280510,Pedrinhas,2,19,Trabalhadores do Transporte aéreo,0
 280510,Pedrinhas,2,20,Trabalhadores da Limpeza Urbana,0
-280510,Pedrinhas,2,21,Trabalhadores do Transporte Coletivo,0
+280510,Pedrinhas,2,21,Trabalhadores do Transporte Coletivo,1
 280510,Pedrinhas,2,22,Caminhoneiros,0
-280510,Pedrinhas,2,23,População de 55 a 59 anos,6
+280510,Pedrinhas,2,23,População de 55 a 59 anos,13
 280510,Pedrinhas,2,24,Trabalhadores da Educação Superior,0
 280510,Pedrinhas,2,25,Trabalhadores da Zona Portuária,0
-280510,Pedrinhas,2,26,Trabalhadores Industriais e Civil,23
-280510,Pedrinhas,2,27,População de 50 a 54 anos,7
-280510,Pedrinhas,2,28,População de 45 a 49 anos,21
-280510,Pedrinhas,2,29,População de 40 a 44 anos,2
+280510,Pedrinhas,2,26,Trabalhadores Industriais e Civil,24
+280510,Pedrinhas,2,27,População de 50 a 54 anos,22
+280510,Pedrinhas,2,28,População de 45 a 49 anos,39
+280510,Pedrinhas,2,29,População de 40 a 44 anos,27
 280510,Pedrinhas,2,30,Gestantes,0
 280510,Pedrinhas,2,31,Puerperas,0
 280510,Pedrinhas,2,32,População de 35 a 39 anos,0
@@ -4607,7 +4607,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280530,Pirambu,-1,20,Trabalhadores da Limpeza Urbana,0
 280530,Pirambu,-1,21,Trabalhadores do Transporte Coletivo,0
 280530,Pirambu,-1,22,Caminhoneiros,0
-280530,Pirambu,-1,23,População de 55 a 59 anos,3
+280530,Pirambu,-1,23,População de 55 a 59 anos,5
 280530,Pirambu,-1,24,Trabalhadores da Educação Superior,0
 280530,Pirambu,-1,25,Trabalhadores da Zona Portuária,0
 280530,Pirambu,-1,26,Trabalhadores Industriais e Civil,0
@@ -4624,42 +4624,42 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280530,Pirambu,1,3,Índio Aldeado,0
 280530,Pirambu,1,4,Pessoas com 80 anos e mais,157
 280530,Pirambu,1,5,Pessoas de 70 a 79 anos,269
-280530,Pirambu,1,6,Pessoas de 60 a 69 anos,510
+280530,Pirambu,1,6,Pessoas de 60 a 69 anos,515
 280530,Pirambu,1,7,Situação de Rua,0
 280530,Pirambu,1,8,Quilombolas,248
 280530,Pirambu,1,9,Trabalhadores das forças de segurança,27
 280530,Pirambu,1,14,Deficiente Permanente,28
 280530,Pirambu,1,15,Comorbidades,618
-280530,Pirambu,1,16,Trabalhadores da Educação,100
+280530,Pirambu,1,16,Trabalhadores da Educação,111
 280530,Pirambu,1,17,Trabalhadores do sistema prisional,0
 280530,Pirambu,1,18,Privados de liberdade,0
 280530,Pirambu,1,19,Trabalhadores do Transporte aéreo,0
 280530,Pirambu,1,20,Trabalhadores da Limpeza Urbana,60
 280530,Pirambu,1,21,Trabalhadores do Transporte Coletivo,60
 280530,Pirambu,1,22,Caminhoneiros,5
-280530,Pirambu,1,23,População de 55 a 59 anos,262
+280530,Pirambu,1,23,População de 55 a 59 anos,266
 280530,Pirambu,1,24,Trabalhadores da Educação Superior,76
 280530,Pirambu,1,25,Trabalhadores da Zona Portuária,0
 280530,Pirambu,1,26,Trabalhadores Industriais e Civil,3
-280530,Pirambu,1,27,População de 50 a 54 anos,220
-280530,Pirambu,1,28,População de 45 a 49 anos,258
-280530,Pirambu,1,29,População de 40 a 44 anos,246
+280530,Pirambu,1,27,População de 50 a 54 anos,223
+280530,Pirambu,1,28,População de 45 a 49 anos,276
+280530,Pirambu,1,29,População de 40 a 44 anos,267
 280530,Pirambu,1,30,Gestantes,44
 280530,Pirambu,1,31,Puerperas,6
 280530,Pirambu,1,32,População de 35 a 39 anos,137
 280530,Pirambu,1,33,População de 30 a 34 anos,0
-280530,Pirambu,1,34,Lactantes,0
-280530,Pirambu,2,1,Trabalhadores da Saúde,156
+280530,Pirambu,1,34,Lactantes,11
+280530,Pirambu,2,1,Trabalhadores da Saúde,162
 280530,Pirambu,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280530,Pirambu,2,3,Índio Aldeado,0
-280530,Pirambu,2,4,Pessoas com 80 anos e mais,152
-280530,Pirambu,2,5,Pessoas de 70 a 79 anos,252
-280530,Pirambu,2,6,Pessoas de 60 a 69 anos,286
+280530,Pirambu,2,4,Pessoas com 80 anos e mais,154
+280530,Pirambu,2,5,Pessoas de 70 a 79 anos,256
+280530,Pirambu,2,6,Pessoas de 60 a 69 anos,394
 280530,Pirambu,2,7,Situação de Rua,0
 280530,Pirambu,2,8,Quilombolas,209
 280530,Pirambu,2,9,Trabalhadores das forças de segurança,22
 280530,Pirambu,2,14,Deficiente Permanente,0
-280530,Pirambu,2,15,Comorbidades,0
+280530,Pirambu,2,15,Comorbidades,21
 280530,Pirambu,2,16,Trabalhadores da Educação,0
 280530,Pirambu,2,17,Trabalhadores do sistema prisional,0
 280530,Pirambu,2,18,Privados de liberdade,0
@@ -4667,14 +4667,14 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280530,Pirambu,2,20,Trabalhadores da Limpeza Urbana,0
 280530,Pirambu,2,21,Trabalhadores do Transporte Coletivo,0
 280530,Pirambu,2,22,Caminhoneiros,0
-280530,Pirambu,2,23,População de 55 a 59 anos,0
+280530,Pirambu,2,23,População de 55 a 59 anos,10
 280530,Pirambu,2,24,Trabalhadores da Educação Superior,0
 280530,Pirambu,2,25,Trabalhadores da Zona Portuária,0
 280530,Pirambu,2,26,Trabalhadores Industriais e Civil,0
 280530,Pirambu,2,27,População de 50 a 54 anos,0
 280530,Pirambu,2,28,População de 45 a 49 anos,0
-280530,Pirambu,2,29,População de 40 a 44 anos,0
-280530,Pirambu,2,30,Gestantes,0
+280530,Pirambu,2,29,População de 40 a 44 anos,1
+280530,Pirambu,2,30,Gestantes,3
 280530,Pirambu,2,31,Puerperas,0
 280530,Pirambu,2,32,População de 35 a 39 anos,0
 280530,Pirambu,2,33,População de 30 a 34 anos,0
@@ -4683,7 +4683,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280540,Poço Redondo,-1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280540,Poço Redondo,-1,3,Índio Aldeado,0
 280540,Poço Redondo,-1,4,Pessoas com 80 anos e mais,0
-280540,Poço Redondo,-1,5,Pessoas de 70 a 79 anos,0
+280540,Poço Redondo,-1,5,Pessoas de 70 a 79 anos,1
 280540,Poço Redondo,-1,6,Pessoas de 60 a 69 anos,1
 280540,Poço Redondo,-1,7,Situação de Rua,0
 280540,Poço Redondo,-1,8,Quilombolas,0
@@ -4701,25 +4701,25 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280540,Poço Redondo,-1,24,Trabalhadores da Educação Superior,0
 280540,Poço Redondo,-1,25,Trabalhadores da Zona Portuária,0
 280540,Poço Redondo,-1,26,Trabalhadores Industriais e Civil,0
-280540,Poço Redondo,-1,27,População de 50 a 54 anos,10
-280540,Poço Redondo,-1,28,População de 45 a 49 anos,19
-280540,Poço Redondo,-1,29,População de 40 a 44 anos,50
+280540,Poço Redondo,-1,27,População de 50 a 54 anos,11
+280540,Poço Redondo,-1,28,População de 45 a 49 anos,26
+280540,Poço Redondo,-1,29,População de 40 a 44 anos,56
 280540,Poço Redondo,-1,30,Gestantes,0
 280540,Poço Redondo,-1,31,Puerperas,0
 280540,Poço Redondo,-1,32,População de 35 a 39 anos,113
 280540,Poço Redondo,-1,33,População de 30 a 34 anos,8
 280540,Poço Redondo,-1,34,Lactantes,0
-280540,Poço Redondo,1,1,Trabalhadores da Saúde,494
+280540,Poço Redondo,1,1,Trabalhadores da Saúde,495
 280540,Poço Redondo,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280540,Poço Redondo,1,3,Índio Aldeado,0
 280540,Poço Redondo,1,4,Pessoas com 80 anos e mais,536
 280540,Poço Redondo,1,5,Pessoas de 70 a 79 anos,1113
-280540,Poço Redondo,1,6,Pessoas de 60 a 69 anos,1395
+280540,Poço Redondo,1,6,Pessoas de 60 a 69 anos,1396
 280540,Poço Redondo,1,7,Situação de Rua,0
 280540,Poço Redondo,1,8,Quilombolas,316
-280540,Poço Redondo,1,9,Trabalhadores das forças de segurança,48
+280540,Poço Redondo,1,9,Trabalhadores das forças de segurança,57
 280540,Poço Redondo,1,14,Deficiente Permanente,153
-280540,Poço Redondo,1,15,Comorbidades,2284
+280540,Poço Redondo,1,15,Comorbidades,2286
 280540,Poço Redondo,1,16,Trabalhadores da Educação,418
 280540,Poço Redondo,1,17,Trabalhadores do sistema prisional,0
 280540,Poço Redondo,1,18,Privados de liberdade,0
@@ -4727,16 +4727,16 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280540,Poço Redondo,1,20,Trabalhadores da Limpeza Urbana,23
 280540,Poço Redondo,1,21,Trabalhadores do Transporte Coletivo,19
 280540,Poço Redondo,1,22,Caminhoneiros,100
-280540,Poço Redondo,1,23,População de 55 a 59 anos,570
+280540,Poço Redondo,1,23,População de 55 a 59 anos,571
 280540,Poço Redondo,1,24,Trabalhadores da Educação Superior,0
 280540,Poço Redondo,1,25,Trabalhadores da Zona Portuária,0
 280540,Poço Redondo,1,26,Trabalhadores Industriais e Civil,5
-280540,Poço Redondo,1,27,População de 50 a 54 anos,573
-280540,Poço Redondo,1,28,População de 45 a 49 anos,739
-280540,Poço Redondo,1,29,População de 40 a 44 anos,894
+280540,Poço Redondo,1,27,População de 50 a 54 anos,575
+280540,Poço Redondo,1,28,População de 45 a 49 anos,746
+280540,Poço Redondo,1,29,População de 40 a 44 anos,905
 280540,Poço Redondo,1,30,Gestantes,238
 280540,Poço Redondo,1,31,Puerperas,33
-280540,Poço Redondo,1,32,População de 35 a 39 anos,454
+280540,Poço Redondo,1,32,População de 35 a 39 anos,477
 280540,Poço Redondo,1,33,População de 30 a 34 anos,26
 280540,Poço Redondo,1,34,Lactantes,0
 280540,Poço Redondo,2,1,Trabalhadores da Saúde,378
@@ -4744,7 +4744,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280540,Poço Redondo,2,3,Índio Aldeado,0
 280540,Poço Redondo,2,4,Pessoas com 80 anos e mais,475
 280540,Poço Redondo,2,5,Pessoas de 70 a 79 anos,1156
-280540,Poço Redondo,2,6,Pessoas de 60 a 69 anos,1282
+280540,Poço Redondo,2,6,Pessoas de 60 a 69 anos,1284
 280540,Poço Redondo,2,7,Situação de Rua,0
 280540,Poço Redondo,2,8,Quilombolas,170
 280540,Poço Redondo,2,9,Trabalhadores das forças de segurança,12
@@ -4817,27 +4817,27 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280550,Poço Verde,1,20,Trabalhadores da Limpeza Urbana,42
 280550,Poço Verde,1,21,Trabalhadores do Transporte Coletivo,63
 280550,Poço Verde,1,22,Caminhoneiros,33
-280550,Poço Verde,1,23,População de 55 a 59 anos,765
+280550,Poço Verde,1,23,População de 55 a 59 anos,767
 280550,Poço Verde,1,24,Trabalhadores da Educação Superior,7
 280550,Poço Verde,1,25,Trabalhadores da Zona Portuária,0
 280550,Poço Verde,1,26,Trabalhadores Industriais e Civil,518
-280550,Poço Verde,1,27,População de 50 a 54 anos,885
-280550,Poço Verde,1,28,População de 45 a 49 anos,890
-280550,Poço Verde,1,29,População de 40 a 44 anos,840
+280550,Poço Verde,1,27,População de 50 a 54 anos,889
+280550,Poço Verde,1,28,População de 45 a 49 anos,892
+280550,Poço Verde,1,29,População de 40 a 44 anos,842
 280550,Poço Verde,1,30,Gestantes,93
 280550,Poço Verde,1,31,Puerperas,20
-280550,Poço Verde,1,32,População de 35 a 39 anos,305
+280550,Poço Verde,1,32,População de 35 a 39 anos,306
 280550,Poço Verde,1,33,População de 30 a 34 anos,11
-280550,Poço Verde,1,34,Lactantes,1
+280550,Poço Verde,1,34,Lactantes,2
 280550,Poço Verde,2,1,Trabalhadores da Saúde,392
 280550,Poço Verde,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280550,Poço Verde,2,3,Índio Aldeado,0
-280550,Poço Verde,2,4,Pessoas com 80 anos e mais,523
-280550,Poço Verde,2,5,Pessoas de 70 a 79 anos,1124
-280550,Poço Verde,2,6,Pessoas de 60 a 69 anos,1290
+280550,Poço Verde,2,4,Pessoas com 80 anos e mais,524
+280550,Poço Verde,2,5,Pessoas de 70 a 79 anos,1125
+280550,Poço Verde,2,6,Pessoas de 60 a 69 anos,1330
 280550,Poço Verde,2,7,Situação de Rua,0
 280550,Poço Verde,2,8,Quilombolas,126
-280550,Poço Verde,2,9,Trabalhadores das forças de segurança,10
+280550,Poço Verde,2,9,Trabalhadores das forças de segurança,12
 280550,Poço Verde,2,14,Deficiente Permanente,2
 280550,Poço Verde,2,15,Comorbidades,15
 280550,Poço Verde,2,16,Trabalhadores da Educação,1
@@ -4851,8 +4851,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280550,Poço Verde,2,24,Trabalhadores da Educação Superior,0
 280550,Poço Verde,2,25,Trabalhadores da Zona Portuária,0
 280550,Poço Verde,2,26,Trabalhadores Industriais e Civil,0
-280550,Poço Verde,2,27,População de 50 a 54 anos,5
-280550,Poço Verde,2,28,População de 45 a 49 anos,12
+280550,Poço Verde,2,27,População de 50 a 54 anos,10
+280550,Poço Verde,2,28,População de 45 a 49 anos,17
 280550,Poço Verde,2,29,População de 40 a 44 anos,0
 280550,Poço Verde,2,30,Gestantes,0
 280550,Poço Verde,2,31,Puerperas,0
@@ -4899,7 +4899,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280560,Porto da Folha,1,8,Quilombolas,408
 280560,Porto da Folha,1,9,Trabalhadores das forças de segurança,48
 280560,Porto da Folha,1,14,Deficiente Permanente,193
-280560,Porto da Folha,1,15,Comorbidades,806
+280560,Porto da Folha,1,15,Comorbidades,817
 280560,Porto da Folha,1,16,Trabalhadores da Educação,536
 280560,Porto da Folha,1,17,Trabalhadores do sistema prisional,0
 280560,Porto da Folha,1,18,Privados de liberdade,0
@@ -4923,8 +4923,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280560,Porto da Folha,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280560,Porto da Folha,2,3,Índio Aldeado,276
 280560,Porto da Folha,2,4,Pessoas com 80 anos e mais,496
-280560,Porto da Folha,2,5,Pessoas de 70 a 79 anos,1031
-280560,Porto da Folha,2,6,Pessoas de 60 a 69 anos,1224
+280560,Porto da Folha,2,5,Pessoas de 70 a 79 anos,1034
+280560,Porto da Folha,2,6,Pessoas de 60 a 69 anos,1260
 280560,Porto da Folha,2,7,Situação de Rua,0
 280560,Porto da Folha,2,8,Quilombolas,397
 280560,Porto da Folha,2,9,Trabalhadores das forças de segurança,16
@@ -4942,7 +4942,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280560,Porto da Folha,2,25,Trabalhadores da Zona Portuária,0
 280560,Porto da Folha,2,26,Trabalhadores Industriais e Civil,0
 280560,Porto da Folha,2,27,População de 50 a 54 anos,29
-280560,Porto da Folha,2,28,População de 45 a 49 anos,116
+280560,Porto da Folha,2,28,População de 45 a 49 anos,124
 280560,Porto da Folha,2,29,População de 40 a 44 anos,8
 280560,Porto da Folha,2,30,Gestantes,0
 280560,Porto da Folha,2,31,Puerperas,0
@@ -5009,15 +5009,15 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280570,Propriá,1,32,População de 35 a 39 anos,1024
 280570,Propriá,1,33,População de 30 a 34 anos,415
 280570,Propriá,1,34,Lactantes,7
-280570,Propriá,2,1,Trabalhadores da Saúde,994
+280570,Propriá,2,1,Trabalhadores da Saúde,997
 280570,Propriá,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,21
 280570,Propriá,2,3,Índio Aldeado,0
 280570,Propriá,2,4,Pessoas com 80 anos e mais,536
-280570,Propriá,2,5,Pessoas de 70 a 79 anos,993
-280570,Propriá,2,6,Pessoas de 60 a 69 anos,1042
+280570,Propriá,2,5,Pessoas de 70 a 79 anos,994
+280570,Propriá,2,6,Pessoas de 60 a 69 anos,1066
 280570,Propriá,2,7,Situação de Rua,0
 280570,Propriá,2,8,Quilombolas,0
-280570,Propriá,2,9,Trabalhadores das forças de segurança,67
+280570,Propriá,2,9,Trabalhadores das forças de segurança,68
 280570,Propriá,2,14,Deficiente Permanente,0
 280570,Propriá,2,15,Comorbidades,15
 280570,Propriá,2,16,Trabalhadores da Educação,2
@@ -5030,13 +5030,13 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280570,Propriá,2,23,População de 55 a 59 anos,11
 280570,Propriá,2,24,Trabalhadores da Educação Superior,0
 280570,Propriá,2,25,Trabalhadores da Zona Portuária,0
-280570,Propriá,2,26,Trabalhadores Industriais e Civil,3
+280570,Propriá,2,26,Trabalhadores Industriais e Civil,7
 280570,Propriá,2,27,População de 50 a 54 anos,13
 280570,Propriá,2,28,População de 45 a 49 anos,27
-280570,Propriá,2,29,População de 40 a 44 anos,71
+280570,Propriá,2,29,População de 40 a 44 anos,83
 280570,Propriá,2,30,Gestantes,0
 280570,Propriá,2,31,Puerperas,0
-280570,Propriá,2,32,População de 35 a 39 anos,0
+280570,Propriá,2,32,População de 35 a 39 anos,1
 280570,Propriá,2,33,População de 30 a 34 anos,0
 280570,Propriá,2,34,Lactantes,0
 280580,Riachão do Dantas,-1,1,Trabalhadores da Saúde,1
@@ -5073,13 +5073,13 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280580,Riachão do Dantas,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280580,Riachão do Dantas,1,3,Índio Aldeado,0
 280580,Riachão do Dantas,1,4,Pessoas com 80 anos e mais,469
-280580,Riachão do Dantas,1,5,Pessoas de 70 a 79 anos,879
-280580,Riachão do Dantas,1,6,Pessoas de 60 a 69 anos,1212
+280580,Riachão do Dantas,1,5,Pessoas de 70 a 79 anos,881
+280580,Riachão do Dantas,1,6,Pessoas de 60 a 69 anos,1213
 280580,Riachão do Dantas,1,7,Situação de Rua,0
 280580,Riachão do Dantas,1,8,Quilombolas,256
 280580,Riachão do Dantas,1,9,Trabalhadores das forças de segurança,25
-280580,Riachão do Dantas,1,14,Deficiente Permanente,2
-280580,Riachão do Dantas,1,15,Comorbidades,1484
+280580,Riachão do Dantas,1,14,Deficiente Permanente,3
+280580,Riachão do Dantas,1,15,Comorbidades,1485
 280580,Riachão do Dantas,1,16,Trabalhadores da Educação,256
 280580,Riachão do Dantas,1,17,Trabalhadores do sistema prisional,0
 280580,Riachão do Dantas,1,18,Privados de liberdade,0
@@ -5087,24 +5087,24 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280580,Riachão do Dantas,1,20,Trabalhadores da Limpeza Urbana,26
 280580,Riachão do Dantas,1,21,Trabalhadores do Transporte Coletivo,38
 280580,Riachão do Dantas,1,22,Caminhoneiros,14
-280580,Riachão do Dantas,1,23,População de 55 a 59 anos,339
+280580,Riachão do Dantas,1,23,População de 55 a 59 anos,342
 280580,Riachão do Dantas,1,24,Trabalhadores da Educação Superior,0
 280580,Riachão do Dantas,1,25,Trabalhadores da Zona Portuária,0
 280580,Riachão do Dantas,1,26,Trabalhadores Industriais e Civil,17
-280580,Riachão do Dantas,1,27,População de 50 a 54 anos,637
-280580,Riachão do Dantas,1,28,População de 45 a 49 anos,569
-280580,Riachão do Dantas,1,29,População de 40 a 44 anos,376
+280580,Riachão do Dantas,1,27,População de 50 a 54 anos,652
+280580,Riachão do Dantas,1,28,População de 45 a 49 anos,576
+280580,Riachão do Dantas,1,29,População de 40 a 44 anos,398
 280580,Riachão do Dantas,1,30,Gestantes,47
 280580,Riachão do Dantas,1,31,Puerperas,15
-280580,Riachão do Dantas,1,32,População de 35 a 39 anos,90
+280580,Riachão do Dantas,1,32,População de 35 a 39 anos,112
 280580,Riachão do Dantas,1,33,População de 30 a 34 anos,0
 280580,Riachão do Dantas,1,34,Lactantes,3
-280580,Riachão do Dantas,2,1,Trabalhadores da Saúde,301
+280580,Riachão do Dantas,2,1,Trabalhadores da Saúde,303
 280580,Riachão do Dantas,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280580,Riachão do Dantas,2,3,Índio Aldeado,0
 280580,Riachão do Dantas,2,4,Pessoas com 80 anos e mais,398
-280580,Riachão do Dantas,2,5,Pessoas de 70 a 79 anos,846
-280580,Riachão do Dantas,2,6,Pessoas de 60 a 69 anos,644
+280580,Riachão do Dantas,2,5,Pessoas de 70 a 79 anos,847
+280580,Riachão do Dantas,2,6,Pessoas de 60 a 69 anos,670
 280580,Riachão do Dantas,2,7,Situação de Rua,0
 280580,Riachão do Dantas,2,8,Quilombolas,220
 280580,Riachão do Dantas,2,9,Trabalhadores das forças de segurança,16
@@ -5117,13 +5117,13 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280580,Riachão do Dantas,2,20,Trabalhadores da Limpeza Urbana,0
 280580,Riachão do Dantas,2,21,Trabalhadores do Transporte Coletivo,0
 280580,Riachão do Dantas,2,22,Caminhoneiros,0
-280580,Riachão do Dantas,2,23,População de 55 a 59 anos,0
+280580,Riachão do Dantas,2,23,População de 55 a 59 anos,9
 280580,Riachão do Dantas,2,24,Trabalhadores da Educação Superior,0
 280580,Riachão do Dantas,2,25,Trabalhadores da Zona Portuária,0
 280580,Riachão do Dantas,2,26,Trabalhadores Industriais e Civil,0
-280580,Riachão do Dantas,2,27,População de 50 a 54 anos,0
-280580,Riachão do Dantas,2,28,População de 45 a 49 anos,0
-280580,Riachão do Dantas,2,29,População de 40 a 44 anos,0
+280580,Riachão do Dantas,2,27,População de 50 a 54 anos,4
+280580,Riachão do Dantas,2,28,População de 45 a 49 anos,5
+280580,Riachão do Dantas,2,29,População de 40 a 44 anos,1
 280580,Riachão do Dantas,2,30,Gestantes,0
 280580,Riachão do Dantas,2,31,Puerperas,0
 280580,Riachão do Dantas,2,32,População de 35 a 39 anos,0
@@ -5189,12 +5189,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280590,Riachuelo,1,32,População de 35 a 39 anos,270
 280590,Riachuelo,1,33,População de 30 a 34 anos,87
 280590,Riachuelo,1,34,Lactantes,7
-280590,Riachuelo,2,1,Trabalhadores da Saúde,221
+280590,Riachuelo,2,1,Trabalhadores da Saúde,222
 280590,Riachuelo,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280590,Riachuelo,2,3,Índio Aldeado,0
 280590,Riachuelo,2,4,Pessoas com 80 anos e mais,127
-280590,Riachuelo,2,5,Pessoas de 70 a 79 anos,241
-280590,Riachuelo,2,6,Pessoas de 60 a 69 anos,443
+280590,Riachuelo,2,5,Pessoas de 70 a 79 anos,243
+280590,Riachuelo,2,6,Pessoas de 60 a 69 anos,457
 280590,Riachuelo,2,7,Situação de Rua,0
 280590,Riachuelo,2,8,Quilombolas,130
 280590,Riachuelo,2,9,Trabalhadores das forças de segurança,13
@@ -5211,9 +5211,9 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280590,Riachuelo,2,24,Trabalhadores da Educação Superior,0
 280590,Riachuelo,2,25,Trabalhadores da Zona Portuária,0
 280590,Riachuelo,2,26,Trabalhadores Industriais e Civil,5
-280590,Riachuelo,2,27,População de 50 a 54 anos,1
-280590,Riachuelo,2,28,População de 45 a 49 anos,5
-280590,Riachuelo,2,29,População de 40 a 44 anos,11
+280590,Riachuelo,2,27,População de 50 a 54 anos,2
+280590,Riachuelo,2,28,População de 45 a 49 anos,7
+280590,Riachuelo,2,29,População de 40 a 44 anos,13
 280590,Riachuelo,2,30,Gestantes,0
 280590,Riachuelo,2,31,Puerperas,0
 280590,Riachuelo,2,32,População de 35 a 39 anos,0
@@ -5284,7 +5284,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280600,Ribeirópolis,2,3,Índio Aldeado,0
 280600,Ribeirópolis,2,4,Pessoas com 80 anos e mais,411
 280600,Ribeirópolis,2,5,Pessoas de 70 a 79 anos,840
-280600,Ribeirópolis,2,6,Pessoas de 60 a 69 anos,946
+280600,Ribeirópolis,2,6,Pessoas de 60 a 69 anos,956
 280600,Ribeirópolis,2,7,Situação de Rua,0
 280600,Ribeirópolis,2,8,Quilombolas,0
 280600,Ribeirópolis,2,9,Trabalhadores das forças de segurança,30
@@ -5373,7 +5373,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280610,Rosário do Catete,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280610,Rosário do Catete,2,3,Índio Aldeado,0
 280610,Rosário do Catete,2,4,Pessoas com 80 anos e mais,123
-280610,Rosário do Catete,2,5,Pessoas de 70 a 79 anos,288
+280610,Rosário do Catete,2,5,Pessoas de 70 a 79 anos,289
 280610,Rosário do Catete,2,6,Pessoas de 60 a 69 anos,278
 280610,Rosário do Catete,2,7,Situação de Rua,0
 280610,Rosário do Catete,2,8,Quilombolas,0
@@ -5429,7 +5429,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280620,Salgado,-1,32,População de 35 a 39 anos,0
 280620,Salgado,-1,33,População de 30 a 34 anos,0
 280620,Salgado,-1,34,Lactantes,0
-280620,Salgado,1,1,Trabalhadores da Saúde,328
+280620,Salgado,1,1,Trabalhadores da Saúde,330
 280620,Salgado,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280620,Salgado,1,3,Índio Aldeado,0
 280620,Salgado,1,4,Pessoas com 80 anos e mais,412
@@ -5450,7 +5450,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280620,Salgado,1,23,População de 55 a 59 anos,629
 280620,Salgado,1,24,Trabalhadores da Educação Superior,0
 280620,Salgado,1,25,Trabalhadores da Zona Portuária,0
-280620,Salgado,1,26,Trabalhadores Industriais e Civil,196
+280620,Salgado,1,26,Trabalhadores Industriais e Civil,198
 280620,Salgado,1,27,População de 50 a 54 anos,789
 280620,Salgado,1,28,População de 45 a 49 anos,781
 280620,Salgado,1,29,População de 40 a 44 anos,631
@@ -5458,7 +5458,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280620,Salgado,1,31,Puerperas,24
 280620,Salgado,1,32,População de 35 a 39 anos,173
 280620,Salgado,1,33,População de 30 a 34 anos,0
-280620,Salgado,1,34,Lactantes,0
+280620,Salgado,1,34,Lactantes,1
 280620,Salgado,2,1,Trabalhadores da Saúde,266
 280620,Salgado,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280620,Salgado,2,3,Índio Aldeado,0
@@ -5537,17 +5537,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280630,Santa Luzia do Itanhy,1,20,Trabalhadores da Limpeza Urbana,6
 280630,Santa Luzia do Itanhy,1,21,Trabalhadores do Transporte Coletivo,0
 280630,Santa Luzia do Itanhy,1,22,Caminhoneiros,3
-280630,Santa Luzia do Itanhy,1,23,População de 55 a 59 anos,247
+280630,Santa Luzia do Itanhy,1,23,População de 55 a 59 anos,248
 280630,Santa Luzia do Itanhy,1,24,Trabalhadores da Educação Superior,0
 280630,Santa Luzia do Itanhy,1,25,Trabalhadores da Zona Portuária,0
 280630,Santa Luzia do Itanhy,1,26,Trabalhadores Industriais e Civil,0
-280630,Santa Luzia do Itanhy,1,27,População de 50 a 54 anos,230
-280630,Santa Luzia do Itanhy,1,28,População de 45 a 49 anos,286
-280630,Santa Luzia do Itanhy,1,29,População de 40 a 44 anos,482
+280630,Santa Luzia do Itanhy,1,27,População de 50 a 54 anos,232
+280630,Santa Luzia do Itanhy,1,28,População de 45 a 49 anos,288
+280630,Santa Luzia do Itanhy,1,29,População de 40 a 44 anos,488
 280630,Santa Luzia do Itanhy,1,30,Gestantes,37
 280630,Santa Luzia do Itanhy,1,31,Puerperas,19
-280630,Santa Luzia do Itanhy,1,32,População de 35 a 39 anos,482
-280630,Santa Luzia do Itanhy,1,33,População de 30 a 34 anos,359
+280630,Santa Luzia do Itanhy,1,32,População de 35 a 39 anos,488
+280630,Santa Luzia do Itanhy,1,33,População de 30 a 34 anos,367
 280630,Santa Luzia do Itanhy,1,34,Lactantes,0
 280630,Santa Luzia do Itanhy,2,1,Trabalhadores da Saúde,151
 280630,Santa Luzia do Itanhy,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
@@ -5556,7 +5556,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280630,Santa Luzia do Itanhy,2,5,Pessoas de 70 a 79 anos,315
 280630,Santa Luzia do Itanhy,2,6,Pessoas de 60 a 69 anos,213
 280630,Santa Luzia do Itanhy,2,7,Situação de Rua,0
-280630,Santa Luzia do Itanhy,2,8,Quilombolas,1286
+280630,Santa Luzia do Itanhy,2,8,Quilombolas,1543
 280630,Santa Luzia do Itanhy,2,9,Trabalhadores das forças de segurança,0
 280630,Santa Luzia do Itanhy,2,14,Deficiente Permanente,0
 280630,Santa Luzia do Itanhy,2,15,Comorbidades,4
@@ -5609,7 +5609,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280640,Santana do São Francisco,-1,32,População de 35 a 39 anos,1
 280640,Santana do São Francisco,-1,33,População de 30 a 34 anos,0
 280640,Santana do São Francisco,-1,34,Lactantes,0
-280640,Santana do São Francisco,1,1,Trabalhadores da Saúde,150
+280640,Santana do São Francisco,1,1,Trabalhadores da Saúde,151
 280640,Santana do São Francisco,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280640,Santana do São Francisco,1,3,Índio Aldeado,0
 280640,Santana do São Francisco,1,4,Pessoas com 80 anos e mais,138
@@ -5620,31 +5620,31 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280640,Santana do São Francisco,1,9,Trabalhadores das forças de segurança,7
 280640,Santana do São Francisco,1,14,Deficiente Permanente,62
 280640,Santana do São Francisco,1,15,Comorbidades,384
-280640,Santana do São Francisco,1,16,Trabalhadores da Educação,128
+280640,Santana do São Francisco,1,16,Trabalhadores da Educação,130
 280640,Santana do São Francisco,1,17,Trabalhadores do sistema prisional,0
 280640,Santana do São Francisco,1,18,Privados de liberdade,0
 280640,Santana do São Francisco,1,19,Trabalhadores do Transporte aéreo,0
-280640,Santana do São Francisco,1,20,Trabalhadores da Limpeza Urbana,16
+280640,Santana do São Francisco,1,20,Trabalhadores da Limpeza Urbana,17
 280640,Santana do São Francisco,1,21,Trabalhadores do Transporte Coletivo,10
 280640,Santana do São Francisco,1,22,Caminhoneiros,0
-280640,Santana do São Francisco,1,23,População de 55 a 59 anos,162
+280640,Santana do São Francisco,1,23,População de 55 a 59 anos,163
 280640,Santana do São Francisco,1,24,Trabalhadores da Educação Superior,0
 280640,Santana do São Francisco,1,25,Trabalhadores da Zona Portuária,0
 280640,Santana do São Francisco,1,26,Trabalhadores Industriais e Civil,0
 280640,Santana do São Francisco,1,27,População de 50 a 54 anos,223
-280640,Santana do São Francisco,1,28,População de 45 a 49 anos,201
-280640,Santana do São Francisco,1,29,População de 40 a 44 anos,131
+280640,Santana do São Francisco,1,28,População de 45 a 49 anos,204
+280640,Santana do São Francisco,1,29,População de 40 a 44 anos,141
 280640,Santana do São Francisco,1,30,Gestantes,42
 280640,Santana do São Francisco,1,31,Puerperas,9
 280640,Santana do São Francisco,1,32,População de 35 a 39 anos,0
 280640,Santana do São Francisco,1,33,População de 30 a 34 anos,0
-280640,Santana do São Francisco,1,34,Lactantes,4
-280640,Santana do São Francisco,2,1,Trabalhadores da Saúde,98
+280640,Santana do São Francisco,1,34,Lactantes,16
+280640,Santana do São Francisco,2,1,Trabalhadores da Saúde,105
 280640,Santana do São Francisco,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280640,Santana do São Francisco,2,3,Índio Aldeado,0
-280640,Santana do São Francisco,2,4,Pessoas com 80 anos e mais,115
-280640,Santana do São Francisco,2,5,Pessoas de 70 a 79 anos,237
-280640,Santana do São Francisco,2,6,Pessoas de 60 a 69 anos,131
+280640,Santana do São Francisco,2,4,Pessoas com 80 anos e mais,118
+280640,Santana do São Francisco,2,5,Pessoas de 70 a 79 anos,243
+280640,Santana do São Francisco,2,6,Pessoas de 60 a 69 anos,229
 280640,Santana do São Francisco,2,7,Situação de Rua,0
 280640,Santana do São Francisco,2,8,Quilombolas,0
 280640,Santana do São Francisco,2,9,Trabalhadores das forças de segurança,6
@@ -5661,7 +5661,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280640,Santana do São Francisco,2,24,Trabalhadores da Educação Superior,0
 280640,Santana do São Francisco,2,25,Trabalhadores da Zona Portuária,0
 280640,Santana do São Francisco,2,26,Trabalhadores Industriais e Civil,0
-280640,Santana do São Francisco,2,27,População de 50 a 54 anos,18
+280640,Santana do São Francisco,2,27,População de 50 a 54 anos,19
 280640,Santana do São Francisco,2,28,População de 45 a 49 anos,3
 280640,Santana do São Francisco,2,29,População de 40 a 44 anos,1
 280640,Santana do São Francisco,2,30,Gestantes,1
@@ -5734,17 +5734,17 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280650,Santa Rosa de Lima,2,3,Índio Aldeado,0
 280650,Santa Rosa de Lima,2,4,Pessoas com 80 anos e mais,91
 280650,Santa Rosa de Lima,2,5,Pessoas de 70 a 79 anos,171
-280650,Santa Rosa de Lima,2,6,Pessoas de 60 a 69 anos,199
+280650,Santa Rosa de Lima,2,6,Pessoas de 60 a 69 anos,200
 280650,Santa Rosa de Lima,2,7,Situação de Rua,0
 280650,Santa Rosa de Lima,2,8,Quilombolas,0
 280650,Santa Rosa de Lima,2,9,Trabalhadores das forças de segurança,8
 280650,Santa Rosa de Lima,2,14,Deficiente Permanente,0
-280650,Santa Rosa de Lima,2,15,Comorbidades,3
+280650,Santa Rosa de Lima,2,15,Comorbidades,4
 280650,Santa Rosa de Lima,2,16,Trabalhadores da Educação,0
 280650,Santa Rosa de Lima,2,17,Trabalhadores do sistema prisional,0
 280650,Santa Rosa de Lima,2,18,Privados de liberdade,0
 280650,Santa Rosa de Lima,2,19,Trabalhadores do Transporte aéreo,0
-280650,Santa Rosa de Lima,2,20,Trabalhadores da Limpeza Urbana,0
+280650,Santa Rosa de Lima,2,20,Trabalhadores da Limpeza Urbana,1
 280650,Santa Rosa de Lima,2,21,Trabalhadores do Transporte Coletivo,0
 280650,Santa Rosa de Lima,2,22,Caminhoneiros,0
 280650,Santa Rosa de Lima,2,23,População de 55 a 59 anos,4
@@ -5752,8 +5752,8 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280650,Santa Rosa de Lima,2,25,Trabalhadores da Zona Portuária,0
 280650,Santa Rosa de Lima,2,26,Trabalhadores Industriais e Civil,0
 280650,Santa Rosa de Lima,2,27,População de 50 a 54 anos,5
-280650,Santa Rosa de Lima,2,28,População de 45 a 49 anos,9
-280650,Santa Rosa de Lima,2,29,População de 40 a 44 anos,3
+280650,Santa Rosa de Lima,2,28,População de 45 a 49 anos,14
+280650,Santa Rosa de Lima,2,29,População de 40 a 44 anos,14
 280650,Santa Rosa de Lima,2,30,Gestantes,0
 280650,Santa Rosa de Lima,2,31,Puerperas,0
 280650,Santa Rosa de Lima,2,32,População de 35 a 39 anos,0
@@ -5807,24 +5807,24 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280660,Santo Amaro das Brotas,1,20,Trabalhadores da Limpeza Urbana,20
 280660,Santo Amaro das Brotas,1,21,Trabalhadores do Transporte Coletivo,38
 280660,Santo Amaro das Brotas,1,22,Caminhoneiros,1
-280660,Santo Amaro das Brotas,1,23,População de 55 a 59 anos,247
+280660,Santo Amaro das Brotas,1,23,População de 55 a 59 anos,249
 280660,Santo Amaro das Brotas,1,24,Trabalhadores da Educação Superior,0
 280660,Santo Amaro das Brotas,1,25,Trabalhadores da Zona Portuária,0
 280660,Santo Amaro das Brotas,1,26,Trabalhadores Industriais e Civil,37
-280660,Santo Amaro das Brotas,1,27,População de 50 a 54 anos,292
-280660,Santo Amaro das Brotas,1,28,População de 45 a 49 anos,398
-280660,Santo Amaro das Brotas,1,29,População de 40 a 44 anos,344
+280660,Santo Amaro das Brotas,1,27,População de 50 a 54 anos,306
+280660,Santo Amaro das Brotas,1,28,População de 45 a 49 anos,421
+280660,Santo Amaro das Brotas,1,29,População de 40 a 44 anos,410
 280660,Santo Amaro das Brotas,1,30,Gestantes,16
 280660,Santo Amaro das Brotas,1,31,Puerperas,7
-280660,Santo Amaro das Brotas,1,32,População de 35 a 39 anos,49
-280660,Santo Amaro das Brotas,1,33,População de 30 a 34 anos,0
+280660,Santo Amaro das Brotas,1,32,População de 35 a 39 anos,247
+280660,Santo Amaro das Brotas,1,33,População de 30 a 34 anos,8
 280660,Santo Amaro das Brotas,1,34,Lactantes,0
 280660,Santo Amaro das Brotas,2,1,Trabalhadores da Saúde,170
 280660,Santo Amaro das Brotas,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280660,Santo Amaro das Brotas,2,3,Índio Aldeado,0
 280660,Santo Amaro das Brotas,2,4,Pessoas com 80 anos e mais,236
-280660,Santo Amaro das Brotas,2,5,Pessoas de 70 a 79 anos,421
-280660,Santo Amaro das Brotas,2,6,Pessoas de 60 a 69 anos,638
+280660,Santo Amaro das Brotas,2,5,Pessoas de 70 a 79 anos,422
+280660,Santo Amaro das Brotas,2,6,Pessoas de 60 a 69 anos,641
 280660,Santo Amaro das Brotas,2,7,Situação de Rua,0
 280660,Santo Amaro das Brotas,2,8,Quilombolas,0
 280660,Santo Amaro das Brotas,2,9,Trabalhadores das forças de segurança,25
@@ -6064,12 +6064,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280690,São Francisco,1,3,Índio Aldeado,0
 280690,São Francisco,1,4,Pessoas com 80 anos e mais,63
 280690,São Francisco,1,5,Pessoas de 70 a 79 anos,115
-280690,São Francisco,1,6,Pessoas de 60 a 69 anos,243
+280690,São Francisco,1,6,Pessoas de 60 a 69 anos,244
 280690,São Francisco,1,7,Situação de Rua,0
 280690,São Francisco,1,8,Quilombolas,0
 280690,São Francisco,1,9,Trabalhadores das forças de segurança,12
 280690,São Francisco,1,14,Deficiente Permanente,37
-280690,São Francisco,1,15,Comorbidades,192
+280690,São Francisco,1,15,Comorbidades,195
 280690,São Francisco,1,16,Trabalhadores da Educação,106
 280690,São Francisco,1,17,Trabalhadores do sistema prisional,0
 280690,São Francisco,1,18,Privados de liberdade,0
@@ -6077,24 +6077,24 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280690,São Francisco,1,20,Trabalhadores da Limpeza Urbana,2
 280690,São Francisco,1,21,Trabalhadores do Transporte Coletivo,7
 280690,São Francisco,1,22,Caminhoneiros,2
-280690,São Francisco,1,23,População de 55 a 59 anos,93
+280690,São Francisco,1,23,População de 55 a 59 anos,94
 280690,São Francisco,1,24,Trabalhadores da Educação Superior,0
 280690,São Francisco,1,25,Trabalhadores da Zona Portuária,0
 280690,São Francisco,1,26,Trabalhadores Industriais e Civil,0
-280690,São Francisco,1,27,População de 50 a 54 anos,97
-280690,São Francisco,1,28,População de 45 a 49 anos,95
-280690,São Francisco,1,29,População de 40 a 44 anos,6
+280690,São Francisco,1,27,População de 50 a 54 anos,99
+280690,São Francisco,1,28,População de 45 a 49 anos,97
+280690,São Francisco,1,29,População de 40 a 44 anos,70
 280690,São Francisco,1,30,Gestantes,22
 280690,São Francisco,1,31,Puerperas,7
 280690,São Francisco,1,32,População de 35 a 39 anos,0
 280690,São Francisco,1,33,População de 30 a 34 anos,0
-280690,São Francisco,1,34,Lactantes,0
+280690,São Francisco,1,34,Lactantes,1
 280690,São Francisco,2,1,Trabalhadores da Saúde,78
 280690,São Francisco,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280690,São Francisco,2,3,Índio Aldeado,0
-280690,São Francisco,2,4,Pessoas com 80 anos e mais,57
+280690,São Francisco,2,4,Pessoas com 80 anos e mais,58
 280690,São Francisco,2,5,Pessoas de 70 a 79 anos,116
-280690,São Francisco,2,6,Pessoas de 60 a 69 anos,153
+280690,São Francisco,2,6,Pessoas de 60 a 69 anos,164
 280690,São Francisco,2,7,Situação de Rua,0
 280690,São Francisco,2,8,Quilombolas,0
 280690,São Francisco,2,9,Trabalhadores das forças de segurança,12
@@ -6514,12 +6514,12 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280740,Tobias Barreto,1,3,Índio Aldeado,0
 280740,Tobias Barreto,1,4,Pessoas com 80 anos e mais,1322
 280740,Tobias Barreto,1,5,Pessoas de 70 a 79 anos,2114
-280740,Tobias Barreto,1,6,Pessoas de 60 a 69 anos,3240
+280740,Tobias Barreto,1,6,Pessoas de 60 a 69 anos,3242
 280740,Tobias Barreto,1,7,Situação de Rua,0
 280740,Tobias Barreto,1,8,Quilombolas,0
 280740,Tobias Barreto,1,9,Trabalhadores das forças de segurança,105
 280740,Tobias Barreto,1,14,Deficiente Permanente,241
-280740,Tobias Barreto,1,15,Comorbidades,2565
+280740,Tobias Barreto,1,15,Comorbidades,2567
 280740,Tobias Barreto,1,16,Trabalhadores da Educação,982
 280740,Tobias Barreto,1,17,Trabalhadores do sistema prisional,82
 280740,Tobias Barreto,1,18,Privados de liberdade,476
@@ -6527,43 +6527,43 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280740,Tobias Barreto,1,20,Trabalhadores da Limpeza Urbana,43
 280740,Tobias Barreto,1,21,Trabalhadores do Transporte Coletivo,157
 280740,Tobias Barreto,1,22,Caminhoneiros,101
-280740,Tobias Barreto,1,23,População de 55 a 59 anos,1133
+280740,Tobias Barreto,1,23,População de 55 a 59 anos,1135
 280740,Tobias Barreto,1,24,Trabalhadores da Educação Superior,0
 280740,Tobias Barreto,1,25,Trabalhadores da Zona Portuária,0
-280740,Tobias Barreto,1,26,Trabalhadores Industriais e Civil,1089
-280740,Tobias Barreto,1,27,População de 50 a 54 anos,1722
-280740,Tobias Barreto,1,28,População de 45 a 49 anos,1334
-280740,Tobias Barreto,1,29,População de 40 a 44 anos,1737
-280740,Tobias Barreto,1,30,Gestantes,127
-280740,Tobias Barreto,1,31,Puerperas,43
-280740,Tobias Barreto,1,32,População de 35 a 39 anos,1805
-280740,Tobias Barreto,1,33,População de 30 a 34 anos,782
+280740,Tobias Barreto,1,26,Trabalhadores Industriais e Civil,1090
+280740,Tobias Barreto,1,27,População de 50 a 54 anos,1733
+280740,Tobias Barreto,1,28,População de 45 a 49 anos,1355
+280740,Tobias Barreto,1,29,População de 40 a 44 anos,1765
+280740,Tobias Barreto,1,30,Gestantes,133
+280740,Tobias Barreto,1,31,Puerperas,45
+280740,Tobias Barreto,1,32,População de 35 a 39 anos,1886
+280740,Tobias Barreto,1,33,População de 30 a 34 anos,1174
 280740,Tobias Barreto,1,34,Lactantes,0
-280740,Tobias Barreto,2,1,Trabalhadores da Saúde,999
+280740,Tobias Barreto,2,1,Trabalhadores da Saúde,1002
 280740,Tobias Barreto,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,33
 280740,Tobias Barreto,2,3,Índio Aldeado,0
-280740,Tobias Barreto,2,4,Pessoas com 80 anos e mais,1087
-280740,Tobias Barreto,2,5,Pessoas de 70 a 79 anos,2090
-280740,Tobias Barreto,2,6,Pessoas de 60 a 69 anos,2020
+280740,Tobias Barreto,2,4,Pessoas com 80 anos e mais,1088
+280740,Tobias Barreto,2,5,Pessoas de 70 a 79 anos,2091
+280740,Tobias Barreto,2,6,Pessoas de 60 a 69 anos,2079
 280740,Tobias Barreto,2,7,Situação de Rua,0
 280740,Tobias Barreto,2,8,Quilombolas,0
 280740,Tobias Barreto,2,9,Trabalhadores das forças de segurança,105
 280740,Tobias Barreto,2,14,Deficiente Permanente,5
-280740,Tobias Barreto,2,15,Comorbidades,90
+280740,Tobias Barreto,2,15,Comorbidades,91
 280740,Tobias Barreto,2,16,Trabalhadores da Educação,1
-280740,Tobias Barreto,2,17,Trabalhadores do sistema prisional,21
-280740,Tobias Barreto,2,18,Privados de liberdade,0
+280740,Tobias Barreto,2,17,Trabalhadores do sistema prisional,35
+280740,Tobias Barreto,2,18,Privados de liberdade,3
 280740,Tobias Barreto,2,19,Trabalhadores do Transporte aéreo,0
 280740,Tobias Barreto,2,20,Trabalhadores da Limpeza Urbana,0
 280740,Tobias Barreto,2,21,Trabalhadores do Transporte Coletivo,1
 280740,Tobias Barreto,2,22,Caminhoneiros,0
-280740,Tobias Barreto,2,23,População de 55 a 59 anos,8
+280740,Tobias Barreto,2,23,População de 55 a 59 anos,9
 280740,Tobias Barreto,2,24,Trabalhadores da Educação Superior,0
 280740,Tobias Barreto,2,25,Trabalhadores da Zona Portuária,0
 280740,Tobias Barreto,2,26,Trabalhadores Industriais e Civil,2
-280740,Tobias Barreto,2,27,População de 50 a 54 anos,28
+280740,Tobias Barreto,2,27,População de 50 a 54 anos,29
 280740,Tobias Barreto,2,28,População de 45 a 49 anos,45
-280740,Tobias Barreto,2,29,População de 40 a 44 anos,37
+280740,Tobias Barreto,2,29,População de 40 a 44 anos,52
 280740,Tobias Barreto,2,30,Gestantes,5
 280740,Tobias Barreto,2,31,Puerperas,3
 280740,Tobias Barreto,2,32,População de 35 a 39 anos,0
@@ -6599,7 +6599,7 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280750,Tomar do Geru,-1,32,População de 35 a 39 anos,139
 280750,Tomar do Geru,-1,33,População de 30 a 34 anos,0
 280750,Tomar do Geru,-1,34,Lactantes,0
-280750,Tomar do Geru,1,1,Trabalhadores da Saúde,213
+280750,Tomar do Geru,1,1,Trabalhadores da Saúde,214
 280750,Tomar do Geru,1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280750,Tomar do Geru,1,3,Índio Aldeado,0
 280750,Tomar do Geru,1,4,Pessoas com 80 anos e mais,208
@@ -6617,24 +6617,24 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280750,Tomar do Geru,1,20,Trabalhadores da Limpeza Urbana,26
 280750,Tomar do Geru,1,21,Trabalhadores do Transporte Coletivo,10
 280750,Tomar do Geru,1,22,Caminhoneiros,19
-280750,Tomar do Geru,1,23,População de 55 a 59 anos,363
+280750,Tomar do Geru,1,23,População de 55 a 59 anos,366
 280750,Tomar do Geru,1,24,Trabalhadores da Educação Superior,0
 280750,Tomar do Geru,1,25,Trabalhadores da Zona Portuária,0
 280750,Tomar do Geru,1,26,Trabalhadores Industriais e Civil,22
-280750,Tomar do Geru,1,27,População de 50 a 54 anos,499
-280750,Tomar do Geru,1,28,População de 45 a 49 anos,467
-280750,Tomar do Geru,1,29,População de 40 a 44 anos,481
+280750,Tomar do Geru,1,27,População de 50 a 54 anos,503
+280750,Tomar do Geru,1,28,População de 45 a 49 anos,472
+280750,Tomar do Geru,1,29,População de 40 a 44 anos,487
 280750,Tomar do Geru,1,30,Gestantes,50
 280750,Tomar do Geru,1,31,Puerperas,6
-280750,Tomar do Geru,1,32,População de 35 a 39 anos,327
-280750,Tomar do Geru,1,33,População de 30 a 34 anos,54
+280750,Tomar do Geru,1,32,População de 35 a 39 anos,339
+280750,Tomar do Geru,1,33,População de 30 a 34 anos,76
 280750,Tomar do Geru,1,34,Lactantes,2
 280750,Tomar do Geru,2,1,Trabalhadores da Saúde,153
 280750,Tomar do Geru,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280750,Tomar do Geru,2,3,Índio Aldeado,0
-280750,Tomar do Geru,2,4,Pessoas com 80 anos e mais,222
+280750,Tomar do Geru,2,4,Pessoas com 80 anos e mais,223
 280750,Tomar do Geru,2,5,Pessoas de 70 a 79 anos,417
-280750,Tomar do Geru,2,6,Pessoas de 60 a 69 anos,409
+280750,Tomar do Geru,2,6,Pessoas de 60 a 69 anos,415
 280750,Tomar do Geru,2,7,Situação de Rua,0
 280750,Tomar do Geru,2,8,Quilombolas,0
 280750,Tomar do Geru,2,9,Trabalhadores das forças de segurança,11
@@ -6651,10 +6651,10 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280750,Tomar do Geru,2,24,Trabalhadores da Educação Superior,0
 280750,Tomar do Geru,2,25,Trabalhadores da Zona Portuária,0
 280750,Tomar do Geru,2,26,Trabalhadores Industriais e Civil,0
-280750,Tomar do Geru,2,27,População de 50 a 54 anos,4
-280750,Tomar do Geru,2,28,População de 45 a 49 anos,13
-280750,Tomar do Geru,2,29,População de 40 a 44 anos,17
-280750,Tomar do Geru,2,30,Gestantes,0
+280750,Tomar do Geru,2,27,População de 50 a 54 anos,5
+280750,Tomar do Geru,2,28,População de 45 a 49 anos,14
+280750,Tomar do Geru,2,29,População de 40 a 44 anos,18
+280750,Tomar do Geru,2,30,Gestantes,1
 280750,Tomar do Geru,2,31,Puerperas,0
 280750,Tomar do Geru,2,32,População de 35 a 39 anos,0
 280750,Tomar do Geru,2,33,População de 30 a 34 anos,0
@@ -6716,15 +6716,15 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280760,Umbaúba,1,29,População de 40 a 44 anos,915
 280760,Umbaúba,1,30,Gestantes,63
 280760,Umbaúba,1,31,Puerperas,31
-280760,Umbaúba,1,32,População de 35 a 39 anos,657
-280760,Umbaúba,1,33,População de 30 a 34 anos,212
+280760,Umbaúba,1,32,População de 35 a 39 anos,666
+280760,Umbaúba,1,33,População de 30 a 34 anos,213
 280760,Umbaúba,1,34,Lactantes,0
 280760,Umbaúba,2,1,Trabalhadores da Saúde,427
 280760,Umbaúba,2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,0
 280760,Umbaúba,2,3,Índio Aldeado,0
-280760,Umbaúba,2,4,Pessoas com 80 anos e mais,331
+280760,Umbaúba,2,4,Pessoas com 80 anos e mais,338
 280760,Umbaúba,2,5,Pessoas de 70 a 79 anos,673
-280760,Umbaúba,2,6,Pessoas de 60 a 69 anos,843
+280760,Umbaúba,2,6,Pessoas de 60 a 69 anos,920
 280760,Umbaúba,2,7,Situação de Rua,0
 280760,Umbaúba,2,8,Quilombolas,0
 280760,Umbaúba,2,9,Trabalhadores das forças de segurança,18
@@ -6741,11 +6741,11 @@ codigo_municipio,municipio,dose,grupo,nome_grupo,total
 280760,Umbaúba,2,24,Trabalhadores da Educação Superior,0
 280760,Umbaúba,2,25,Trabalhadores da Zona Portuária,0
 280760,Umbaúba,2,26,Trabalhadores Industriais e Civil,1
-280760,Umbaúba,2,27,População de 50 a 54 anos,1
+280760,Umbaúba,2,27,População de 50 a 54 anos,2
 280760,Umbaúba,2,28,População de 45 a 49 anos,1
-280760,Umbaúba,2,29,População de 40 a 44 anos,7
+280760,Umbaúba,2,29,População de 40 a 44 anos,8
 280760,Umbaúba,2,30,Gestantes,0
 280760,Umbaúba,2,31,Puerperas,0
 280760,Umbaúba,2,32,População de 35 a 39 anos,0
-280760,Umbaúba,2,33,População de 30 a 34 anos,0
+280760,Umbaúba,2,33,População de 30 a 34 anos,1
 280760,Umbaúba,2,34,Lactantes,0
