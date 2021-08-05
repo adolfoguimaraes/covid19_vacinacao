@@ -1,33 +1,33 @@
 grupo,nome_grupo,dose_unica,dose_1,dose_2
-1,Trabalhadores da Saúde,656,76910,54184
-2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,10,823,770
+1,Trabalhadores da Saúde,657,77269,57202
+2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,10,843,770
 3,Índio Aldeado,0,278,276
-4,Pessoas com 80 anos e mais,9,40484,38184
-5,Pessoas de 70 a 79 anos,33,81728,79862
-6,Pessoas de 60 a 69 anos,212,144264,117281
+4,Pessoas com 80 anos e mais,9,40491,38255
+5,Pessoas de 70 a 79 anos,33,81791,80199
+6,Pessoas de 60 a 69 anos,212,144444,124883
 7,Situação de Rua,42,377,54
-8,Quilombolas,179,11316,9473
-9,Trabalhadores das forças de segurança,5,8561,4064
-14,Deficiente Permanente,70,8687,305
-15,Comorbidades,571,121332,3421
-16,Trabalhadores da Educação,122,38304,238
-17,Trabalhadores do sistema prisional,1,846,59
-18,Privados de liberdade,0,5249,243
-19,Trabalhadores do Transporte aéreo,0,450,0
-20,Trabalhadores da Limpeza Urbana,70,4367,647
-21,Trabalhadores do Transporte Coletivo,51,4003,22
-22,Caminhoneiros,87,7070,107
-23,População de 55 a 59 anos,12578,167529,1130
-24,Trabalhadores da Educação Superior,11,3210,4
-25,Trabalhadores da Zona Portuária,1,513,0
-26,Trabalhadores Industriais e Civil,442,17646,290
-27,População de 50 a 54 anos,2418,49780,1944
-28,População de 45 a 49 anos,5433,53126,3726
-29,População de 40 a 44 anos,10780,53756,3745
-30,Gestantes,0,9088,1025
-31,Puerperas,2,1647,182
-32,População de 35 a 39 anos,4464,45991,312
-33,População de 30 a 34 anos,666,41822,63
-34,Lactantes,0,763,2
-35,População de 25 a 29 anos,3,2707,13
-36,População de 20 a 24 anos,0,678,11
+8,Quilombolas,179,11466,9736
+9,Trabalhadores das forças de segurança,5,8590,4743
+14,Deficiente Permanente,71,8727,521
+15,Comorbidades,572,121622,7160
+16,Trabalhadores da Educação,122,38454,473
+17,Trabalhadores do sistema prisional,1,846,63
+18,Privados de liberdade,0,5254,243
+19,Trabalhadores do Transporte aéreo,0,452,0
+20,Trabalhadores da Limpeza Urbana,70,4381,665
+21,Trabalhadores do Transporte Coletivo,51,4019,27
+22,Caminhoneiros,87,7101,125
+23,População de 55 a 59 anos,12583,168122,3319
+24,Trabalhadores da Educação Superior,11,3211,7
+25,Trabalhadores da Zona Portuária,1,516,0
+26,Trabalhadores Industriais e Civil,442,18130,377
+27,População de 50 a 54 anos,2392,50743,3377
+28,População de 45 a 49 anos,5453,54736,5026
+29,População de 40 a 44 anos,10786,57544,4989
+30,Gestantes,0,9888,1866
+31,Puerperas,2,1756,296
+32,População de 35 a 39 anos,4475,58439,591
+33,População de 30 a 34 anos,671,62388,221
+34,Lactantes,0,1162,19
+35,População de 25 a 29 anos,5,23540,2749
+36,População de 20 a 24 anos,0,1589,37
