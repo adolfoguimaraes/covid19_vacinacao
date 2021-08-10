@@ -1,6 +1,7 @@
 "IDADE","SEXO","MUNICÍPIO","COMORBIDADE","DATA ÓBITO","DATA CONFIRMAÇÃO"
 "76","Masc","São Cristóvão","Hipertensão Arterial Sistemica, Ex Tabagista","07/08/2021","06/07/2021"
 "63","Fem","Aracaju","Hipertensão Arterial Sistemica","07/08/2021","01/07/2021"
+"78","Fem","Aracaju","Sem Comorbidade","07/08/2021","01/08/2021"
 "81","Fem","Pirambu","Sem Comorbidade","05/08/2021","05/08/2021"
 "66","Masc","Aracaju","Diabetes Mellitus, Ex Tabagista","04/08/2021","13/07/2021"
 "90","Masc","Itabaiana","Sem Comorbidade","04/08/2021","03/08/2021"
