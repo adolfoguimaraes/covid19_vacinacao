@@ -22,79 +22,79 @@ dose,grupo,nome_grupo,total
 -1,25,Trabalhadores da Zona Portuária,1
 -1,26,Trabalhadores Industriais e Civil,483
 -1,27,População de 50 a 54 anos,2393
--1,28,População de 45 a 49 anos,5481
+-1,28,População de 45 a 49 anos,5482
 -1,29,População de 40 a 44 anos,10793
 -1,30,Gestantes,0
 -1,31,Puerperas,2
--1,32,População de 35 a 39 anos,4477
+-1,32,População de 35 a 39 anos,4481
 -1,33,População de 30 a 34 anos,676
 -1,34,Lactantes,0
 -1,35,População de 25 a 29 anos,14
 -1,36,População de 20 a 24 anos,340
 -1,37,População de 18 e 19 anos,4
-1,1,Trabalhadores da Saúde,77442
-1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,868
+1,1,Trabalhadores da Saúde,77468
+1,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,870
 1,3,Índio Aldeado,278
-1,4,Pessoas com 80 anos e mais,40515
-1,5,Pessoas de 70 a 79 anos,81879
-1,6,Pessoas de 60 a 69 anos,144793
-1,7,Situação de Rua,378
-1,8,Quilombolas,11512
-1,9,Trabalhadores das forças de segurança,8607
-1,14,Deficiente Permanente,8800
-1,15,Comorbidades,121924
-1,16,Trabalhadores da Educação,38531
+1,4,Pessoas com 80 anos e mais,40517
+1,5,Pessoas de 70 a 79 anos,81892
+1,6,Pessoas de 60 a 69 anos,144871
+1,7,Situação de Rua,408
+1,8,Quilombolas,11518
+1,9,Trabalhadores das forças de segurança,8613
+1,14,Deficiente Permanente,8817
+1,15,Comorbidades,122069
+1,16,Trabalhadores da Educação,38549
 1,17,Trabalhadores do sistema prisional,846
 1,18,Privados de liberdade,5254
 1,19,Trabalhadores do Transporte aéreo,452
 1,20,Trabalhadores da Limpeza Urbana,4386
-1,21,Trabalhadores do Transporte Coletivo,4030
+1,21,Trabalhadores do Transporte Coletivo,4031
 1,22,Caminhoneiros,7108
-1,23,População de 55 a 59 anos,176402
-1,24,Trabalhadores da Educação Superior,3219
+1,23,População de 55 a 59 anos,176992
+1,24,Trabalhadores da Educação Superior,3236
 1,25,Trabalhadores da Zona Portuária,516
-1,26,Trabalhadores Industriais e Civil,18295
-1,27,População de 50 a 54 anos,51947
-1,28,População de 45 a 49 anos,56760
-1,29,População de 40 a 44 anos,61159
-1,30,Gestantes,10776
-1,31,Puerperas,1851
-1,32,População de 35 a 39 anos,67080
-1,33,População de 30 a 34 anos,85608
-1,34,Lactantes,1588
-1,35,População de 25 a 29 anos,64514
-1,36,População de 20 a 24 anos,22779
-1,37,População de 18 e 19 anos,1383
-2,1,Trabalhadores da Saúde,60060
+1,26,Trabalhadores Industriais e Civil,18301
+1,27,População de 50 a 54 anos,52108
+1,28,População de 45 a 49 anos,57059
+1,29,População de 40 a 44 anos,61632
+1,30,Gestantes,10888
+1,31,Puerperas,1868
+1,32,População de 35 a 39 anos,68126
+1,33,População de 30 a 34 anos,88011
+1,34,Lactantes,1615
+1,35,População de 25 a 29 anos,70619
+1,36,População de 20 a 24 anos,33564
+1,37,População de 18 e 19 anos,2749
+2,1,Trabalhadores da Saúde,60756
 2,2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,792
-2,3,Índio Aldeado,276
-2,4,Pessoas com 80 anos e mais,38372
-2,5,Pessoas de 70 a 79 anos,80483
-2,6,Pessoas de 60 a 69 anos,130308
+2,3,Índio Aldeado,277
+2,4,Pessoas com 80 anos e mais,38381
+2,5,Pessoas de 70 a 79 anos,80515
+2,6,Pessoas de 60 a 69 anos,130702
 2,7,Situação de Rua,54
-2,8,Quilombolas,9896
-2,9,Trabalhadores das forças de segurança,5377
-2,14,Deficiente Permanente,1238
-2,15,Comorbidades,22471
-2,16,Trabalhadores da Educação,1794
-2,17,Trabalhadores do sistema prisional,86
-2,18,Privados de liberdade,243
+2,8,Quilombolas,9995
+2,9,Trabalhadores das forças de segurança,5598
+2,14,Deficiente Permanente,1492
+2,15,Comorbidades,25464
+2,16,Trabalhadores da Educação,3049
+2,17,Trabalhadores do sistema prisional,92
+2,18,Privados de liberdade,246
 2,19,Trabalhadores do Transporte aéreo,0
-2,20,Trabalhadores da Limpeza Urbana,810
-2,21,Trabalhadores do Transporte Coletivo,44
-2,22,Caminhoneiros,180
-2,23,População de 55 a 59 anos,11313
-2,24,Trabalhadores da Educação Superior,73
+2,20,Trabalhadores da Limpeza Urbana,821
+2,21,Trabalhadores do Transporte Coletivo,51
+2,22,Caminhoneiros,186
+2,23,População de 55 a 59 anos,14959
+2,24,Trabalhadores da Educação Superior,95
 2,25,Trabalhadores da Zona Portuária,2
-2,26,Trabalhadores Industriais e Civil,450
-2,27,População de 50 a 54 anos,6078
-2,28,População de 45 a 49 anos,6236
-2,29,População de 40 a 44 anos,7017
-2,30,Gestantes,2191
-2,31,Puerperas,356
-2,32,População de 35 a 39 anos,1749
-2,33,População de 30 a 34 anos,575
-2,34,Lactantes,74
-2,35,População de 25 a 29 anos,2851
-2,36,População de 20 a 24 anos,85
+2,26,Trabalhadores Industriais e Civil,457
+2,27,População de 50 a 54 anos,6441
+2,28,População de 45 a 49 anos,6413
+2,29,População de 40 a 44 anos,7149
+2,30,Gestantes,2233
+2,31,Puerperas,362
+2,32,População de 35 a 39 anos,1858
+2,33,População de 30 a 34 anos,625
+2,34,Lactantes,75
+2,35,População de 25 a 29 anos,2870
+2,36,População de 20 a 24 anos,86
 2,37,População de 18 e 19 anos,16
