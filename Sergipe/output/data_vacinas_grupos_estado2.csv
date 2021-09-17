@@ -1,36 +1,36 @@
 grupo,nome_grupo,dose_unica,dose_1,dose_2
-1,Trabalhadores da Saúde,1477,78819,83451
+1,Trabalhadores da Saúde,1477,78823,83625
 2,Pessoas com 60 anos ou mais e deficientes Institucionalizados,88,759,720
 3,Índio Aldeado,0,281,276
-4,Pessoas com 80 anos e mais,45,40797,38626
-5,Pessoas de 70 a 79 anos,79,81864,87128
-6,Pessoas de 60 a 69 anos,277,143714,138126
-7,Situação de Rua,271,339,134
-8,Quilombolas,179,11624,10330
-9,Trabalhadores das forças de segurança,75,8832,7017
-14,Deficiente Permanente,97,9961,4740
-15,Comorbidades,706,123124,64879
-16,Trabalhadores da Educação,794,37080,24596
-17,Trabalhadores do sistema prisional,1,846,263
-18,Privados de liberdade,0,5430,2097
+4,Pessoas com 80 anos e mais,45,40806,38631
+5,Pessoas de 70 a 79 anos,79,81895,87170
+6,Pessoas de 60 a 69 anos,277,143791,138542
+7,Situação de Rua,271,340,148
+8,Quilombolas,179,11624,10332
+9,Trabalhadores das forças de segurança,75,8833,7049
+14,Deficiente Permanente,97,9970,4885
+15,Comorbidades,706,123165,66330
+16,Trabalhadores da Educação,794,37082,25233
+17,Trabalhadores do sistema prisional,1,846,268
+18,Privados de liberdade,0,5460,2100
 19,Trabalhadores do Transporte aéreo,1,453,148
-20,Trabalhadores da Limpeza Urbana,70,4421,2566
-21,Trabalhadores do Transporte Coletivo,56,4037,2082
-22,Caminhoneiros,89,7127,3385
-23,População de 55 a 59 anos,1086,64224,47014
-24,Trabalhadores da Educação Superior,14,4092,2036
-25,Trabalhadores da Zona Portuária,1,518,367
-26,Trabalhadores Industriais e Civil,489,18473,7334
-27,População de 50 a 54 anos,2473,80101,40469
-28,População de 45 a 49 anos,5972,89663,30974
-29,População de 40 a 44 anos,13915,98658,22577
-30,Gestantes,0,11798,3479
-31,Puerperas,2,2601,1131
-32,População de 35 a 39 anos,7169,107024,15298
-33,População de 30 a 34 anos,2209,116028,17916
-34,Lactantes,0,1888,407
-35,População de 25 a 29 anos,764,119659,9146
-36,População de 20 a 24 anos,1437,125664,4332
-37,População de 18 e 19 anos,187,52124,845
-38,População de 15 a 17 anos,0,13531,28
-39,População de 12 a 14 anos,0,6823,29
+20,Trabalhadores da Limpeza Urbana,70,4421,2636
+21,Trabalhadores do Transporte Coletivo,56,4037,2196
+22,Caminhoneiros,89,7127,3633
+23,População de 55 a 59 anos,1086,64348,51308
+24,Trabalhadores da Educação Superior,14,4092,2511
+25,Trabalhadores da Zona Portuária,1,518,373
+26,Trabalhadores Industriais e Civil,489,18474,7948
+27,População de 50 a 54 anos,2473,80292,49497
+28,População de 45 a 49 anos,5972,89929,38677
+29,População de 40 a 44 anos,13915,99011,26055
+30,Gestantes,0,11878,3666
+31,Puerperas,2,2611,1170
+32,População de 35 a 39 anos,7169,107476,16303
+33,População de 30 a 34 anos,2209,116587,19015
+34,Lactantes,0,1891,429
+35,População de 25 a 29 anos,764,120372,10251
+36,População de 20 a 24 anos,1437,126754,6255
+37,População de 18 e 19 anos,187,52858,1252
+38,População de 15 a 17 anos,0,23571,28
+39,População de 12 a 14 anos,0,9068,29
